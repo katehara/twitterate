@@ -70,7 +70,7 @@ def prepare_data(df, num_cols):
 	return df, criteria
 
 
-#testing
+# #testing
 # if __name__ == '__main__':
 # 	df = pd.DataFrame(np.random.randn(50, 4))
 # 	df.columns = list('abcd')
