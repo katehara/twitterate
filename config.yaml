@@ -1,0 +1,16 @@
+global:
+
+discrete:
+    max-groups: 10 #max_groups that can be made while discretisation
+
+ordering:
+    topn: 10 #expected no of clusters used for ordering - number of elements for manhattan distance maximisation
+
+tree:
+    min-pop: 10 #min populatin of node
+    max-child: 5 #max childern of node
+
+utility:
+
+final-partition:
+

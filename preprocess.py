@@ -57,6 +57,7 @@ def discretize(col):
 	split_criteria = get_split(round_col)	
 	return split_criteria
 
+#add configuration support
 def prepare_data(df, num_cols):
 	df = pd.DataFrame(df)
 	criteria = {}
