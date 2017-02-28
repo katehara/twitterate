@@ -1,8 +1,9 @@
-from ordering import describe_attrs
+from ordering import describe_attrs, ADO
 import pandas as pd
 
 class Node:
-    def __init__(self, data=pd.DataFrame() , children=[], level=0, parent = None):
+    def __init__(self, name='N0', data=pd.DataFrame() , children=[], level=0, parent = None):
+        self.name = name
         self.parent = parent
         self.children = children
         self.data = data
@@ -11,6 +12,13 @@ class Node:
         self.level = level
         self.partitioned_children = 0
         self.attr_desc = describe_attrs(data)
+
+    def sort_data(self):
+        self.data = ADO(self.data)
+        return
+
+    def partition(self):
+
 
     def add_child(self, node):
         self.children += [node]
@@ -24,7 +32,8 @@ class Node:
         
     def calc_part_score(self):
         pass
-        
+    
+
     def add_row(self, row):
         #pandas insert
         #update metrics
