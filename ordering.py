@@ -2,22 +2,6 @@ from collections import Counter
 import pandas as pd
 import numpy as np
 import json
-from scipy.spatial.distance import pdist, squareform
-
-#takes dataframe & returns dict of all value counts as dict
-def describe_attrs(df):
-	desc = {col:describe_attr(df[col]) for col in df}
-	return desc
-'''
-{col1: {val1:count1, val2:count2},
-col2: {val1:count1, val2:count2}}
-
-'''
-#takes one column of dataframe & returns value with counts
-def describe_attr(col):
-	col = list(col)
-	desc = {k:v for k,v in Counter(col).items()}
-	return desc
 
 def nominal_cityblock(u, v):
 	dist = 0

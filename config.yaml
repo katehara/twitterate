@@ -1,4 +1,5 @@
 global:
+    cols-used: ['']
 
 discrete:
     max-groups: 10 #max_groups that can be made while discretisation
