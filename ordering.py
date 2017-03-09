@@ -3,39 +3,40 @@ import pandas as pd
 import numpy as np
 import json
 
+# manhattan distance between two data points - nominal attribtutes (no of attributes havving different values)
 def nominal_cityblock(u, v):
 	dist = 0
 	for i in range(len(u)):
 		if u[i] != v[i]: dist +=1
 	return dist
 
+#distance matrix for data points using manhattan distance
 def manhattan_matrix(df):
-	#nested loop calculte manhattan matrix
 	data_values = df.values.tolist()
-	dist = np.zeros((len(data_values),len(data_values)))
-	for i in range(len(data_values)):
-		for j in range(i,len(data_values)):
-			dist[i][j] = dist[j][i] = nominal_cityblock(data_values[i], data_values[j])
+	dist = np.zeros((len(data_values),len(data_values))) #initialise matrixwith zeros
+	for i in range(len(data_values)): #for all data points
+		for j in range(i,len(data_values)): #for all next data point
+			dist[i][j] = dist[j][i] = nominal_cityblock(data_values[i], data_values[j]) #get distance and place in symmetrical square matrix
 	return pd.DataFrame(dist) 
 
 def find_farthest(lastn):
-	sums = lastn.sum(axis=1)
-	max_index = sums.idxmax(axis=0)
+	sums = lastn.sum(axis=1) #row with sum of distances of each point from last-n 
+	max_index = sums.idxmax(axis=0) #index of point fartest from last-n
 	return max_index
 
 def ADO(df, n):
-	manhattan = manhattan_matrix(df)
-	sums = manhattan.sum(axis=0)
-	order = list(sums.argsort()[-n:][::-1])
-	residual = manhattan.drop(order, axis=0)
-	while len(residual)>0:
-		 lastn = residual[order[-n:]]
-		 far_index = find_farthest(lastn)
-		 residual = residual.drop(far_index, axis=0)
-		 order += [far_index]
+	manhattan = manhattan_matrix(df) #get distance matrix for all datapoints
+	sums = manhattan.sum(axis=1) #row with sum of distances of each point from every other one
+	order = list(sums.argsort()[-n:][::-1]) #order of index sorted descending by sums - take last n
+	residual = manhattan.drop(order, axis=0) #drop the data points from rows which have been aken in ordered indexes
+	while len(residual)>0: #for every data point in matrix (rows)
+		lastn = residual[order[-n:]] #get last n points distances - columns
+		far_index = find_farthest(lastn) #find farthest of them all
+		residual = residual.drop(far_index, axis=0) # drop the selected one from matrix
+		order += [far_index] #add the selected on to the order
 		
-	df = df.reindex(index=order).reset_index().drop(['index'],axis=1)		
-	return df,order,manhattan
+	df = df.reindex(index=order).reset_index().drop(['index'],axis=1) #order the data frame according the ordering of indexes - reindex from 0 -> n-1 -drop the jumbled index column		
+	return df,order,manhattan #return ordered dataframe , odere of indexes , manhattan distance matrix
 
 
 # #testing
