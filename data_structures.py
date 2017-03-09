@@ -1,4 +1,5 @@
-from ordering import describe_attrs, ADO
+from ordering import ADO
+from helper import describe_attrs
 import pandas as pd
 
 class Node:

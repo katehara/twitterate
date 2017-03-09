@@ -1,15 +1,25 @@
 global:
-    cols-used: ['']
+	need-to-collect: true #collect data from mongo to csv if not done already
+	need-to-discrete: true #discretize numerical coluns if not done already
+	cols-to-be-used: [] #cols to used for clustering
+
+data: 
+	mongo-db:
+	mongo-collection: 
+	file-collection:
+	file-discrete:
+	file-iterate:
+	file-analysis:
 
 discrete:
-    max-groups: 10 #max_groups that can be made while discretisation
+	num-cols: [] #numerical cols to be discretised
+	max-groups: 10 #max_groups that can be made while discretisation
 
 ordering:
-    topn: 10 #expected no of clusters used for ordering - number of elements for manhattan distance maximisation
+	topn: 10 #expected no of clusters used for ordering - number of elements for manhattan distance maximisation
 
 tree:
-    min-pop: 10 #min populatin of node
-    max-child: 5 #max childern of node
+	min-pop: 10 #min populatin of node
 
 utility:
 
