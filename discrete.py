@@ -74,7 +74,6 @@ def prepare_data(df, num_cols, max_groups): #discretise numerical columns in the
 		}
 	return df, criteria #return resulting dataframe and discretisation criteria
 
-
 # #testing
 # if __name__ == '__main__':
 # 	df = pd.DataFrame(np.random.randn(50, 4))
@@ -82,8 +81,4 @@ def prepare_data(df, num_cols, max_groups): #discretise numerical columns in the
 # 	new_df,criteria = prepare_data(df,['a','c'])
 # 	df.to_csv('df.csv', sep=',')
 # 	new_df.to_csv('new_df.csv', sep=',')
-# 	with open('cri.txt','w') as file: file.write(json.dumps(criteria))
-
-
-
-
+# 	with open('cri.txt','w') as file: file.write(json.dumps(criteria)
