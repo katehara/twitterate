@@ -77,4 +77,4 @@ if __name__ == '__main__':
 	user_list = collect(hashtags_dict, connection_string, db_name, collection_name) # get list-of-list of features for all users
 	df = pd.DataFrame(user_list) # construct dataframe for users
 	df.columns = ['screen_name', 'u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'ver', 'hash_freq', 'avg_ret', 'avg_fav', 'source', 'sentiment']
-	df.to_csv(filename, sep=',') # save the data as csv
+	df.to_csv(filename, sep=',', index=False) # save the data as csv

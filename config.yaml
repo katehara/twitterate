@@ -1,29 +1,18 @@
-global:
-    cols-to-be-used: [] #cols to used for clustering
-
 data: 
     mongo-conn-string: 'mongodb://localhost:27017/' #connection string for mongod
     mongo-db: 'demon_india' #mongo db containing demonetisation twitter data
     mongo-collection: 'user_info' #mongo collection containing user tweets
-    file-collection: '../data/fc.csv' #file-collection results filename
+    file-collection: './data/fc.csv' #file-collection results filename
     file-discrete: './data/ds.csv' #discretisation results filename
     file-iterate: './data/cc.csv' #conceptual clustering results filename
     file-analysis: './data/ca.csv' #clusters analysis results filename
-    hashtags-dict: './data/hashtags_dict.json'
+    hashtags-dict: './data/hashtags_dict.json' #
+    criteria-dict: './data/criteria.json'
 
-preprocess:
-    num-cols: [] #numerical cols to be discretised
+parameters:
+    all-cols: []
+    cols-to-be-used: [] #cols to used for clustering
+    num-cols: ['u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'hash_freq', 'avg_ret', 'avg_fav'] #numerical cols to be discretised
     max-groups: 10 #max_groups that can be made while discretisation
-    hashtag-dict: 
-    symbol-dict: 
-
-ordering:
     topn: 10 #expected no of clusters used for ordering - number of elements for manhattan distance maximisation
-
-tree:
     min-pop: 10 #min population of node
-
-utility:
-
-final-partition:
-
