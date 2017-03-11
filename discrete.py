@@ -5,6 +5,11 @@ from numpy import *
 from operator import itemgetter
 from collections import Counter, OrderedDict
 
+def array_parse(data):
+	for i in range(len(data)):
+		data[i] = int(data[i])
+
+	return data
 
 def buckets(data, bins): #divide data into optimal #bins buckets 
 	split = np.array_split(np.sort(data), bins) #sort and array split with maximum variance between groups- at peaks
@@ -23,9 +28,14 @@ def buckets(data, bins): #divide data into optimal #bins buckets
 
 	#sum of variance within groups		
 	for i in groups:
-		variance += np.var(groups[i], ddof=1)
+		if len(groups[i]) == 1: d = 0
+		else: d= 1
+		variance += np.var(groups[i], ddof=d)
 
-	return discrete, cutoffs, variance
+	# cutoff_dict = {}
+	# for i in range(len(cutoffs)):
+	# 	cutoff_dict[i] = cutoffs[i]
+	return discrete, array_parse(cutoffs), float(variance)
 
 def get_split(col, max_groups):
 	data = col.dropna() #remove invalid values - drop NaN's
@@ -48,13 +58,17 @@ def get_split(col, max_groups):
 			found = False;
 		elif (v > possible[i-1]['v']) and (not found): # if variance more than previous one and partition not found already - this is global minima for variance within groups
 			return possible[i-1];
+
 	best_groups=0
+	
 	# if no minima was reached (variance decreasing with each more partition) - find the partition with max difference from previous partition
 	for i in range(1, max_groups): 
 		difference = -(possible[i+1]['v'] - possible[i]['v'])
 		if (difference > max_diff):
 			max_diff = difference;
 			best_groups = i+1; 
+
+	if best_groups == 0: best_groups =5
 
 	return possible[best_groups] #return best partition with - newdata, cutoffs & variance
 
@@ -80,10 +94,7 @@ if __name__ == '__main__':
 	df = pd.read_csv(input_file)
 	discrete_data, criteria = discretise(df, num_cols, max_groups) # get discrete dataframe and criteria 
 	df.to_csv(output_file, sep=',', index=False) # save the data as csv
-	# with open(dis_cri_file, 'w') as file: json.dump(criteria, file) #save criteria as json file
-	print (criteria, df)
-
-
+	with open(dis_cri_file, 'w') as file: json.dump(criteria, file) #save criteria as json file
 
 # #testing
 # if __name__ == '__main__':
