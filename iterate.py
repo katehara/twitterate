@@ -17,15 +17,16 @@ def ctree(df, n, popn):
 def extract_partition(root):
 	initial_partition= []
 	L = [root]
-	for node in L[:]:
+	while len(L)>0:
+		node = L[0]
 		smaller = 0
 		children = node.children
-		smaller = sum([1 for child in children if node.utility <= child.utility])
+		smaller = sum([1 for child in children if node.cat_utility <= child.cat_utility])
 		if smaller == 0 : 
 			initial_partition += [node]
 		else : 
 			for child in children:
-				if node.utility <= child.utility: L += [child]
+				if node.cat_utility <= child.cat_utility: L += [child]
 				else: initial_partition += [child]
 		L.remove(node)
 	intial_partition = rename_data(initial_partition)
@@ -57,13 +58,19 @@ def redistribute(initial_partition, labeled):
 if __name__ == "__main__":
 	with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
 	output_file = config['data']['file-iterate']
+	intermediate_file = config['data']['file-init-part']
 	input_file = config['data']['file-discrete']
 	cols_use = config['parameters']['cols-to-be-used']
 	topn = config['parameters']['topn']
 	popn = config['parameters']['min-pop']
 	df = pd.read_csv(input_file)
 	tree = ctree(df, topn, popn)
-	# partition, clustered_data = extract_partition(tree)
+	partition, clustered_data = extract_partition(tree)
+	clustered_data.to_csv(intermediate_file, sep=',', index=False)
+	print(clustered_data)
+	# for p in partition:
+		# print(p.data['screen_name'])
+
 	# print(clustered_data)
 	# print(tree.children[0])
 		

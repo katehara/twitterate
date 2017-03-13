@@ -17,19 +17,21 @@ def describe_attr(col):
 	desc = {k:v for k,v in Counter(col).items()}
 	return desc
 
+# rename partiotions independent of ctree heirarchy
 def rename_data(partitions):
 	i=0
 	for p in partitions:
+		print(p.name, '->' , 'N'+str(i), p.data_count)
 		p.name = 'N'+str(i)
 		i += 1
 	return partitions
 
-
+# label data according to new cluster partitions 
 def label_data(partitions, df):
 	dfs = []
 	for part in partitions:
 		pdf = part.data
-		pdf['partition'] = [part.name]
+		pdf['partition'] = part.name
 		dfs += [pdf]
 	labeled = pd.concat(dfs)
 	labeled = labeled.reset_index().drop(['index'], axis=1)
