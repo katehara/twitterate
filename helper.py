@@ -42,10 +42,13 @@ def category_match(part, dp, uni_desc, uni_len):
 	pck = sdc/pdc
 	cols = uni_desc.keys()
 	for i, col in enumerate(cols): 
-		avc = part.attr_desc[col][dp[i]]/sdc
-		av = uni_desc[col][dp[i]]/pdc
-		j = (avc*avc)-(av*av)
-		sumi += j
+		if col in cols_use:
+			if part.attr_desc[col][dp[i]] in part.attr_desc[col]: 
+				avc = part.attr_desc[col][dp[i]]/sdc
+				if uni_desc[col][dp[i]] in uni_desc[col]:
+					av = uni_desc[col][dp[i]]/pdc
+					j = (avc*avc)-(av*av)
+					sumi += j
 	cm = pck*sumi
 	return cm
 

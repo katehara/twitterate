@@ -60,7 +60,7 @@ def get_split(col, max_groups):
 			return possible[i-1];
 
 	best_groups=0
-	
+
 	# if no minima was reached (variance decreasing with each more partition) - find the partition with max difference from previous partition
 	for i in range(1, max_groups): 
 		difference = -(possible[i+1]['v'] - possible[i]['v'])

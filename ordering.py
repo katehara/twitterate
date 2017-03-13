@@ -36,7 +36,7 @@ def ADO(df, n):
 		order += [far_index] #add the selected on to the order
 		
 	df = df.reindex(index=order).reset_index().drop(['index'],axis=1) #order the data frame according the ordering of indexes - reindex from 0 -> n-1 -drop the jumbled index column		
-	return df,order,manhattan #return ordered dataframe , odere of indexes , manhattan distance matrix
+	return df#,order,manhattan #return ordered dataframe , odere of indexes , manhattan distance matrix
 
 
 # #testing

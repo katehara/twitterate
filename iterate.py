@@ -2,21 +2,21 @@ from data_structures import Node
 import pandas as pd
 import yaml
 from helper import *
-   
 
-def ctree(df):
+def ctree(df, n, popn):
 	root = Node(name = 'N0', data=df , level=0, parent = None )
 	L = [root]
-	for node in L[:]:
-		node.sort_data()
-		node.partition()
+	while len(L) > 0:
+		node = L[0]
+		node.sort_data(n)
+		node.partition(popn)
 		L += node.children
-		L.remove(node)		
+		L.remove(node)
 	return root
 
 def extract_partition(root):
 	initial_partition= []
-	var L = [root]
+	L = [root]
 	for node in L[:]:
 		smaller = 0
 		children = node.children
@@ -55,12 +55,17 @@ def redistribute(initial_partition, labeled):
 	
 			
 if __name__ == "__main__":
-with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
-output_file = config['data']['file-iterate']
-input_file = config['data']['file-discrete']
-cols_use = config['parameters']['cols-to-be-used']
-df = pd.read_csv(input_file)
-	# tree = ctree(df)
+	with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
+	output_file = config['data']['file-iterate']
+	input_file = config['data']['file-discrete']
+	cols_use = config['parameters']['cols-to-be-used']
+	topn = config['parameters']['topn']
+	popn = config['parameters']['min-pop']
+	df = pd.read_csv(input_file)
+	tree = ctree(df, topn, popn)
+	# partition, clustered_data = extract_partition(tree)
+	# print(clustered_data)
+	# print(tree.children[0])
 		
 
 	
