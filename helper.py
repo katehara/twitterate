@@ -1,6 +1,6 @@
 from collections import Counter
 import pandas as pd
-import yaml
+import yaml, copy
 
 with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
 cols_use = config['parameters']['cols-to-be-used']
@@ -21,7 +21,6 @@ def describe_attr(col):
 def rename_data(partitions):
 	i=0
 	for p in partitions:
-		print(p.name, '->' , 'N'+str(i), p.data_count)
 		p.name = 'N'+str(i)
 		i += 1
 	return partitions
@@ -37,17 +36,17 @@ def label_data(partitions, df):
 	labeled = labeled.reset_index().drop(['index'], axis=1)
 	return labeled
 
-def category_match(part, dp, uni_desc, uni_len):
+def category_match(part, dp, uni_desc, uni_len, cols):
 	sumi = 0
 	sdc = part.data_count
 	pdc = uni_len
 	pck = sdc/pdc
-	cols = uni_desc.keys()
+	# cols = uni_desc.keys()
 	for i, col in enumerate(cols): 
 		if col in cols_use:
-			if part.attr_desc[col][dp[i]] in part.attr_desc[col]: 
+			if dp[i] in part.attr_desc[col]: 
 				avc = part.attr_desc[col][dp[i]]/sdc
-				if uni_desc[col][dp[i]] in uni_desc[col]:
+				if dp[i] in uni_desc[col]:
 					av = uni_desc[col][dp[i]]/pdc
 					j = (avc*avc)-(av*av)
 					sumi += j
@@ -55,6 +54,7 @@ def category_match(part, dp, uni_desc, uni_len):
 	return cm
 
 def reconstruct(parts , df):
-	for p in parts:
+	new_parts = copy.deepcopy(parts)
+	for p in new_parts:
 		p.data = df[df['partition']==p.name]		
-	return parts
+	return new_parts

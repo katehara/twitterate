@@ -5,6 +5,8 @@ import yaml
 
 with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
 cols_use = config['parameters']['cols-to-be-used']
+topn = config['parameters']['topn']
+min_node_pop = config['parameters']['min-pop']
 
 class Node: #tree node structure for each partition
 	def __init__(self, name='N0', data=pd.DataFrame(), level=0, parent = None):
@@ -22,8 +24,10 @@ class Node: #tree node structure for each partition
 		self.part_score = None #partition score for this node - calculated after partioning
 		self.level = level #level of this node from root - root level is 0
 
-	def sort_data(self, n):
-		self.data = ADO(self.data, n) #Anchored dissimilarity ordering for data - called before partitioning
+	def sort_data(self):
+		# self.data = self.data.sort_values(by = ['u_fav'], ascending=[True])
+
+		self.data = ADO(self.data, topn) #Anchored dissimilarity ordering for data - called before partitioning
 		return
 
 	def temp_util(self, sad, sdc, vol, col): #category utility calculator for intermediate data while partioning in list-of-list format
@@ -77,8 +81,8 @@ class Node: #tree node structure for each partition
 			return children+[new_child_part]
 
 
-	def partition(self, min_node_pop): #partitionthe objects in this node into children nodes
-		if self.data_count <= min_node_pop: return #do not partition if datapoints less than min - population required
+	def partition(self): #partitionthe objects in this node into children nodes
+		# if self.data_count <= 1: return #do not partition if datapoints less than min - population required
 		temp_children = [] #container for temp children dicts
 		cols = self.data.columns.tolist() #list of column values in order to be used for metric calculatins
 		data_list = self.data.values.tolist() #convert dataframe to list-of-lists for ease of traversal and calculation
@@ -121,9 +125,9 @@ class Node: #tree node structure for each partition
 			j=0
 			for i, col in enumerate(cols):
 				if col in cols_use:
-					if sad[col][row[i]] in sad[col]: 
+					if row[i] in sad[col]: 
 						avc = sad[col][row[i]]/sdc #P(Ai==Vij | Ck)
-						if pad[col][row[i]] in pad[col]: 
+						if row[i] in pad[col]: 
 							av = pad[col][row[i]]/pdc #(P(Ai==Vij)
 							k = (avc*avc)-(av*av) #(P(Ai==Vij | Ck))^2 - (P(Ai==Vij)^2)
 							j += k #SUMj((P(Ai==Vij | Ck))^2 - (P(Ai==Vij)^2)
