@@ -36,6 +36,7 @@ def label_data(partitions, df):
 	labeled = labeled.reset_index().drop(['index'], axis=1)
 	return labeled
 
+# calculate category match - measure for redistribution of dp amonst partitions
 def category_match(part, dp, uni_desc, uni_len, cols):
 	sumi = 0
 	sdc = part.data_count
@@ -53,6 +54,7 @@ def category_match(part, dp, uni_desc, uni_len, cols):
 	cm = pck*sumi
 	return cm
 
+#reconstructing partitions from dataframe afte redistribution
 def reconstruct(parts , df):
 	new_parts = copy.deepcopy(parts)
 	for p in new_parts:

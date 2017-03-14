@@ -2,12 +2,12 @@ data:
     mongo-conn-string: 'mongodb://localhost:27017/' #connection string for mongod
     mongo-db: 'demon_india' #mongo db containing demonetisation twitter data
     mongo-collection: 'user_info' #mongo collection containing user tweets
-    file-collection: './data/fc_test.csv' #file-collection results filename
-    file-discrete: './data/ds_test.csv' #discretisation results filename
-    file-init-part: './data/ip_test.csv' # initial partition results filename
-    file-iterate: './data/cc_test.csv' #conceptual clustering results filename
+    file-collection: './data/fc.csv' #file-collection results filename
+    file-discrete: './data/ds.csv' #discretisation results filename
+    file-init-part: './data/ip.csv' # initial partition results filename
+    file-iterate: './data/cc.csv' #conceptual clustering results filename
     file-analysis: './data/ca_test.csv' #clusters analysis results filename
-    criteria-dict: './data/criteria_test.json'
+    criteria-dict: './data/criteria.json'
     hashtags-dict: './data/hashtags_dict.json' #
 
 parameters:

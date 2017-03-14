@@ -12,6 +12,7 @@ def ctree(df):
 		node.partition()
 		L += node.children
 		L.remove(node)
+		print(node.name, node.data_count, len(node.children))
 	return root
 
 def extract_partition(root):
@@ -60,15 +61,20 @@ def redistribute(initial_partition, labeled):
 	return final_partition, new_lab
 	
 def iterate():
+	print('...reading configuration')
 	with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
 	output_file = config['data']['file-iterate']
 	intermediate_file = config['data']['file-init-part']
 	input_file = config['data']['file-discrete']
 	cols_use = config['parameters']['cols-to-be-used']
-	df = pd.read_csv(input_file)
+	print('...reading data')
+	df = pd.read_csv(input_file)[:1500]
+	print('...making ctree')
 	tree = ctree(df)
+	print('...extracting partitons')
 	initial_partition, clustered_data = extract_partition(tree)
 	clustered_data.to_csv(intermediate_file, sep=',', index=False)
+	print('...refining clusters')
 	final_partition, new_clusters =	redistribute(initial_partition, clustered_data)
 	new_clusters.to_csv(output_file, sep=',', index=False)
 	
