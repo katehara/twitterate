@@ -63,10 +63,10 @@ def redistribute(initial_partition, labeled): # redistribute data to optimise cl
 	final_partition = reconstruct(initial_partition, new_lab) # reconstruct partitions accordingto new lables
 	return final_partition, new_lab # return new partitions and corresponding data 
 	
-def iterate():
+def conceptually_cluster():
 	print('...reading configuration')
 	with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
-	output_file = config['data']['file-iterate'] # final results output file
+	output_file = config['data']['file-concept-cluster'] # final results output file
 	intermediate_file = config['data']['file-init-part'] # results after initial_partiton (Part-II)
 	input_file = config['data']['file-discrete'] # input file for data
 	cols_use = config['parameters']['cols-to-be-used'] # columns tobe used for clustering
@@ -85,4 +85,4 @@ def iterate():
 	
 			
 if __name__ == "__main__":
-	iterate()
+	conceptually_cluster()
