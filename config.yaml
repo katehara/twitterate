@@ -12,7 +12,7 @@ data:
 
 parameters:
     all-cols: ['screen_name', 'u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'ver', 'hash_freq', 'avg_ret', 'avg_fav', 'source', 'sentiment']
-    cols-to-be-used: ['u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'ver', 'hash_freq', 'avg_ret', 'avg_fav', 'source', 'sentiment'] #cols to used for clustering
+    cols-to-be-used: ['u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'ver', 'hash_freq', 'avg_ret', 'avg_fav', 'source'] #cols to used for clustering
     num-cols: ['u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'hash_freq', 'avg_ret', 'avg_fav'] #numerical cols to be discretised
     max-groups: 10 #max_groups that can be made while discretisation
     topn: 10 #expected no of clusters used for ordering - number of elements for manhattan distance maximisation
