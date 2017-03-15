@@ -1,5 +1,5 @@
 screen_name,u_fol,u_fav,u_lis,u_sta,u_fri,ver,hash_freq,avg_ret,avg_fav,source,sentiment
-soma9935,0,0,0,1,2,False,0,0.0,0.0,None,0
+soma9935,0,0,0,1,2,False,0,0.0,0.0,None,5
 shubham757677,2,9,0,1,15,False,-1,0.0,3.0,Twitter Web Client,7
 BolRaghu,8,139,1,538,81,False,-1,0.05,0.4,Twitter for Android,4
 rajeshtalvar,246,7065,14,5990,120,False,563.0,33.3,0.25,TweetDeck,5
@@ -212,7 +212,7 @@ neerajsharms,182,518,5,1414,1022,False,3.7142857142857144,447.3,0.0,Twitter for 
 Amanat34133009,14,32,1,2629,55,False,128.0909090909091,97.35,0.0,Twitter for Android,6
 bajrangjoshi221,86,1342,0,456,485,False,19.8,23.2,0.0,Twitter for Android,5
 DS_Khimsar,3428,1608,4,1880,163,False,179.0,3.85,6.5,Twitter for iPhone,5
-mediaindiagroup,693,473,67,1774,1807,False,27.512820512820515,4.8,6.1,Twitter for iPhone,5
+mediaindiagroup,693,473,67,1774,1807,False,27.512820512820515,4.8,6.1,WordPress.com,5
 deepshikhagupt5,5,1,0,248,14,False,66.21428571428571,18.85,0.0,Twitter for Android,5
 gondaliya1986,508,27185,54,20521,1416,False,5.857142857142857,257.45,0.0,Twitter for iPhone,4
 hopes_asha,3,21,1,37,82,False,2.3333333333333335,108.15789473684211,0.42105263157894735,Twitter Web Client,5
@@ -232,7 +232,7 @@ VisakhaSingh10,23,2382,0,2423,241,False,39.84615384615385,10106.15,0.0,Twitter f
 insa_vinodkumar,38,45,0,1747,58,False,48.0,230.9,0.0,Twitter for Android,6
 7b13965648ce438,7,0,0,5,22,False,1.0,432.5,0.0,Twitter for Android,5
 SubrataSom7,4,20,0,1,49,False,-1,0.0,1.0,Twitter for iPhone,3
-Yo_Shobha,9,248,3,2674,61,False,0,0.0,0.0,None,0
+Yo_Shobha,9,248,3,2674,61,False,0,0.0,0.0,None,5
 BeingSAlam_,1036,595,8,12436,896,False,8.5,89.6,0.1,Twitter for Android,6
 tarunpaa,161,8669,12,4300,419,False,8.307692307692308,163.15,0.0,Twitter for iPhone,5
 Kaunra,140,28558,58,29228,14,False,16.857142857142858,143.85,0.0,Twitter for Android,4
@@ -327,7 +327,7 @@ IndiaTodayTech,6755,0,73,5055,10,True,-1,4.1,7.05,Hootsuite,4
 VisvyaMedia,256,0,108,44047,0,False,22.2,0.0,0.05,IFTTT,5
 ArticClock,265,4299,24,20311,464,False,110.25,17.0,0.25,Twitter Web Client,5
 nand_shubham,3312,4025,32,21360,306,False,31.857142857142858,58.3,0.25,Twitter for Android,5
-narutokyuubi22,192,539,11,3887,63,False,49.0,43.25,0.05,Twitter for Android,5
+narutokyuubi22,192,539,11,3887,63,False,49.0,43.25,0.05,IFTTT,5
 AmbedkarCaravan,21223,1393,124,37589,317,True,87.85714285714286,46.45,1.9,Twitter for Android,5
 SShoheb,107,8926,22,10897,52,False,1.5,56.7,0.25,Twitter for Android,5
 TahirMulla555,57,1646,6,2298,85,False,2.6666666666666665,122.35,0.0,Twitter for Android,5
@@ -468,7 +468,7 @@ manish_manisja,230,31427,32,21606,160,False,-1,47.2,0.0,Twitter for iPhone,4
 Rakeshnagpal031,10,9,0,1346,108,False,296.70588235294116,21035.8,0.0,Twitter for Android,7
 Jasveer71718596,14,2909,2,3492,195,False,274.48148148148147,1116.3,0.05,Twitter for Android,6
 FaizSiddiquiTOI,33,2,12,781,62,False,52.0,4.25,0.0,Twitter Web Client,6
-kronkareshwar,995,2306,28,23177,2321,False,-1,3.0,0.05,Facebook,5
+kronkareshwar,995,2306,28,23177,2321,False,-1,3.0,0.05,Twitter for Android,5
 defad920f38440c,2748,7652,55,383272,1598,False,399.6666666666667,14.8,0.0,Twitter for Android,5
 DigiHunk,1715,38885,715,39419,1830,False,19.2,17.25,0.0,tweethunk,5
 iadchauhan,49,111,5,3277,566,False,45.42857142857143,258.8,0.0,Twitter for Android,4
@@ -571,7 +571,7 @@ aapkipalki,80,5205,9,4552,168,False,49.833333333333336,75.35,0.0,TweetDeck,4
 sunkarn,89,915,5,2484,396,False,104.71428571428571,80.7,0.0,Twitter for Android,4
 SarojInsa41,59,180,6,6775,87,False,12.2,196.4,0.0,Twitter for Android,6
 MadhupGarg,118,211,8,1364,157,False,9.0,70.05,0.2,Twitter for Android,4
-IChiku303,792,37496,34,38860,1234,False,-1,29.4,0.1,Facebook,4
+IChiku303,792,37496,34,38860,1234,False,-1,29.4,0.1,Twitter for Android,4
 niranjanspeak,24,6,5,482,64,False,63.854166666666664,49.5,0.0,Twitter Web Client,5
 nsujoy,198,26,2,491,118,False,-1,0.0,0.05,Facebook,5
 Nehaid1,119,5806,1,6103,55,False,89.70588235294117,5407.05,0.0,Twitter for Android,6
@@ -688,7 +688,7 @@ i4u090909,1092,6807,43,39823,3830,False,11.714285714285714,25.05,0.0,Twitter for
 gsarwankar9,1,0,0,8,3,False,-1,0.0,0.0,Twitter Web Client,5
 yogeshgd37,37,0,0,3,67,False,-1,0.75,2.0,Twitter for iPhone,5
 prasadchittur,22,0,0,1,53,False,-1,0.0,0.0,Twitter for Android,5
-BhSbhavin96,8,4,0,1,46,False,0,0.0,0.0,None,0
+BhSbhavin96,8,4,0,1,46,False,0,0.0,0.0,None,5
 deepchand77,1492,4272,58,390553,13,False,389.14285714285717,50.45,0.0,Twitter for Android,6
 i_marwadi,617,6574,13,18303,101,False,136.77777777777777,24.65,0.9,Twitter for Android,4
 MamtaIn39812813,7,2146,0,2294,32,False,349.875,8.75,0.0,Twitter for Android,6
@@ -823,7 +823,7 @@ secl_cil,334,17,4,509,92,False,78.66666666666667,115.2,0.05,Twitter Web Client,5
 Sandeep11961284,3,103,0,3700,7,False,407.0,5.25,0.0,Twitter for Android,6
 sunnyrana_007,8,929,0,3157,20,False,41.470588235294116,182.9,0.0,Twitter for Android,5
 MishraVn,341,726,8,2056,182,False,22.0,2.55,2.55,Twitter for iPhone,5
-Maitreyeedreams,63,25,1,403,57,False,14.1,37.45,0.1,Twitter for iPhone,5
+Maitreyeedreams,63,25,1,403,57,False,14.1,37.45,0.1,Instagram,5
 Shehzad_Ind,51359,19361,136,33003,1754,True,45.142857142857146,34.2,6.6,Twitter for iPhone,5
 writetosourabh,7,0,0,6,89,False,3.25,93.35,0.5,Twitter for Windows Phone,6
 ScorpionKasana,134,11082,33,14497,87,False,3.0,98.7,0.0,Twitter for Android,5
@@ -950,7 +950,7 @@ pranav467522,1100,6977,6,28578,96,False,407.3888888888889,91.05,0.0,Twitter for 
 howzzattt,108,13,0,1033,231,False,43.666666666666664,29.65,0.65,Twitter Web Client,5
 Pankajk38632530,0,1,0,8,36,False,18.0,0.0,0.0,Twitter for Android,5
 _vrns,59,2632,21,7636,490,False,5.0,0.0,0.0,Twitter Web Client,5
-maksai,37,398,7,948,95,False,0,0.0,0.0,None,0
+maksai,37,398,7,948,95,False,0,0.0,0.0,None,5
 Sukhdarshan77,623,2212,0,6512,28,False,136.1875,3349.55,0.0,Twitter Web Client,7
 AmrikInsan1,369,6258,2,23317,66,False,121.8,3480.35,0.0,Twitter for Android,7
 1ee1c9c2d167487,132,1058,4,20718,154,False,291.92857142857144,2949.7,0.0,Twitter for Android,5
@@ -1321,7 +1321,7 @@ yogesverma85gma,998,3877,11,10674,1820,False,45.75,135.35,0.0,Twitter for Androi
 IndiaNext_One,1,2,0,6,12,False,-1,0.0,0.0,Twitter Web Client,4
 Gsbrar87,6,6,0,1,89,False,42.0,52.0,0.0,Twitter for Android,5
 Shruti4895,1,0,0,1,20,False,-1,0.0,0.0,Mobile Web (M5),6
-iarunsb,1904,19115,131,58825,684,False,0,0.0,0.0,None,0
+iarunsb,1904,19115,131,58825,684,False,0,0.0,0.0,None,5
 HarshilGujarati,1072,33102,80,77462,164,False,482.73333333333335,55.85,0.45,TweetCaster for Android,4
 The_Sailor_Men,314,7428,9,6350,220,False,500.45454545454544,37.25,0.0,TweetDeck,5
 realaapian,378,9095,13,8922,325,False,469.8,45.9,0.15,TweetDeck,4
@@ -1647,7 +1647,7 @@ subramanya109,254,1464,9,8007,196,False,26.5,244.4,0.0,Twitter for Android,5
 vm54733,73,5425,76,5351,395,False,16.083333333333332,15.9,0.1,Twitter for Android,5
 iamKavithaRao,4690,10,57,6680,36,False,20.464285714285715,5.75,15.75,Twitter for iPhone,5
 tkd02195,1,0,0,5,17,False,-1,0.0,0.2,Twitter Web Client,6
-LucyPurdon,677,376,35,2553,733,False,22.4,76.15,1.15,Twitter Web Client,5
+LucyPurdon,677,376,35,2553,733,False,22.4,76.15,1.15,Twitter for iPhone,5
 sunilmahant,896,251,2,1576,3327,False,-1,0.0,0.0,Facebook,5
 islamul9393,5,49,0,20,126,False,4.25,135.05,0.2,Twitter for Android,4
 rrorthop,1350,146,26,12411,501,False,25.0,0.05,0.1,Twitter for Android,5
@@ -1790,7 +1790,7 @@ andytoronto,5163,5873,3475,137386,276,False,9.5,19.55,0.0,Twitter for iPhone,5
 McKinseySociety,35407,18,1301,5308,439,False,2.142857142857143,3.85,3.25,Hootsuite,5
 gold_tracker,16301,1002,411,64570,17766,False,8.352941176470589,3.05,0.15,Hootsuite,4
 StarFizz_,80,846,7,960,338,False,16.942857142857143,35.35,0.25,Twitter Web Client,5
-pgnewdelhi,192,279,9,7525,662,False,3.0,31.7,0.25,Crowdfire - Go Big,4
+pgnewdelhi,192,279,9,7525,662,False,3.0,31.7,0.25,Twitter for Android,4
 simplyswatiiiii,889,4320,9,6791,485,False,53.90909090909091,79.85,0.4,Twitter for Android,5
 hashludhiana,523,88,33,3249,574,False,69.5,0.1,0.05,IFTTT,4
 mohankurupchit1,3,4,0,16,93,False,-1,161.85,0.0,Twitter for Android,5
@@ -1827,7 +1827,7 @@ ngarg10,0,0,0,2,5,False,-1,0.0,0.0,Twitter Web Client,6
 Radiant_Cons,70,1,0,3,597,False,-1,0.6666666666666666,0.6666666666666666,Twitter for Android,6
 arunkr_2801,0,0,0,2,91,False,-1,0.0,0.0,Twitter for Android,6
 hargovinddhaka2,0,0,0,1,0,False,-1,0.0,0.0,Mobile Web (M2),5
-alokgupt011,12,0,0,8,9,False,0,0.0,0.0,None,0
+alokgupt011,12,0,0,8,9,False,0,0.0,0.0,None,5
 swetlanakorni,1225,19195,23,23827,368,False,-1,168.9,0.35,Twitter for Android,5
 VCPAREEK,1606,6426,37,47920,2283,False,64.66666666666667,450.15,0.2,Twitter for Android,5
 manugurumanohar,345,2434,4,1077,1240,False,3.8333333333333335,74.7,0.2,Twitter for Android,6
@@ -2010,7 +2010,7 @@ agmswami,1773,1075,62,2934,84,False,9.461538461538462,99.3,15.75,Twitter for And
 sshenolikar,254,132,1,745,562,False,5.25,1834.6842105263158,0.7894736842105263,Twitter for Android,6
 ashishvr1,381,12877,106,40354,2238,False,41.25,492.0,0.0,Twitter for Android,4
 sumiteram,0,0,0,3,0,False,-1,0.0,0.0,Twitter Web Client,5
-watchlatestnews,8,0,1,122693,0,False,-1,0.0,0.0,Watchnews,4
+watchlatestnews,8,0,1,122693,0,False,-1,0.0,0.0,WordPress.com,4
 aimsmmt,228,15084,7,5543,315,False,73.25,261.5,0.0,Twitter Web Client,4
 Bhatt_Vishal,1433,2629,123,10773,482,False,6.5,254.35,0.55,Twitter Web Client,5
 HugOfPeace,727,122,40,19995,241,False,27.0,0.2,0.25,Twitter for iPhone,5
@@ -2055,7 +2055,7 @@ saileshpandey,93,2789,1,3225,248,False,79.0,561.95,0.0,Twitter for iPhone,5
 TheRITUS,6001,13259,113,52641,249,False,38.5,28.1,1.3,Twitter for iPhone,5
 talk2ahmad9295,0,72,1,3171,220,False,5.5,94.95,0.0,Twitter for iPhone,4
 Manan_SRKian,284,2184,15,9953,263,False,46.0,285.36842105263156,0.0,Twitter for Android,6
-WarandeVarande,20,41,0,5,102,False,-1,662.0,0.4,Mobile Web (M2),5
+WarandeVarande,20,41,0,5,102,False,-1,662.0,0.4,Twitter for Android,5
 ramavenu,1779,4354,292,25606,1947,False,30.77777777777778,457.25,0.0,Twitter for Android,5
 DJSiri,6806,144464,327,291279,7409,False,1.5,1922.55,0.05,Twitter for iPad,4
 Ramkumar7860Ram,153,26079,15,22282,248,False,15.0,138.65,0.0,Twitter for iPhone,5
@@ -2514,7 +2514,7 @@ gurukul01,2,1,0,13,37,False,1.6666666666666667,0.125,0.0625,Twitter Web Client,5
 Ankit_Raj_27,11,1,0,4,51,False,-1,0.0,0.0,Twitter for Android,4
 8962443971,0,0,0,5,2,False,5.0,1203.4285714285713,0.0,Twitter for Android,5
 Schuttenrituraj,0,0,0,1,3,False,-1,0.0,0.0,Twitter for iPhone,2
-RatnakarKullari,4,1,0,6,35,False,0,0.0,0.0,None,0
+RatnakarKullari,4,1,0,6,35,False,0,0.0,0.0,None,5
 IndiaPran,1793,35902,65,74269,1627,False,8.333333333333334,399.1,0.0,Twitter for iPhone,3
 nickatomtiwari1,269,25,1,220,843,False,-1,0.0,0.0,Twitter for iPhone,6
 1219Kum,6,29,0,310,35,False,4.0,0.0,0.05,Twitter for iPhone,4
@@ -3302,7 +3302,7 @@ journalistreyaz,1491,4111,132,27413,972,False,19.333333333333332,62.65,0.7,Twitt
 juneja44,1035,1341,36,78722,233,False,120.66666666666667,11321.8,0.45,Twitter for Android,7
 iwanpranoto,19561,2315,202,161288,1516,False,49.0,139.6,0.15,Twitter for Android,5
 nancy77480407,38,1249,0,1062,72,False,199.95,18380.25,0.4,Twitter for Android,6
-bjpkamal,2294,17645,129,87646,354,False,76.14285714285714,96.45,0.0,Facebook,4
+bjpkamal,2294,17645,129,87646,354,False,76.14285714285714,96.45,0.0,Twitter for Android,4
 aks_iitr,4,12,0,15,27,False,-1,0.0,0.2631578947368421,Twitter Web Client,7
 MonaInsan12,207,3967,4,11618,19,False,127.06666666666666,10734.4,0.0,Twitter for Android,5
 Hvkaur89,916,15353,74,55296,239,False,108.77777777777777,6781.55,0.1,Twitter for Android,7
@@ -3339,7 +3339,7 @@ Khan15675111,2,61,0,21,50,False,3.0,1.55,0.0,Twitter for Android,5
 Harjindersi,10,121,0,60,96,False,3.6666666666666665,832.45,0.1,Twitter for Android,5
 RajkrisMenon,1183,13016,65,18019,2310,False,50.75,47.95,0.0,Twitter Web Client,5
 Mohanac23448078,7,253,2,3750,28,False,7.0,106.65,0.15,Twitter for Android,4
-yumjaoleima,1651,14767,82,80662,596,False,-1,65.35,0.15,Twitter Web Client,5
+yumjaoleima,1651,14767,82,80662,596,False,-1,65.35,0.15,Twitter for iPhone,5
 TheDeccanHerald,13338,57,405,90814,127,True,34.43589743589744,0.6,0.3,Twitter Web Client,4
 haroonsheikh786,826,214680,175,144645,116,False,88.25,36.0,0.2,Twitter for Android,6
 thebakwaashour,9425,10581,89,23338,240,False,66.5,9.8,4.15,Twitter for Android,5
@@ -3482,7 +3482,7 @@ Sureshrathi20,15,0,0,1,93,False,171.0,0.0,0.0,Twitter for Android,7
 avanish15792,5,0,0,4,92,False,171.0,188.25,0.0,Twitter for Android,5
 mandeepinsan8,79,430,0,1491,412,False,-1,0.0,0.0,Twitter for Android,5
 tapaskumar2,2,0,0,1,28,False,1.0,0.0,0.0,Twitter Web Client,3
-RAJIV70354291,0,0,0,1,0,False,0,0.0,0.0,None,0
+RAJIV70354291,0,0,0,1,0,False,0,0.0,0.0,None,5
 rssurjewala,149531,12,129,1840,77,True,29.555555555555557,169.7,259.75,Twitter for iPhone,4
 sujitkumar5555,370,9956,31,14907,632,False,19.5,45.5,0.0,Twitter for Android,5
 raja1260,301,10453,66,45515,502,False,4.5,32.25,0.0,Twitter for Android,5
@@ -4617,7 +4617,7 @@ STPIGANDHINAGAR,351,2314,24,627,42,False,59.45454545454545,68.05,7.7,Twitter for
 NarendraVashist,906,8438,14,11115,1447,False,31.25,567.6,0.45,Twitter for Android,4
 _gaurav,2375,9738,42,48813,1812,False,3.0,160.4,0.0,Twitter for iPhone,4
 bharani7295,165,3359,4,2773,907,False,11.142857142857142,2.7,0.85,Twitter for Android,5
-agarwalholidays,210,28,4,126,239,False,77.0,0.0,0.1,Facebook,5
+agarwalholidays,210,28,4,126,239,False,77.0,0.0,0.1,Twitter for Android,5
 EAGCOPS,1625,13243,954,9941,2104,False,11.846153846153847,3.0,0.0,dougsapp123!@#,6
 valerie198,1691,1796,86,3812,3070,False,28.5,46.8,0.05,Twitter Web Client,5
 ibhaav,80533,508,45,2129,11599,False,22.666666666666668,46.35,0.2,Twitter for Android,5
@@ -4766,7 +4766,7 @@ news7tamil,100795,41,243,44422,372,False,33.333333333333336,19.0,55.4,Twitter We
 TheSuman,177,41,5,9591,59,False,55.666666666666664,327.15,0.1,Twitter Web Client,4
 vmission,2641,175,4,1123,147,False,-1,0.65,1.15,Twitter Web Client,5
 MarathaBaan,84,10541,45,12385,605,False,31.666666666666668,522.2,0.0,Twitter for Android,5
-Navrang,14496,431,176,67156,5195,False,36.25,194.75,1.35,Facebook,6
+Navrang,14496,431,176,67156,5195,False,36.25,194.75,1.35,Twitter for Android,6
 vbhardwaj27,67,449,2,4224,58,False,1.0,0.0,0.0,Facebook,5
 javedmansuri_,348,163,6,2648,265,False,6.111111111111111,43.2,0.25,Twitter for Android,5
 karthikiyerks,236,491,32,484,824,False,28.0,272.95,1.3,Twitter for Android,5
@@ -5052,7 +5052,7 @@ LuisOliverio,530,6145,12,19714,304,False,1.0,168.85,1.1,Tweetings for Android,4
 MartinGuayOTT,664,3879,223,18566,1592,False,12.88888888888889,0.0,0.05,IFTTT,6
 MidnightHourSho,857,6,12,7194,1929,False,-1,0.0,0.05,Airtime Pro,6
 Ash_Mak_13,1,62,0,26,12,False,3.1666666666666665,22.7,0.0,Twitter for Android,5
-praveenpnd26,12,92,1,752,20,False,5.0,152.45,0.0,TweetDeck,5
+praveenpnd26,12,92,1,752,20,False,5.0,152.45,0.0,Twitter for Android,5
 maheshpavan7,618,96,19,5842,2831,False,-1,1.55,0.55,Twitter for Android,4
 GamesPlayOnline,85,38,96,11385,35,False,71.3125,0.0,0.25,IFTTT,5
 abhi2rai,113,28,16,2253,262,False,15.956521739130435,5987.7,0.0,Fenix for Android,5
@@ -5094,7 +5094,7 @@ slideme_news,12,17,11,8732,0,False,-1,0.0,0.05,dlvr.it,6
 CosiAds,7,15,10,9320,1,False,-1,0.0,0.0,dlvr.it,6
 JoeLikesAndroid,579,0,89,224226,58,False,20.0,0.0,0.0,dlvr.it,5
 bloggerg,3186,49,716,87856,1426,False,20.954545454545453,1.3,0.1,dlvr.it,5
-Kbit_co,23,5,7,16976,31,False,-1,0.0,0.0,Facebook,5
+Kbit_co,23,5,7,16976,31,False,-1,0.0,0.0,dlvr.it,5
 SpeedyBrus,4465,118,93,9326,2958,False,26.5,0.35,0.15,dlvr.it,5
 AndroidINForum,653,1,276,123620,0,False,224.0,0.0,0.15,dlvr.it,5
 gracecharles86,70,2,24,50263,67,False,-1,0.0,0.0,dlvr.it,5
@@ -5244,7 +5244,7 @@ timmaughan,6458,21914,436,119928,2265,True,-1,598.5,58.75,Twitter for iPhone,4
 mayurvin,534,501,19,4267,2281,False,124.71428571428571,77.8,0.15,Twitter for Android,5
 tvrkishore,132,4113,4,1876,305,False,97.0,446.95,0.0,Twitter for iPhone,4
 Spanishcountry,538,20,89,131824,818,False,-1,0.05,0.0,Twitter Web Client,3
-ashwinkk,709,751,22,18466,258,False,50.5,110.2,0.5,Twitter Web Client,5
+ashwinkk,709,751,22,18466,258,False,50.5,110.2,0.5,Twitter for iPhone,5
 SSSharma11111,96,2769,27,25446,95,False,5.0,276.2,0.0,Twitter Web Client,5
 ashwani_ksinha,312,10218,24,11169,1438,False,83.5,327.95,0.05,Twitter for Android,4
 gjha88,1173,416,8,2656,101,False,68.25,167.25,0.2,Twitter for Android,5
@@ -6110,7 +6110,7 @@ BhavinMaster1,170,175,5,1427,179,False,-1,2.6,0.3,Twitter for iPhone,5
 nishums123,160,7181,15,7249,32,False,1.0769230769230769,72.5,0.0,Twitter for Android,6
 ajugiripooja,21,18,0,128,243,False,55.857142857142854,332.55,0.15,Twitter for iPhone,6
 sidbhavsar10,12,7,0,18,129,False,281.5,0.25,0.35,Twitter Web Client,6
-myself_RABI,795,9302,64,19081,347,False,57.25,8.9,0.1,Tweet Jukebox,6
+myself_RABI,795,9302,64,19081,347,False,57.25,8.9,0.1,Twitter for Android,6
 satishsudhakar,286,7031,22,23408,83,False,2.5,877.7,0.15,Twitter for Android,6
 nesoron,3906,28851,168,149824,509,False,69.28571428571429,25.7,0.6,Twitter for iPhone,4
 shamsundar_sk,5258,6768,117,13117,2726,False,54.666666666666664,11.15,1.15,Twitter for Android,5
@@ -6293,7 +6293,7 @@ modinewstn,75,1826,6,537,274,False,21.666666666666668,116.26315789473684,0.0,Twi
 akulapradeep,58,1,1,130,91,False,-1,0.0,0.1,Facebook,4
 Brij9879977494,0,8,0,5,16,False,46.0,2156.6666666666665,0.0,Twitter for Android,7
 kadiyalamadhu,15,50,5,628,143,False,48.5,1121.0,0.0,Twitter for Android,5
-KazGriki,1726,1164,226,7668,1622,False,17.75,3.25,0.05,Buffer,6
+KazGriki,1726,1164,226,7668,1622,False,17.75,3.25,0.05,Twitter for Android,6
 singhankit0991,147,6214,7,2821,129,False,22.666666666666668,1415.5,0.0,Twitter for Android,5
 dinesh_chawla,13,1379,0,498,24,False,284.0,8.7,2.1,Twitter for Android,5
 dharmaraju_15,6,62,0,36,48,False,1.0,14.15,0.1,Twitter for Android,5

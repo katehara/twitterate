@@ -41,17 +41,18 @@ def category_match(part, dp, uni_desc, uni_len, cols):
 	sumi = 0
 	sdc = part.data_count
 	pdc = uni_len
-	pck = sdc/pdc
+	pck = sdc/pdc #P(Ck)
 	# cols = uni_desc.keys()
 	for i, col in enumerate(cols): 
 		if col in cols_use:
 			if dp[i] in part.attr_desc[col]: 
-				avc = part.attr_desc[col][dp[i]]/sdc
+				avc = part.attr_desc[col][dp[i]]/sdc #P(Ai==Vij | Ck)
 				if dp[i] in uni_desc[col]:
-					av = uni_desc[col][dp[i]]/pdc
-					j = (avc*avc)-(av*av)
-					sumi += j
-	cm = pck*sumi
+					av = uni_desc[col][dp[i]]/pdc #(P(Ai==Vij)
+					j = (avc*avc)-(av*av) #(P(Ai==Vij | Ck))^2 - (P(Ai==Vij)^2)
+					sumi += j #SUMj((P(Ai==Vij | Ck))^2 - (P(Ai==Vij)^2)
+
+	cm = pck*sumi # P(Ck) * SUMj((P(Ai==Vij | Ck))^2 - (P(Ai==Vij)^2)
 	return cm
 
 #reconstructing partitions from dataframe afte redistribution

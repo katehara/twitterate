@@ -19,13 +19,13 @@ def metrics(twee, hashtags_dict): # calculae user features from its tweets
 	sid = SentimentIntensityAnalyzer() # Vader-lexicon-sentiment-analyser
 	#initialise metrics & counts for aggregation 
 	tweets = len(twee)
-	if tweets == 0: return (0,0,0,'None',0) #return none/0 for users with no tweets
+	if tweets == 0: return (0,0,0,'None',5) #return none/0 for users with no tweets
 	hash_count = 0
 	hash_sum = 0
 	retweets = 0
 	favorites = 0
 	sources = []
-	sentiment = 0	
+	sentiment = 0
 	for t in twee: #for all tweets - calculate sum of frequencies of all hashtags of a user
 		h = t['entities']['hashtags']
 		for ht in h:

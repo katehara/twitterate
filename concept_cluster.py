@@ -8,7 +8,7 @@ from helper import *
 def ctree(df): # build herarchial classification tree for data
 	root = Node(name = 'N0', data=df , level=0, parent = None ) # root node named-N0, on level=0
 	L = [root] #L = List of nodes to be partitioned - initialised with root
-	while len(L) > 0: #till all nodes are partitioned to the leaf
+	while len(L) > 0: # loop till all nodes are partitioned to the leaf
 		node = L[0] # node to be partitioned - first element in list
 		node.sort_data() # sort data in the node - criteria defined in sort_data funtion of Node class
 		node.partition() # partition the node into its children
@@ -25,7 +25,7 @@ def extract_partition(root): # extract cluster nodes from the tree by traversing
 		node = L[0] 
 		smaller = 0
 		children = node.children # get children of node
- 		smaller = sum([1 for child in children if node.cat_utility <= child.cat_utility]) # count no of children having utility more than self
+		smaller = sum([1 for child in children if node.cat_utility <= child.cat_utility]) # count no of children having utility more than self
 		if smaller == 0: # if node utility more than all if its children    ---[or node.data_count < 15: #to control no of nodes & avoid overfitting]
 			initial_partition += [node] # this node is an initial partition
 		else : # if node utility less than one or more of its children nodes
@@ -33,10 +33,7 @@ def extract_partition(root): # extract cluster nodes from the tree by traversing
 				if node.cat_utility <= child.cat_utility: L += [child] # if node utility less than this child - add this child to list for futher traversal
 				else: initial_partition += [child] # if node utility more than this child - this child is an initial partition
 		L.remove(node) # remove current node from list of traversal
-
-	intial_partition = rename_data(initial_partition) # rename initial partion to sequential names rather than heirarchial ones for readability
-	labeled = label_data(initial_partition, root.data) # label the data according to new partition names
-	return intial_partition, labeled # return partitions and new data
+	return initial_partition 
 	
 #Part - III
 def redistribute(initial_partition, labeled): # redistribute data to optimise clusters
@@ -71,17 +68,31 @@ def conceptually_cluster():
 	input_file = config['data']['file-discrete'] # input file for data
 	cols_use = config['parameters']['cols-to-be-used'] # columns tobe used for clustering
 	print('...reading data') 
-	df = pd.read_csv(input_file)[:1500] # read data into dataframe
+	df = pd.read_csv(input_file)[:3000] # read data into dataframe
 	print('...making ctree')
 	tree = ctree(df) # get classification tree (Part-I)
 	print('...extracting partitons')
-	initial_partition, clustered_data = extract_partition(tree) # get initial partitions (Part-II)
+	initial_partition = extract_partition(tree) # get initial partitions (Part-II)
+	while len(initial_partition) < 9 :
+		max_p = initial_partition[0]
+		max_size = initial_partition[0].data_count
+		for p in initial_partition:
+			if p.data_count > max_size: 
+				max_p = p
+				max_size = p.data_count
+
+		initial_partition.remove(max_p)
+		initial_partition += max_p.children
+
+
+	intial_partition = rename_data(initial_partition) # rename initial partion to sequential names rather than heirarchial ones for readability
+	clustered_data = label_data(initial_partition, tree.data) # label the data according to new partition names
+
 	# TO DO: code to make moreclusters if required
 	clustered_data.to_csv(intermediate_file, sep=',', index=False) # write initial partitions to file
 	print('...refining clusters')
 	final_partition, new_clusters =	redistribute(initial_partition, clustered_data) # redistribute data into partitions(Part-III)
 	new_clusters.to_csv(output_file, sep=',', index=False) #write final results to file
-	print('.... done clustering into %d clusters'.format(len(final_partition)))
 	
 			
 if __name__ == "__main__":
