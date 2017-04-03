@@ -23,7 +23,7 @@ def analyse(): # find P_score for all files given as sys.args
 				parts += [Node(gr[0], gr[1], 1, root)] # make nodes - for category utility
 
 			ps = sum(p.cat_utility for p in parts)/len(parts) # calulate P_score for the partition
-			print(file + '\t ' + str(ps) ) # give results
+			print(file + '\t ' + str(ps) + '\t ' + str(len(parts))) # give results
 	return
 
 if __name__ == "__main__":

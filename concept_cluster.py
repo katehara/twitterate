@@ -73,7 +73,7 @@ def conceptually_cluster():
 	tree = ctree(df) # get classification tree (Part-I)
 	print('...extracting partitons')
 	initial_partition = extract_partition(tree) # get initial partitions (Part-II)
-	while len(initial_partition) < 9 :
+	while len(initial_partition) < 10 :
 		max_p = initial_partition[0]
 		max_size = initial_partition[0].data_count
 		for p in initial_partition:
