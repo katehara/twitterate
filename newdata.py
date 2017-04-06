@@ -1,17 +1,25 @@
 # get users screenname
 # get their new data from twitter
+# make new hashtags dict
 # extract features
 # discretise
 import yaml, json, tweepy
 
 def apiTwitter():
+	with open('config.yaml') as file: conf = yaml.load(file)
+	settings = conf['settings']
+	consumer_key = settings['ck']
+	consumer_secret = settings['cs']
+	access_token = settings['at']
+	access_token_secret = settings['ats']
 	# authorize tweepy instance using twitter tokens and return api reference
 	print('connecting to stream...')
 	auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 	auth.set_access_token(access_token, access_token_secret)
 	return tweepy.API(auth, wait_on_rate_limit=True,parser=tweepy.parsers.JSONParser())
 
-def get_user_data():
+def get_user_data(api, user):
+
 
    
 

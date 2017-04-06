@@ -68,12 +68,12 @@ def conceptually_cluster():
 	input_file = config['data']['file-discrete'] # input file for data
 	cols_use = config['parameters']['cols-to-be-used'] # columns tobe used for clustering
 	print('...reading data') 
-	df = pd.read_csv(input_file)[:3000] # read data into dataframe
+	df = pd.read_csv(input_file) # read data into dataframe
 	print('...making ctree')
 	tree = ctree(df) # get classification tree (Part-I)
 	print('...extracting partitons')
 	initial_partition = extract_partition(tree) # get initial partitions (Part-II)
-	while len(initial_partition) < 10 :
+	while len(initial_partition) < 5 :
 		max_p = initial_partition[0]
 		max_size = initial_partition[0].data_count
 		for p in initial_partition:
