@@ -1,80 +1,80 @@
 screen_name,u_fol,u_fav,u_lis,u_sta,u_fri,ver,hash_freq,avg_ret,avg_fav,source,sentiment,partition
-Shivkum64225738,0,0,0,0,0,False,0,4,0,Mobile Web (M2),8,N0
-nehajkale,0,0,0,0,1,False,1,4,0,Twitter for iPhone,8,N0
-Vishal94040035,0,0,0,0,0,False,6,1,0,Mobile Web (M2),3,N0
-suryanraju,1,3,1,1,3,False,8,2,4,Mobile Web (M5),3,N0
-CMPFOIndia,2,0,3,2,0,True,9,2,0,Twitter for Android,5,N0
-SiddiquiTayiab,0,1,0,0,1,False,1,3,0,Twitter for Android,5,N0
-AnitaYa05853817,1,3,2,2,2,False,5,2,5,Twitter for Android,7,N0
-LeahHardingAJE,3,2,3,2,3,True,2,1,5,Twitter Web Client,6,N0
-sachinsuthar19,2,4,2,3,1,False,9,3,5,sachinsuthar19,4,N0
-lalittiwari744,2,3,1,1,3,False,8,2,5,Twitter for Android,5,N0
-BajajHansal,2,4,2,3,1,False,9,1,4,TweetDeck,4,N0
-yourzRajesh,1,1,1,1,4,False,7,3,3,Twitter Web Client,5,N0
+Shivkum64225738,0,0,0,0,0,False,0,4,0,Mobile Web (M2),8,N2
+nehajkale,0,0,0,0,1,False,1,4,0,Twitter for iPhone,8,N2
+Vishal94040035,0,0,0,0,0,False,6,1,0,Mobile Web (M2),3,N2
+suryanraju,1,3,1,1,3,False,8,2,4,Mobile Web (M5),3,N1
+CMPFOIndia,2,0,3,2,0,True,9,2,0,Twitter for Android,5,N2
+SiddiquiTayiab,0,1,0,0,1,False,1,3,0,Twitter for Android,5,N2
+AnitaYa05853817,1,3,2,2,2,False,5,2,5,Twitter for Android,7,N5
+LeahHardingAJE,3,2,3,2,3,True,2,1,5,Twitter Web Client,6,N3
+sachinsuthar19,2,4,2,3,1,False,9,3,5,sachinsuthar19,4,N5
+lalittiwari744,2,3,1,1,3,False,8,2,5,Twitter for Android,5,N1
+BajajHansal,2,4,2,3,1,False,9,1,4,TweetDeck,4,N5
+yourzRajesh,1,1,1,1,4,False,7,3,3,Twitter Web Client,5,N1
 KotakBankLtd,4,2,4,4,4,True,0,0,3,OneDirect Suite,6,N0
 mid_day,4,1,4,4,0,True,4,0,6,Hootsuite,4,N0
 timmaughan,4,4,4,4,4,True,0,4,6,Twitter for iPhone,4,N0
 Shanktan,4,2,3,3,3,True,3,3,6,Statusbrew,7,N0
-indiacause,3,0,3,4,0,False,6,0,3,Facebook,4,N0
+indiacause,3,0,3,4,0,False,6,0,3,Facebook,4,N3
 SadhguruJV,4,0,4,2,0,True,4,4,6,Hootsuite,6,N0
-ScramCard,1,1,4,0,2,False,6,1,6,HubSpot,5,N0
+ScramCard,1,1,4,0,2,False,6,1,6,HubSpot,5,N2
 shaileshraanjan,4,3,2,3,4,False,3,2,0,Twitter for iPhone,6,N0
 ITMassLiteracy,4,2,3,1,3,True,9,2,5,Google,5,N0
-JAGDISHGUPTA5,3,4,2,3,4,False,8,3,0,Mobile Web (M5),4,N0
-adyalwaysrocks,2,4,2,3,2,False,7,4,3,Twitter for Android,5,N0
-haroonsheikh786,3,4,4,4,1,False,8,1,4,Twitter for Android,6,N0
+JAGDISHGUPTA5,3,4,2,3,4,False,8,3,0,Mobile Web (M5),4,N3
+adyalwaysrocks,2,4,2,3,2,False,7,4,3,Twitter for Android,5,N5
+haroonsheikh786,3,4,4,4,1,False,8,1,4,Twitter for Android,6,N3
 free_thinker,4,1,3,2,3,False,1,1,6,TweetDeck,2,N0
 PeninsulaQatar,4,1,4,4,1,True,2,0,4,Twitter Web Client,3,N0
-BjpForBihar,4,0,0,1,3,False,0,0,6,Trendveer,3,N0
+BjpForBihar,4,0,0,1,3,False,0,0,6,Trendveer,3,N2
 ironSource,4,3,4,2,4,True,4,0,5,Oktopost,5,N0
 IamRohitVadgama,4,2,1,1,0,False,3,1,6,Mobile Web (M2),7,N0
-Studio4News,3,0,3,4,3,False,6,0,3,dlvr.it,4,N0
+Studio4News,3,0,3,4,3,False,6,0,3,dlvr.it,4,N3
 akshaykumar,4,1,4,2,0,True,5,4,6,Twitter for iPhone,7,N0
 rameshsrivats,4,0,4,3,2,True,6,3,6,Twitter Web Client,6,N0
 rjvlala,2,2,4,4,4,False,6,2,0,Twitter for iPhone,5,N0
 BJP4JnK,4,1,3,3,1,True,7,4,5,TweetDeck,5,N0
 cancimmuno,4,3,2,3,4,False,4,2,5,Twitter Web Client,4,N0
-9U9Gcg69l7kuu4k,3,4,4,4,1,False,8,3,3,Twitter for Android,4,N0
-dsoni7214,3,4,4,4,0,False,5,4,4,Twitter for Android,6,N0
+9U9Gcg69l7kuu4k,3,4,4,4,1,False,8,3,3,Twitter for Android,4,N3
+dsoni7214,3,4,4,4,0,False,5,4,4,Twitter for Android,6,N3
 PRupala,4,2,3,1,2,True,4,1,6,Twitter for iPhone,6,N0
 UIDAI,4,1,3,2,0,True,0,0,0,Germin8 App,5,N0
-FreedomWorldMag,4,0,0,0,4,False,0,0,3,Twitter Web Client,4,N0
+FreedomWorldMag,4,0,0,0,4,False,0,0,3,Twitter Web Client,4,N2
 nytimesworld,4,3,4,4,3,True,3,1,6,SocialFlow,3,N0
 MSGFansClub,4,3,1,3,0,False,9,4,6,Twitter for BlackBerry,7,N0
-mitulmakadia,3,2,4,2,3,False,7,3,6,Statusbrew,6,N0
+mitulmakadia,3,2,4,2,3,False,7,3,6,Statusbrew,6,N3
 Fromroshan,2,4,4,4,2,False,1,1,3,Twitter for iPhone,5,N0
 rssorg_,4,0,1,1,3,False,0,0,6,TweetRandom Series,4,N0
 BJP4Andhra,4,2,2,2,2,True,8,2,6,Twitter for Android,5,N0
 INCVolunteers,4,1,3,3,4,False,6,2,0,TweetDeck,5,N0
 TheCitizen_in,4,3,4,3,1,True,7,0,5,Twitter Web Client,4,N0
-riverracket,3,4,4,4,4,False,2,4,5,Twitter Web Client,5,N0
-HonestWordsOnly,3,4,4,4,3,False,5,2,4,Twitter for Android,4,N0
+riverracket,3,4,4,4,4,False,2,4,5,Twitter Web Client,5,N3
+HonestWordsOnly,3,4,4,4,3,False,5,2,4,Twitter for Android,4,N3
 imdeepak1143,4,2,3,3,4,False,4,1,4,Put your button on any page! ,6,N0
 aniljaindr,4,1,3,1,2,True,9,3,6,Twitter for iPhone,5,N0
 Mainereport,4,0,2,3,4,False,0,0,0,dlvr.it,4,N0
 mygovindia,4,1,4,2,1,True,8,3,6,TweetDeck,6,N0
 Mamtainsan02,4,4,2,4,0,False,9,4,0,Twitter for iPhone,6,N0
 NewIndianXpress,4,0,4,4,3,True,4,0,6,Buffer,3,N0
-paulosisinno,3,3,4,4,4,False,2,1,3,Twitter Web Client,4,N0
+paulosisinno,3,3,4,4,4,False,2,1,3,Twitter Web Client,4,N3
 PratyushKanth,4,2,1,1,1,True,4,4,6,Twitter for iPhone,5,N0
 ITwingDSS,4,2,3,2,0,False,8,4,6,Twitter for Android,7,N0
-limonetik,3,1,4,2,3,False,3,0,6,Hootsuite,5,N0
+limonetik,3,1,4,2,3,False,3,0,6,Hootsuite,5,N3
 suraiya95,4,3,4,3,2,False,1,2,5,Mobile Web (M5),5,N0
 Kunthavi5,2,4,4,4,1,False,6,1,5,Twitter for iPhone,5,N0
 SajidCKP,3,4,4,4,4,False,5,1,3,Twitter for Android,4,N0
 ZeeMohamed_,4,4,3,3,3,True,7,4,5,Twitter Web Client,5,N0
-manuknl,4,0,1,0,0,False,9,2,6,Twitter for Android,6,N0
+manuknl,4,0,1,0,0,False,9,2,6,Twitter for Android,6,N2
 MumbaiRR,4,0,3,3,4,False,0,0,4,MumbaiRR,5,N0
 SirPareshRawal,4,1,4,1,2,True,2,3,6,Twitter for iPhone,6,N0
 neetuarora94,4,4,2,4,0,False,9,3,0,Twitter for iPhone,6,N0
 SBICard_Connect,4,2,4,4,4,True,0,0,0,Oracle Engage,6,N0
 KarnikaKohli,4,3,3,3,4,True,1,1,6,TweetDeck,4,N0
-Chandra_bhs,3,4,4,4,3,False,4,3,3,Twitter for Android,4,N0
+Chandra_bhs,3,4,4,4,3,False,4,3,3,Twitter for Android,4,N3
 mansukhmandviya,4,2,3,2,2,True,8,4,6,Twitter for iPhone,5,N0
-hdkansara,3,1,4,2,4,False,7,0,6,Statusbrew,6,N0
+hdkansara,3,1,4,2,4,False,7,0,6,Statusbrew,6,N3
 NPCI_IMPS,4,1,2,1,1,False,3,0,6,Twitter Web Client,5,N0
-Abdulsaleemgad,3,3,4,4,3,False,8,3,5,Twitter for Android,4,N0
-kmgupta_india,3,3,4,4,4,False,4,1,0,Mobile Web (M2),5,N0
+Abdulsaleemgad,3,3,4,4,3,False,8,3,5,Twitter for Android,4,N3
+kmgupta_india,3,3,4,4,4,False,4,1,0,Mobile Web (M2),5,N3
 apcpim,4,4,3,3,1,False,7,2,4,Twitter Web Client,5,N0
 IndiaTodayTech,4,0,4,2,0,True,0,1,6,Hootsuite,4,N0
 Pooja15insan,4,4,2,4,3,False,8,4,5,Twitter for Android,7,N0
@@ -84,12 +84,12 @@ vinodkbjp,4,1,1,1,4,False,7,1,5,Twitter Web Client,6,N0
 BnBagul,4,4,3,3,4,False,6,2,0,Twitter for iPad,4,N0
 rsprasad,4,3,4,2,3,True,9,3,6,Hootsuite,6,N0
 Junaid_Mattu,4,2,3,2,2,True,0,0,6,Twitter for iPhone,5,N0
-harimakwan,3,4,4,4,4,False,1,1,0,UnFollowSpy,5,N0
-rajumahalingam,4,1,2,0,1,False,3,3,6,Twitter for iPhone,6,N0
-MihirkJha,3,3,4,4,3,False,9,3,5,Twitter for Android,4,N0
-restodehistoria,3,2,4,4,4,False,8,0,0,IFTTT,5,N0
+harimakwan,3,4,4,4,4,False,1,1,0,UnFollowSpy,5,N3
+rajumahalingam,4,1,2,0,1,False,3,3,6,Twitter for iPhone,6,N2
+MihirkJha,3,3,4,4,3,False,9,3,5,Twitter for Android,4,N3
+restodehistoria,3,2,4,4,4,False,8,0,0,IFTTT,5,N3
 WeUttarPradesh,4,1,3,3,0,True,2,0,6,Twitter Web Client,5,N0
-amritnidhi,3,4,4,3,4,False,4,1,4,Twitter for Android,4,N0
+amritnidhi,3,4,4,3,4,False,4,1,4,Twitter for Android,4,N3
 PrakashJavdekar,4,2,4,2,2,True,7,2,6,Twitter for iPhone,7,N0
 LabourMinistry,4,0,3,1,1,True,3,1,6,Twitter Web Client,5,N0
 Droid,4,0,4,4,0,False,8,0,3,dlvr.it,6,N0
@@ -98,28 +98,28 @@ pallarajasekhar,4,0,3,3,4,False,6,4,3,Twitter Web Client,4,N0
 upadhyaysbjp,4,4,4,2,3,True,5,4,6,Twitter for Android,4,N0
 HPSustainable,4,2,4,1,2,True,4,1,6,Sprinklr,6,N0
 lalashwa,2,4,4,4,3,False,0,1,5,Twitter Web Client,5,N0
-ChitraSarwara,4,1,1,0,0,False,5,3,6,Twitter for Android,5,N0
+ChitraSarwara,4,1,1,0,0,False,5,3,6,Twitter for Android,5,N2
 skjain_05,4,3,3,4,1,False,7,3,4,Twitter for Android,4,N0
-lethalw2010,3,3,4,4,4,False,9,4,0,Twitter Web Client,4,N0
+lethalw2010,3,3,4,4,4,False,9,4,0,Twitter Web Client,4,N3
 Satyapriyan,4,2,3,4,1,False,2,0,5,TweetDeck,6,N0
 imabhishek268,4,1,1,3,4,False,3,0,6,Twitter for BlackBerry,5,N0
 sudarsansand,4,4,4,2,2,True,2,2,6,Twitter for iPhone,7,N0
 GoI_MeitY,4,1,4,2,3,True,9,1,0,Twitter Web Client,5,N0
 arunjaitley,4,0,4,1,2,True,1,3,6,Twitter for iPhone,6,N0
-retheeshraj10,3,4,4,4,4,False,8,2,3,Twitter for Android,4,N0
+retheeshraj10,3,4,4,4,4,False,8,2,3,Twitter for Android,4,N3
 SStavrinoudakis,4,3,4,3,4,False,6,0,5,Post with Klout,3,N0
 BharatBoghani,4,4,3,2,4,False,0,4,3,Twitter for Windows Phone,5,N0
 RoflAAPiyan,4,2,2,3,2,False,4,1,4,Twitter for Android,4,N0
 Dattatreya,4,1,3,1,1,True,5,1,6,Twitter Web Client,5,N0
-godavar,3,4,4,4,3,False,4,0,5,Twitter for Android,6,N0
+godavar,3,4,4,4,3,False,4,0,5,Twitter for Android,6,N3
 ahmedpatel,4,0,4,1,0,True,0,3,6,Twitter for iPhone,4,N0
 Aks9009Pa,4,3,3,4,3,False,7,1,3,Twitter Web Client,4,N0
 TheBhojpuri,4,0,3,4,0,False,5,0,4,Hootsuite,5,N0
 aryaraghvendr,4,3,1,3,4,False,9,0,5,Facebook,5,N0
 jayantsinha,4,2,4,2,2,True,3,1,6,Hootsuite,6,N0
-TheGungunSharma,4,1,1,0,0,False,8,4,6,Twitter for Android,5,N0
+TheGungunSharma,4,1,1,0,0,False,8,4,6,Twitter for Android,5,N2
 RaisinaSeries,4,0,4,4,2,True,8,3,0,Twitter for iPhone,4,N0
-PFCD_India,3,1,4,2,4,False,2,0,6,Twitter Web Client,4,N0
+PFCD_India,3,1,4,2,4,False,2,0,6,Twitter Web Client,4,N3
 johnnyreb1864,4,4,4,4,4,False,1,3,0,Twitter for iPad,3,N0
 KishoreKar,4,4,3,3,4,True,9,4,5,Twitter for Android,4,N0
 Sultankasher,4,3,2,2,4,False,3,1,6,Twitter for iPhone,7,N0
@@ -132,10 +132,10 @@ PrLondonUk,4,0,4,3,1,False,5,0,3,SocialCloudSuite,5,N0
 Rao_Krishna,4,2,3,3,4,False,0,1,4,Twitter Web Client,6,N0
 KirenRijiju,4,3,4,1,2,True,1,4,6,Twitter for Android,6,N0
 SanjayBragta,4,1,3,2,2,True,7,1,6,Twitter for iPhone,4,N0
-AllanFree3,3,4,4,4,4,False,3,0,5,Twitter Web Client,4,N0
+AllanFree3,3,4,4,4,4,False,3,0,5,Twitter Web Client,4,N3
 mumbaiphoto,4,2,4,2,3,False,3,3,3,Twitter for Windows Phone,5,N0
 dharmvirjangra9,4,4,2,3,4,False,4,4,0,Twitter for Android,4,N0
-anujdeshpandey,3,3,4,2,4,False,7,1,6,Twitter for Android,4,N0
+anujdeshpandey,3,3,4,2,4,False,7,1,6,Twitter for Android,4,N3
 ankupande,4,1,2,2,3,False,6,4,6,Twitter for iPhone,5,N0
 MANOTOSHHALDER2,4,4,3,4,4,False,6,2,0,Twitter for Android,7,N0
 SitaramYechury,4,1,4,1,0,True,5,3,6,Twitter for iPhone,4,N0
@@ -146,7 +146,7 @@ MoneyMakerRsrch,4,2,3,2,1,False,2,0,4,Twitter Web Client,5,N0
 BJP4Maharashtra,4,0,4,3,2,True,9,4,6,TweetDeck,5,N0
 ashuyadav954,4,4,3,4,2,False,9,2,5,Twitter for iPhone,6,N0
 rahulchhawwa,4,1,1,0,4,False,3,1,6,Twitter Web Client,6,N0
-sachi_gkp,3,3,4,4,4,False,5,0,5,Twitter for iPhone,5,N0
+sachi_gkp,3,3,4,4,4,False,5,0,5,Twitter for iPhone,5,N3
 laluprasadrjd,4,2,4,1,0,True,5,3,6,Twitter for Android,4,N0
 Bechara_General,4,2,3,3,4,False,1,1,0,Mobile Web (M2),4,N0
 ANITARATHI,4,4,2,2,3,False,4,1,6,Twitter for Android,4,N0
@@ -160,7 +160,7 @@ PMOIndia,4,0,4,3,3,True,3,3,6,Twitter Web Client,6,N0
 gouravgarg77,4,4,2,4,1,False,9,4,6,Twitter for Android,7,N0
 sabrangindia,4,0,3,2,2,False,0,1,6,Twitter Web Client,3,N0
 vccircle,4,2,4,4,2,True,3,0,5,Hootsuite,5,N0
-journalistreyaz,3,3,4,3,4,False,4,2,6,Twitter for Android,5,N0
+journalistreyaz,3,3,4,3,4,False,4,2,6,Twitter for Android,5,N3
 JumlaWala,4,2,3,3,4,False,5,2,0,Twitter for iPhone,4,N0
 SRKfanforeverr,4,4,3,4,3,False,3,3,3,Twitter for iPhone,6,N0
 _taarangana,4,2,1,1,4,False,4,1,6,Twitter for Android,6,N0
@@ -187,7 +187,7 @@ azpat0,4,3,4,4,4,False,0,0,0,Google,7,N0
 CrazyRoyalKing,3,4,4,4,2,False,4,1,6,Twitter for Android,6,N0
 rssurjewala,4,0,4,1,1,True,5,3,6,Twitter for iPhone,4,N0
 2401saurav,4,3,3,4,2,False,8,2,3,Twitter for Android,4,N0
-ProfSRK,3,4,4,3,2,False,3,1,6,Twitter Web Client,5,N0
+ProfSRK,3,4,4,3,2,False,3,1,6,Twitter Web Client,5,N3
 TheRealVK09,4,1,3,3,4,False,4,1,0,TweetCaster for Android,5,N0
 a_RAGA_soldier,4,4,3,3,4,False,1,0,5,Facebook,5,N0
 dr_maheshsharma,4,3,4,2,3,True,9,4,6,Twitter for Android,6,N0
@@ -718,346 +718,346 @@ lalitadvani,4,4,4,4,4,False,8,1,5,Twitter Web Client,5,N0
 vinaydokania,4,4,4,4,4,False,8,1,5,Twitter Web Client,4,N0
 kvQuote,4,4,4,4,4,False,7,1,6,Twitter Web Client,5,N0
 eparitosh,4,4,4,4,4,False,8,1,5,Twitter Web Client,4,N0
-LunaHospital,3,0,0,0,4,False,1,3,6,Twitter Web Client,6,N1
-nunerahul1997,0,0,0,0,0,False,3,1,4,Flamingo for Android,6,N1
-sandeeppandeyj4,0,0,0,0,0,False,2,1,4,Mobile Web (M5),4,N1
-tbose52,0,0,0,0,0,False,0,0,0,Twitter Web Client,8,N1
-ArpanGami,2,4,2,2,2,False,9,3,6,TweetDeck,4,N1
-vatsalDMJ,2,2,2,3,3,False,1,3,6,Twitter for Android,3,N1
-shuklakovid,0,3,2,2,1,False,6,3,3,Twitter Web Client,3,N1
-DrBhanshali,2,3,2,2,2,False,9,2,6,TweetDeck,4,N1
-GirishSavant1,2,2,2,2,2,False,7,4,6,Mobile Web (M2),3,N1
-11Kruti,2,4,2,2,1,False,9,3,5,TweetDeck,4,N1
-frederikro,2,4,4,2,2,False,6,4,4,Tweetbot for iΟS,5,N1
-TilakShroff,2,3,2,2,2,False,9,2,5,TweetDeck,4,N1
+LunaHospital,3,0,0,0,4,False,1,3,6,Twitter Web Client,6,N2
+nunerahul1997,0,0,0,0,0,False,3,1,4,Flamingo for Android,6,N2
+sandeeppandeyj4,0,0,0,0,0,False,2,1,4,Mobile Web (M5),4,N2
+tbose52,0,0,0,0,0,False,0,0,0,Twitter Web Client,8,N2
+ArpanGami,2,4,2,2,2,False,9,3,6,TweetDeck,4,N5
+vatsalDMJ,2,2,2,3,3,False,1,3,6,Twitter for Android,3,N5
+shuklakovid,0,3,2,2,1,False,6,3,3,Twitter Web Client,3,N5
+DrBhanshali,2,3,2,2,2,False,9,2,6,TweetDeck,4,N5
+GirishSavant1,2,2,2,2,2,False,7,4,6,Mobile Web (M2),3,N5
+11Kruti,2,4,2,2,1,False,9,3,5,TweetDeck,4,N5
+frederikro,2,4,4,2,2,False,6,4,4,Tweetbot for iΟS,5,N5
+TilakShroff,2,3,2,2,2,False,9,2,5,TweetDeck,4,N5
 Pra7ul,1,1,1,1,1,False,0,0,3,Google,7,N1
 sufimastaan,1,2,1,1,4,False,5,2,3,Twitter for Android,5,N1
-Akas_Day,1,3,3,3,1,False,8,2,0,GrabInbox,6,N1
-nareshkumargou7,0,1,1,1,0,False,7,1,5,Mobile Web (M2),6,N1
-HZADVIESGROEP,1,0,1,0,3,False,1,0,0,Advieskeuze.nl,5,N1
-jsshastri1,4,0,1,1,4,False,0,0,5,Twitter Web Client,8,N1
-TNBJPITCELL,3,2,1,0,0,False,3,3,6,Twitter for Android,5,N1
-sachintidke2,1,1,0,1,3,False,1,4,4,Twitter for iPhone,4,N1
-VisakhaSingh10,0,3,0,1,2,False,6,4,0,Twitter for Android,7,N1
-TheTweet0fIndia,3,2,2,2,3,False,4,4,6,Twitter for iPhone,4,N1
-RajkBhandari13,0,1,2,2,1,False,8,3,0,Twitter Web Client,3,N1
-EqubalHamza,2,2,0,1,3,False,2,1,4,Facebook,5,N1
-rajeshdilliwale,1,3,2,2,2,False,9,2,6,TweetDeck,4,N1
-Blogging2017,2,1,4,2,0,False,4,0,5,dlvr.it,5,N1
+Akas_Day,1,3,3,3,1,False,8,2,0,GrabInbox,6,N4
+nareshkumargou7,0,1,1,1,0,False,7,1,5,Mobile Web (M2),6,N2
+HZADVIESGROEP,1,0,1,0,3,False,1,0,0,Advieskeuze.nl,5,N2
+jsshastri1,4,0,1,1,4,False,0,0,5,Twitter Web Client,8,N0
+TNBJPITCELL,3,2,1,0,0,False,3,3,6,Twitter for Android,5,N2
+sachintidke2,1,1,0,1,3,False,1,4,4,Twitter for iPhone,4,N2
+VisakhaSingh10,0,3,0,1,2,False,6,4,0,Twitter for Android,7,N2
+TheTweet0fIndia,3,2,2,2,3,False,4,4,6,Twitter for iPhone,4,N5
+RajkBhandari13,0,1,2,2,1,False,8,3,0,Twitter Web Client,3,N2
+EqubalHamza,2,2,0,1,3,False,2,1,4,Facebook,5,N2
+rajeshdilliwale,1,3,2,2,2,False,9,2,6,TweetDeck,4,N5
+Blogging2017,2,1,4,2,0,False,4,0,5,dlvr.it,5,N5
 sachdevasonam27,2,2,1,3,1,False,9,4,3,Twitter for Android,8,N1
-praveennaidu228,1,0,3,4,1,False,0,0,0,koreqa,5,N1
-hackdeal96,4,0,2,1,4,False,0,0,4,IFTTT,6,N1
-hardikmakadia,2,1,1,0,1,False,5,2,5,Twitter for iPhone,6,N1
-abhishekgarg8,1,0,3,0,1,False,6,0,6,Twitter Web Client,7,N1
+praveennaidu228,1,0,3,4,1,False,0,0,0,koreqa,5,N2
+hackdeal96,4,0,2,1,4,False,0,0,4,IFTTT,6,N0
+hardikmakadia,2,1,1,0,1,False,5,2,5,Twitter for iPhone,6,N2
+abhishekgarg8,1,0,3,0,1,False,6,0,6,Twitter Web Client,7,N2
 SushilJ1960,1,4,1,2,0,False,3,1,4,Mobile Web (M5),5,N1
-SundeepKPal,0,3,1,1,0,False,7,2,3,Twitter for iPhone,4,N1
-Raghavyuva123,3,2,0,1,2,False,3,3,6,Twitter for Android,6,N1
-shrikantkakade7,3,2,2,1,4,False,5,4,0,Twitter for Android,8,N1
-aanch29,1,2,2,2,3,False,1,4,0,Twitter for iPad,3,N1
-CHASE_METALS,4,1,1,0,2,False,1,1,4,Twitter Web Client,4,N1
-mhzaman786,1,1,0,1,3,False,2,1,0,Mobile Web (M2),4,N1
-_SEO_Simple_,2,1,4,2,0,False,5,0,5,dlvr.it,5,N1
+SundeepKPal,0,3,1,1,0,False,7,2,3,Twitter for iPhone,4,N2
+Raghavyuva123,3,2,0,1,2,False,3,3,6,Twitter for Android,6,N2
+shrikantkakade7,3,2,2,1,4,False,5,4,0,Twitter for Android,8,N3
+aanch29,1,2,2,2,3,False,1,4,0,Twitter for iPad,3,N5
+CHASE_METALS,4,1,1,0,2,False,1,1,4,Twitter Web Client,4,N2
+mhzaman786,1,1,0,1,3,False,2,1,0,Mobile Web (M2),4,N2
+_SEO_Simple_,2,1,4,2,0,False,5,0,5,dlvr.it,5,N5
 MadanBatra2,2,3,1,3,1,False,9,4,5,Twitter for Android,7,N1
-thegreatsims,1,1,4,3,0,False,4,0,3,IFTTT,5,N1
-vinurajvarma,2,0,2,1,2,False,4,0,4,Buffer,5,N1
-NimishLakhani,1,3,2,2,1,False,6,3,3,Twitter for iPhone,6,N1
-sarojinsa19,0,0,1,2,1,False,8,2,0,Twitter for Android,7,N1
-sideude,2,1,1,0,4,False,8,3,5,Twitter Web Client,4,N1
-PRANAYNORDIC,0,2,1,1,0,False,7,1,4,Twitter for Windows,4,N1
-PramodSaxena10,2,0,2,1,1,False,3,2,6,Twitter for iPhone,6,N1
+thegreatsims,1,1,4,3,0,False,4,0,3,IFTTT,5,N2
+vinurajvarma,2,0,2,1,2,False,4,0,4,Buffer,5,N5
+NimishLakhani,1,3,2,2,1,False,6,3,3,Twitter for iPhone,6,N5
+sarojinsa19,0,0,1,2,1,False,8,2,0,Twitter for Android,7,N2
+sideude,2,1,1,0,4,False,8,3,5,Twitter Web Client,4,N2
+PRANAYNORDIC,0,2,1,1,0,False,7,1,4,Twitter for Windows,4,N2
+PramodSaxena10,2,0,2,1,1,False,3,2,6,Twitter for iPhone,6,N5
 EraviGopan,1,2,3,1,2,False,0,4,3,Twitter for iPhone,6,N1
 nishaninsan911,1,2,2,3,0,False,9,4,0,Twitter for Windows Phone,7,N1
 _abhisingh_,4,1,1,2,3,False,1,4,5,Twitter for Android,5,N1
-mishratdh45451,1,0,0,1,3,False,5,1,0,TweetDeck,6,N1
-ajay_naina03,1,1,0,1,3,False,0,2,4,Twitter for iPad,4,N1
+mishratdh45451,1,0,0,1,3,False,5,1,0,TweetDeck,6,N2
+ajay_naina03,1,1,0,1,3,False,0,2,4,Twitter for iPad,4,N2
 im_Priyanshu,2,1,1,2,4,False,3,3,5,Mobile Web (M2),5,N1
 11patelmukesh,1,3,1,3,1,False,0,0,0,Twitter Web Client,3,N1
 amol_kulk,2,2,4,1,2,False,5,1,6,Twitter for Android,6,N1
-Abhi_ASE,1,0,1,0,2,False,2,0,3,Facebook,5,N1
-India_Bloopers,1,3,2,2,0,False,6,3,0,TweetDeck,4,N1
-onehobbit,2,1,2,2,4,False,7,4,3,Twitter for iPad,4,N1
+Abhi_ASE,1,0,1,0,2,False,2,0,3,Facebook,5,N2
+India_Bloopers,1,3,2,2,0,False,6,3,0,TweetDeck,4,N5
+onehobbit,2,1,2,2,4,False,7,4,3,Twitter for iPad,4,N5
 Senthil92511721,0,2,1,1,1,False,1,0,4,Mobile Web (M5),5,N1
-drmaran,2,0,2,1,1,False,3,1,6,Hootsuite,4,N1
-BNyickyor,2,1,1,0,4,False,4,2,5,Twitter for iPhone,6,N1
+drmaran,2,0,2,1,1,False,3,1,6,Hootsuite,4,N5
+BNyickyor,2,1,1,0,4,False,4,2,5,Twitter for iPhone,6,N2
 sandymaan51,1,2,2,3,0,False,9,4,3,Twitter for Android,6,N1
-PiyushInsan8,0,2,1,2,0,False,9,4,0,Twitter for Android,7,N1
+PiyushInsan8,0,2,1,2,0,False,9,4,0,Twitter for Android,7,N2
 TiEHubli,1,0,3,1,1,False,6,0,4,Paper.li,5,N1
 vendio_5668,1,1,3,1,3,False,3,2,4,Twitter Web Client,6,N1
-rohitkath,2,1,0,1,2,False,7,3,5,Twitter for iPhone,5,N1
-suvie_chandra,0,3,1,2,0,False,4,1,0,TweetDeck,6,N1
+rohitkath,2,1,0,1,2,False,7,3,5,Twitter for iPhone,5,N2
+suvie_chandra,0,3,1,2,0,False,4,1,0,TweetDeck,6,N2
 IYogeshRana,1,2,3,1,1,False,5,0,6,Twitter Web Client,7,N1
 EBDataDk,1,0,1,4,2,False,0,0,0,EBData,4,N1
-AreuMyB1tch,1,4,2,2,2,False,1,3,5,Twitter for iPhone,4,N1
-sukalyanfouzdar,2,1,2,2,3,False,7,4,3,Twitter for iPhone,7,N1
+AreuMyB1tch,1,4,2,2,2,False,1,3,5,Twitter for iPhone,4,N5
+sukalyanfouzdar,2,1,2,2,3,False,7,4,3,Twitter for iPhone,7,N5
 arijitu,2,0,1,3,1,False,0,0,3,Facebook,5,N1
-BehanJi4CM,2,2,0,1,1,False,7,1,6,Mobile Web (M5),5,N1
+BehanJi4CM,2,2,0,1,1,False,7,1,6,Mobile Web (M5),5,N2
 jnv_rider,1,3,1,1,4,False,8,2,4,Mobile Web (M5),4,N1
-KottamAkhila,1,1,2,0,2,False,6,2,0,ib_devops,6,N1
-Jasveer71718596,0,3,1,2,2,False,9,4,3,Twitter for Android,6,N1
-charli_to,0,2,2,2,0,False,5,2,0,TweetDeck,5,N1
-princerai62,2,2,0,1,4,False,3,4,5,Twitter for Android,6,N1
+KottamAkhila,1,1,2,0,2,False,6,2,0,ib_devops,6,N2
+Jasveer71718596,0,3,1,2,2,False,9,4,3,Twitter for Android,6,N2
+charli_to,0,2,2,2,0,False,5,2,0,TweetDeck,5,N2
+princerai62,2,2,0,1,4,False,3,4,5,Twitter for Android,6,N2
 apkrishn,2,1,1,1,3,False,4,1,6,Twitter Web Client,3,N1
 navjeet11021999,1,0,1,3,0,False,6,3,4,Twitter for Android,6,N1
 iRajSaw,1,1,3,1,1,False,3,0,3,Facebook,5,N1
-bilkulsedhibaat,1,0,1,3,0,False,0,0,0,dlvr.it,4,N1
-vickygovar,1,2,0,2,3,False,3,3,4,Twitter for iPhone,4,N1
-HemantSirohi1,2,1,2,2,2,False,1,1,4,Twitter for Android,3,N1
-poovaiah_sunil,0,1,2,2,1,False,0,0,3,Twitter for Windows Phone,5,N1
-sujitmohan88,2,2,1,0,1,False,5,1,5,Twitter for iPhone,5,N1
-kaushalkumarya,1,3,0,1,2,False,7,4,0,Mobile Web (M5),5,N1
-saisasankparimi,1,1,2,0,1,False,7,2,0,ib_devops,6,N1
-PeoplesGovIN,0,0,1,1,0,False,8,4,3,Link account with KUKU.io,6,N1
-aapkipalki,1,3,2,2,2,False,7,2,0,TweetDeck,4,N1
+bilkulsedhibaat,1,0,1,3,0,False,0,0,0,dlvr.it,4,N2
+vickygovar,1,2,0,2,3,False,3,3,4,Twitter for iPhone,4,N2
+HemantSirohi1,2,1,2,2,2,False,1,1,4,Twitter for Android,3,N5
+poovaiah_sunil,0,1,2,2,1,False,0,0,3,Twitter for Windows Phone,5,N2
+sujitmohan88,2,2,1,0,1,False,5,1,5,Twitter for iPhone,5,N2
+kaushalkumarya,1,3,0,1,2,False,7,4,0,Mobile Web (M5),5,N2
+saisasankparimi,1,1,2,0,1,False,7,2,0,ib_devops,6,N2
+PeoplesGovIN,0,0,1,1,0,False,8,4,3,Link account with KUKU.io,6,N2
+aapkipalki,1,3,2,2,2,False,7,2,0,TweetDeck,4,N5
 WhatPardeepSays,2,2,1,1,3,False,5,3,5,Twitter for Windows,6,N1
-santoshbhogle,2,2,0,1,3,False,1,2,6,Twitter for iPhone,5,N1
+santoshbhogle,2,2,0,1,3,False,1,2,6,Twitter for iPhone,5,N2
 PM4India,3,0,1,1,0,False,0,4,0,Twitter for Android,7,N1
 Official_IILD,1,0,3,1,1,False,4,0,4,Twitter Web Client,6,N1
 lazybsingh,1,3,1,3,0,False,0,0,3,Twitter for Android,4,N1
 samskarebyaha,1,2,1,2,3,False,6,3,4,Twitter Web Client,4,N1
-benistonj,2,1,2,1,4,False,3,3,4,Twitter for Android,6,N1
-PentapatiPullar,2,1,2,2,1,False,1,0,5,Twitter for iPad,5,N1
-akritibhatia01,2,1,1,0,3,False,5,1,5,Twitter for iPhone,4,N1
-saileshpandey,1,3,0,2,2,False,8,4,0,Twitter for iPhone,5,N1
-ErnestHugh1,1,1,2,0,1,False,1,4,0,Mobile Web (M2),5,N1
+benistonj,2,1,2,1,4,False,3,3,4,Twitter for Android,6,N5
+PentapatiPullar,2,1,2,2,1,False,1,0,5,Twitter for iPad,5,N5
+akritibhatia01,2,1,1,0,3,False,5,1,5,Twitter for iPhone,4,N2
+saileshpandey,1,3,0,2,2,False,8,4,0,Twitter for iPhone,5,N2
+ErnestHugh1,1,1,2,0,1,False,1,4,0,Mobile Web (M2),5,N2
 IMSHREESHAIL,0,2,1,1,2,False,3,4,3,Twitter for Android,3,N1
-ActMatloob,1,0,2,2,0,False,3,2,0,Mobile Web (M5),4,N1
-ModiNamoallday,0,2,1,1,0,False,9,1,0,TweetDeck,6,N1
-jotsekhon11,2,4,0,1,1,False,1,2,3,Twitter for Android,6,N1
+ActMatloob,1,0,2,2,0,False,3,2,0,Mobile Web (M5),4,N2
+ModiNamoallday,0,2,1,1,0,False,9,1,0,TweetDeck,6,N2
+jotsekhon11,2,4,0,1,1,False,1,2,3,Twitter for Android,6,N2
 Iam_ksanoj,1,2,1,0,3,False,2,2,5,Facebook,5,N1
-J_for_Jk,2,1,0,1,2,False,2,4,4,Twitter for BlackBerry,6,N1
+J_for_Jk,2,1,0,1,2,False,2,4,4,Twitter for BlackBerry,6,N2
 OurAgra,1,0,1,3,0,False,0,0,3,dlvr.it,5,N1
 Dayanayakm,1,3,1,2,2,False,4,3,3,Twitter Web Client,4,N1
 raj_up,2,2,1,1,4,False,4,3,4,Twitter Web Client,4,N1
-tk24dutta_india,1,1,2,3,0,False,0,0,0,Twitter Web Client,3,N1
-RaymondPagnucco,2,0,2,1,1,False,5,3,5,Twitter for iPhone,4,N1
+tk24dutta_india,1,1,2,3,0,False,0,0,0,Twitter Web Client,3,N2
+RaymondPagnucco,2,0,2,1,1,False,5,3,5,Twitter for iPhone,4,N5
 tamil_vijaybro,1,3,1,0,3,False,4,0,6,Twitter for iPhone,5,N1
-Niki3484,1,1,0,2,2,False,7,4,0,Twitter for Android,7,N1
+Niki3484,1,1,0,2,2,False,7,4,0,Twitter for Android,7,N2
 RajeevBanduni,2,1,4,1,3,False,6,4,3,Twitter for iPhone,6,N1
-ATamariya,0,1,2,2,1,False,1,4,3,Twitter for Android,4,N1
-MeradeshEek,0,0,1,1,0,False,9,2,0,TweetDeck,5,N1
+ATamariya,0,1,2,2,1,False,1,4,3,Twitter for Android,4,N2
+MeradeshEek,0,0,1,1,0,False,9,2,0,TweetDeck,5,N2
 OVBICanada,1,3,2,1,1,False,8,1,5,Facebook,6,N1
 deekshasingh89,2,2,1,1,3,False,3,1,4,Twitter Web Client,7,N1
-BeingWorldian,2,1,1,0,2,False,5,0,4,Mobile Web (M2),6,N1
-MDNJVD,1,2,0,2,2,False,1,0,0,Facebook,5,N1
-avooj,1,2,2,2,2,False,0,2,5,Twitter for iPad,4,N1
-aapsiyashran15,0,0,1,1,0,False,2,3,3,Twitter for Android,5,N1
+BeingWorldian,2,1,1,0,2,False,5,0,4,Mobile Web (M2),6,N2
+MDNJVD,1,2,0,2,2,False,1,0,0,Facebook,5,N2
+avooj,1,2,2,2,2,False,0,2,5,Twitter for iPad,4,N5
+aapsiyashran15,0,0,1,1,0,False,2,3,3,Twitter for Android,5,N2
 TheSuman,2,1,1,3,0,False,7,3,4,Twitter Web Client,4,N1
-shiriram15,1,2,0,1,1,False,0,0,5,Twitter for iPhone,3,N1
-sif81,2,0,1,0,3,False,4,3,3,Twitter for Android,5,N1
-Chethboy,1,3,2,2,2,False,6,4,5,Twitter for iPhone,6,N1
-sshenolikar,2,1,0,1,3,False,2,4,6,Twitter for Android,6,N1
+shiriram15,1,2,0,1,1,False,0,0,5,Twitter for iPhone,3,N2
+sif81,2,0,1,0,3,False,4,3,3,Twitter for Android,5,N2
+Chethboy,1,3,2,2,2,False,6,4,5,Twitter for iPhone,6,N5
+sshenolikar,2,1,0,1,3,False,2,4,6,Twitter for Android,6,N2
 Avneep_Nair,0,3,1,1,1,False,5,4,0,Twitter for Windows Phone,4,N1
-Abhi_MSD,1,0,2,2,0,False,9,4,0,TweetDeck,5,N1
-Its_me_pervaiz,1,4,0,1,1,False,8,2,3,Twitter for Android,4,N1
-KentGrayson,1,1,1,0,0,False,1,0,6,TweetDeck,7,N1
+Abhi_MSD,1,0,2,2,0,False,9,4,0,TweetDeck,5,N2
+Its_me_pervaiz,1,4,0,1,1,False,8,2,3,Twitter for Android,4,N2
+KentGrayson,1,1,1,0,0,False,1,0,6,TweetDeck,7,N2
 meradesh_mahaan,2,2,1,1,4,False,9,0,4,Twitter Web Client,6,N1
-AmitJain2612,1,1,2,2,3,False,3,1,5,Twitter Web Client,5,N1
-k_vilayati,0,2,1,2,2,False,0,2,0,Twitter for iPhone,4,N1
-DemonLeaks,1,0,2,2,2,False,3,0,3,Paper.li,6,N1
+AmitJain2612,1,1,2,2,3,False,3,1,5,Twitter Web Client,5,N5
+k_vilayati,0,2,1,2,2,False,0,2,0,Twitter for iPhone,4,N2
+DemonLeaks,1,0,2,2,2,False,3,0,3,Paper.li,6,N5
 advsansehrawat,2,1,1,1,4,False,7,3,5,Facebook,4,N1
-rdnaaidu,1,0,0,1,1,False,6,1,4,Facebook,5,N1
-zameera78300782,2,2,0,1,4,False,4,1,3,Twitter for Android,5,N1
-Shahpratikd,2,2,2,2,2,False,5,3,5,Twitter for iPhone,5,N1
-anandchati,2,1,1,0,3,False,0,4,0,Twitter for iPhone,6,N1
+rdnaaidu,1,0,0,1,1,False,6,1,4,Facebook,5,N2
+zameera78300782,2,2,0,1,4,False,4,1,3,Twitter for Android,5,N2
+Shahpratikd,2,2,2,2,2,False,5,3,5,Twitter for iPhone,5,N5
+anandchati,2,1,1,0,3,False,0,4,0,Twitter for iPhone,6,N2
 SRKgaurav1,1,3,1,3,0,False,5,4,0,Twitter for iPhone,6,N1
-ramiitgrad,0,1,2,1,1,False,2,3,4,Twitter for Android,4,N1
-shamshadshaique,1,2,0,1,1,False,8,2,0,Twitter for Android,3,N1
-mobap_gr,0,0,1,1,0,False,4,0,3,IFTTT,5,N1
+ramiitgrad,0,1,2,1,1,False,2,3,4,Twitter for Android,4,N2
+shamshadshaique,1,2,0,1,1,False,8,2,0,Twitter for Android,3,N2
+mobap_gr,0,0,1,1,0,False,4,0,3,IFTTT,5,N2
 MojiBadlani,1,1,1,3,0,False,9,4,0,Twitter for Android,7,N1
 pranay01,2,1,3,1,2,False,1,0,5,Twitter Web Client,5,N1
 negishalaka,1,3,1,2,2,False,9,1,5,TweetDeck,4,N1
-asian_reporter,1,0,2,2,3,False,5,0,3,Paper.li,4,N1
-GirishRPawar,0,2,1,2,1,False,8,2,3,Twitter Web Client,5,N1
+asian_reporter,1,0,2,2,3,False,5,0,3,Paper.li,4,N5
+GirishRPawar,0,2,1,2,1,False,8,2,3,Twitter Web Client,5,N2
 baijukb,1,0,2,1,2,False,3,2,4,Hootsuite,4,N1
 DrHarish_Joshi,2,0,1,1,0,False,0,1,6,Facebook,6,N1
-maninhart,1,2,2,2,1,False,2,3,3,Twitter for Windows Phone,5,N1
-TheR4hulP4reek,2,1,1,0,4,False,5,2,5,Twitter for iPhone,5,N1
-HossainRafay,0,3,1,1,0,False,6,4,0,Twitter for iPhone,6,N1
-sudheerb2000,1,3,0,2,1,False,7,3,4,Twitter for Android,4,N1
-nglatne,2,1,2,1,2,False,3,4,0,Twitter for Android,3,N1
-JessicaLouviere,1,2,0,1,3,False,0,1,0,Twitter Web Client,6,N1
+maninhart,1,2,2,2,1,False,2,3,3,Twitter for Windows Phone,5,N5
+TheR4hulP4reek,2,1,1,0,4,False,5,2,5,Twitter for iPhone,5,N2
+HossainRafay,0,3,1,1,0,False,6,4,0,Twitter for iPhone,6,N2
+sudheerb2000,1,3,0,2,1,False,7,3,4,Twitter for Android,4,N2
+nglatne,2,1,2,1,2,False,3,4,0,Twitter for Android,3,N5
+JessicaLouviere,1,2,0,1,3,False,0,1,0,Twitter Web Client,6,N2
 v_meeti,1,2,1,3,1,False,4,4,0,Twitter for Android,7,N1
-PratikJoshi1987,2,1,0,1,1,False,1,4,5,Instagram,5,N1
-jholkejri1,0,0,1,1,0,False,9,0,4,TweetDeck,5,N1
-rajan_gandhi,2,0,1,2,3,False,6,0,3,Facebook,4,N1
-akshatjain13,1,1,2,0,1,False,4,0,5,Twitter Web Client,4,N1
-agnisvann,1,1,2,2,2,False,3,0,3,Google,5,N1
-GehlawatSid,2,2,1,2,0,False,8,1,6,Twitter for Android,4,N1
-AjmerSufi,1,2,0,1,2,False,0,3,0,Twitter for Windows Phone,6,N1
+PratikJoshi1987,2,1,0,1,1,False,1,4,5,Instagram,5,N2
+jholkejri1,0,0,1,1,0,False,9,0,4,TweetDeck,5,N2
+rajan_gandhi,2,0,1,2,3,False,6,0,3,Facebook,4,N5
+akshatjain13,1,1,2,0,1,False,4,0,5,Twitter Web Client,4,N2
+agnisvann,1,1,2,2,2,False,3,0,3,Google,5,N5
+GehlawatSid,2,2,1,2,0,False,8,1,6,Twitter for Android,4,N5
+AjmerSufi,1,2,0,1,2,False,0,3,0,Twitter for Windows Phone,6,N2
 dubeyyjd,2,0,1,1,4,False,5,3,3,Twitter for iPhone,5,N1
-sharmasioc,1,1,1,0,0,False,2,1,6,Twitter for iPhone,6,N1
+sharmasioc,1,1,1,0,0,False,2,1,6,Twitter for iPhone,6,N2
 aveenashchavan,1,3,2,1,2,False,4,2,4,Twitter for iPhone,5,N1
-Mohanac23448078,0,1,1,2,0,False,3,2,4,Twitter for Android,4,N1
-harpreet55743,1,2,0,1,3,False,7,4,0,Twitter for Android,6,N1
-mridulmayank9,1,2,2,2,1,False,0,4,0,Twitter for Android,7,N1
+Mohanac23448078,0,1,1,2,0,False,3,2,4,Twitter for Android,4,N2
+harpreet55743,1,2,0,1,3,False,7,4,0,Twitter for Android,6,N2
+mridulmayank9,1,2,2,2,1,False,0,4,0,Twitter for Android,7,N5
 KarulkarGirish,2,3,1,1,2,False,8,1,5,Twitter Web Client,6,N1
-HumChutiye_Hai,0,0,1,1,0,False,9,3,0,TweetDeck,6,N1
-atif1985,1,0,0,1,1,False,1,2,5,Facebook,5,N1
-no2uid,2,1,1,0,1,False,5,0,5,Twitter Web Client,4,N1
-abhiirich,1,1,2,2,1,False,0,0,3,Facebook,5,N1
-saurabh0406,1,1,0,3,2,False,4,4,4,Twitter for Android,4,N1
+HumChutiye_Hai,0,0,1,1,0,False,9,3,0,TweetDeck,6,N2
+atif1985,1,0,0,1,1,False,1,2,5,Facebook,5,N2
+no2uid,2,1,1,0,1,False,5,0,5,Twitter Web Client,4,N2
+abhiirich,1,1,2,2,1,False,0,0,3,Facebook,5,N5
+saurabh0406,1,1,0,3,2,False,4,4,4,Twitter for Android,4,N2
 FELURIWALofPAAP,2,2,1,1,3,False,6,1,6,Twitter for iPhone,5,N1
 aapajaydamor,2,0,1,2,1,False,8,2,0,Aam Aadmi Party new,4,N1
 Ritu_Dey,1,1,1,0,2,False,3,3,3,Twitter for iPhone,7,N1
-sumanthkatti,1,2,2,2,0,False,7,1,4,Twitter for iPhone,5,N1
-SudhirG97909939,0,1,1,1,0,False,6,3,3,Mobile Web (M5),4,N1
+sumanthkatti,1,2,2,2,0,False,7,1,4,Twitter for iPhone,5,N5
+SudhirG97909939,0,1,1,1,0,False,6,3,3,Mobile Web (M5),4,N2
 ShaktiSivananda,1,2,3,1,3,False,3,4,3,Twitter for Android,6,N1
-P_morni00,1,2,0,2,1,False,5,4,0,Twitter for Android,7,N1
+P_morni00,1,2,0,2,1,False,5,4,0,Twitter for Android,7,N2
 aditya_astro,2,0,1,1,4,False,0,1,0,Mobile Web (M2),4,N1
-chandni_chawk,0,0,1,1,0,False,9,3,0,TweetDeck,6,N1
-iAmHrit,1,3,0,1,2,False,6,1,5,Twitter for Android,6,N1
-megha_lall,2,4,1,2,2,False,8,4,5,Twitter for iPhone,5,N1
-guptaak1960,1,1,2,2,1,False,0,0,3,Twitter for Windows Phone,5,N1
-TAKATAKindia,0,1,2,1,2,False,5,2,0,Twitter Web Client,4,N1
+chandni_chawk,0,0,1,1,0,False,9,3,0,TweetDeck,6,N2
+iAmHrit,1,3,0,1,2,False,6,1,5,Twitter for Android,6,N2
+megha_lall,2,4,1,2,2,False,8,4,5,Twitter for iPhone,5,N5
+guptaak1960,1,1,2,2,1,False,0,0,3,Twitter for Windows Phone,5,N5
+TAKATAKindia,0,1,2,1,2,False,5,2,0,Twitter Web Client,4,N2
 amitbhatia99902,2,1,1,1,3,False,2,0,4,Facebook,4,N1
-digitallguru,1,0,1,0,1,False,4,2,4,Twitter for iPhone,5,N1
+digitallguru,1,0,1,0,1,False,4,2,4,Twitter for iPhone,5,N2
 Hindustan360,1,2,1,0,2,False,7,0,6,Twitter Web Client,5,N1
 Amit_IND_85,1,1,2,3,0,False,2,4,0,Twitter for iPhone,4,N1
-namkeen_mirchi,0,1,1,2,1,False,0,0,3,Twitter for Android,3,N1
-hemantpawar017,1,2,0,1,0,False,2,3,6,Twitter for Android,6,N1
+namkeen_mirchi,0,1,1,2,1,False,0,0,3,Twitter for Android,3,N2
+hemantpawar017,1,2,0,1,0,False,2,3,6,Twitter for Android,6,N2
 td_das,1,2,1,0,3,False,3,4,3,Twitter for Windows Phone,5,N1
 ShankarGopalak,2,0,1,1,1,False,7,2,0,Mobile Web (M5),4,N1
-skwaseem18,0,2,1,2,0,False,1,3,0,Twitter for Android,6,N1
-RahulJaiss,1,0,0,1,2,False,5,1,5,Twitter Web Client,6,N1
-sumitabh007cool,2,3,1,2,2,False,3,2,5,Twitter for iPhone,5,N1
+skwaseem18,0,2,1,2,0,False,1,3,0,Twitter for Android,6,N2
+RahulJaiss,1,0,0,1,2,False,5,1,5,Twitter Web Client,6,N2
+sumitabh007cool,2,3,1,2,2,False,3,2,5,Twitter for iPhone,5,N5
 Raisahab11,1,3,2,1,3,False,4,4,3,Twitter for Android,6,N1
-makthanvi,2,1,2,1,1,False,8,1,4,Twitter for iPhone,5,N1
+makthanvi,2,1,2,1,1,False,8,1,4,Twitter for iPhone,5,N5
 snehithjalagam,2,1,1,2,2,False,0,0,3,Facebook,4,N1
 das_debajyoti,1,0,2,1,3,False,4,0,0,Facebook,4,N1
 finaco_in,1,2,1,0,3,False,6,1,5,Twitter Web Client,5,N1
 geetaarora53160,1,2,1,3,0,False,9,4,0,Twitter for Android,7,N1
-Yo_Shobha,0,1,1,2,1,False,1,0,0,None,5,N1
-sivakumar77077,2,1,0,1,1,False,6,3,6,Twitter for Android,5,N1
-jai98777,1,3,0,2,2,False,0,4,3,Twitter for Android,4,N1
-GoodPplSuffer,0,1,1,1,0,False,0,2,4,Twitter for iPhone,4,N1
-benaagrwal,1,0,2,2,1,False,7,3,0,TweetDeck,5,N1
+Yo_Shobha,0,1,1,2,1,False,1,0,0,None,5,N2
+sivakumar77077,2,1,0,1,1,False,6,3,6,Twitter for Android,5,N2
+jai98777,1,3,0,2,2,False,0,4,3,Twitter for Android,4,N2
+GoodPplSuffer,0,1,1,1,0,False,0,2,4,Twitter for iPhone,4,N2
+benaagrwal,1,0,2,2,1,False,7,3,0,TweetDeck,5,N5
 PrajaktaGaikw15,1,2,1,0,1,False,5,2,3,Twitter Web Client,6,N1
-sharmamaanoj,0,0,1,1,0,False,3,3,5,Twitter Web Client,5,N1
+sharmamaanoj,0,0,1,1,0,False,3,3,5,Twitter Web Client,5,N2
 Lokesh__Bhavsar,1,3,1,1,4,False,3,4,3,Mobile Web (M5),6,N1
-ankitadamya,2,1,0,1,2,False,2,3,4,Twitter for Android,5,N1
+ankitadamya,2,1,0,1,2,False,2,3,4,Twitter for Android,5,N2
 BKSyngal,3,0,1,1,2,False,0,0,5,Twitter for iPhone,4,N1
 indiarises,1,0,2,1,1,False,4,0,0,Paper.li,6,N1
 kanchu_sweet,2,2,1,1,3,False,4,1,6,Twitter for Android,6,N1
 FansShashi,1,3,1,2,0,False,8,1,0,TweetDeck,6,N1
-MOOC5,1,0,2,2,2,False,1,0,0,Facebook,5,N1
-voyagergalactic,2,1,1,0,2,False,5,2,6,Twitter for Android,5,N1
+MOOC5,1,0,2,2,2,False,1,0,0,Facebook,5,N5
+voyagergalactic,2,1,1,0,2,False,5,2,6,Twitter for Android,5,N2
 santanusen05,1,2,0,1,3,False,2,4,5,Twitter for Android,4,N1
-voiceofsanjeev,1,1,2,2,1,False,6,2,4,Twitter for iPhone,5,N1
-SikhDalit,2,0,1,2,0,False,7,1,0,Twitter for iPhone,4,N1
+voiceofsanjeev,1,1,2,2,1,False,6,2,4,Twitter for iPhone,5,N5
+SikhDalit,2,0,1,2,0,False,7,1,0,Twitter for iPhone,4,N2
 bewithswami,1,2,1,2,3,False,7,2,3,Twitter Web Client,4,N1
 vgoel28,0,3,1,1,1,False,5,3,0,Twitter Web Client,5,N1
 TheManojGarg,1,1,3,2,0,False,4,4,3,Twitter for Android,6,N1
 itsneelkamal,2,1,1,1,4,False,3,0,4,Facebook,5,N1
-UjjainAbhay,1,3,0,1,1,False,0,1,5,Twitter for iPhone,4,N1
-ankushkchauhan,0,0,1,1,1,False,0,0,3,dlvr.it,4,N1
+UjjainAbhay,1,3,0,1,1,False,0,1,5,Twitter for iPhone,4,N2
+ankushkchauhan,0,0,1,1,1,False,0,0,3,dlvr.it,4,N2
 jyotipinky007,1,2,1,3,0,False,9,4,4,Twitter for Android,6,N1
-PittieAditya,2,2,1,0,1,False,8,3,0,Twitter for Android,6,N1
+PittieAditya,2,2,1,0,1,False,8,3,0,Twitter for Android,6,N2
 abhi2rai,1,0,2,1,2,False,4,4,0,Fenix for Android,5,N1
 BJP4Ktka,2,1,1,1,2,False,3,0,6,IFTTT,5,N1
-kalpit90559171,1,1,2,0,2,False,5,1,5,Twitter for Android,5,N1
-bhatti_gurman,1,0,2,2,1,False,2,3,0,Twitter for iPhone,6,N1
-Amangera2012,1,2,0,1,2,False,4,2,0,Mobile Web (M5),4,N1
+kalpit90559171,1,1,2,0,2,False,5,1,5,Twitter for Android,5,N2
+bhatti_gurman,1,0,2,2,1,False,2,3,0,Twitter for iPhone,6,N5
+Amangera2012,1,2,0,1,2,False,4,2,0,Mobile Web (M5),4,N2
 krishnathakur,1,0,1,2,3,False,7,4,6,Twitter Web Client,5,N1
 mailtodanish,2,2,1,1,3,False,5,2,4,Facebook,5,N1
-SonuBai64234791,1,1,0,2,3,False,8,4,3,Twitter for Android,6,N1
+SonuBai64234791,1,1,0,2,3,False,8,4,3,Twitter for Android,6,N2
 Csoumya21,2,1,1,1,4,False,1,3,0,Twitter Web Client,4,N1
 Mohi8kr,1,3,1,2,1,False,9,1,5,TweetDeck,5,N1
-JSBpune,0,0,1,1,0,False,1,0,3,Facebook,5,N1
+JSBpune,0,0,1,1,0,False,1,0,3,Facebook,5,N2
 vka_raj,1,0,1,3,1,False,0,0,4,Twitter Web Client,4,N1
-tannaparag,2,1,1,0,1,False,6,3,4,Twitter for Android,6,N1
-jyoti777insan,0,2,1,1,0,False,9,4,0,Twitter for Android,7,N1
-guptavanna,2,1,2,1,2,False,3,4,3,Twitter for iPhone,5,N1
+tannaparag,2,1,1,0,1,False,6,3,4,Twitter for Android,6,N2
+jyoti777insan,0,2,1,1,0,False,9,4,0,Twitter for Android,7,N2
+guptavanna,2,1,2,1,2,False,3,4,3,Twitter for iPhone,5,N5
 ShyamIndoliya,1,2,0,1,2,False,3,2,5,Twitter Web Client,4,N1
 indian_blooded,1,3,1,2,0,False,8,1,0,TweetDeck,6,N1
 ratnesh_4,1,2,2,1,1,False,4,3,3,Twitter for iPhone,6,N1
-nitagoswami2,1,0,2,2,1,False,7,3,0,TweetDeck,5,N1
+nitagoswami2,1,0,2,2,1,False,7,3,0,TweetDeck,5,N5
 Abhishe57126154,2,2,1,1,3,False,2,1,4,Twitter for Android,4,N1
-NikLim01,1,1,2,2,2,False,7,4,3,Twitter for Android,4,N1
+NikLim01,1,1,2,2,2,False,7,4,3,Twitter for Android,4,N5
 kdleo1,2,1,1,1,4,False,7,2,0,Twitter for Android,7,N1
 GeekBoyOfficial,1,1,1,0,1,False,5,0,6,Twitter Web Client,6,N1
-parsanttanwar,0,0,1,1,0,False,4,2,0,Twitter for Windows,5,N1
-hkhubchandani,1,0,0,1,1,False,0,0,4,Facebook,5,N1
+parsanttanwar,0,0,1,1,0,False,4,2,0,Twitter for Windows,5,N2
+hkhubchandani,1,0,0,1,1,False,0,0,4,Facebook,5,N2
 ksonuin,1,3,1,2,2,False,2,0,5,Twitter for iPhone,4,N1
-Happy_Platz,0,1,1,2,0,False,3,4,0,Mobile Web (M5),5,N1
+Happy_Platz,0,1,1,2,0,False,3,4,0,Mobile Web (M5),5,N2
 rchachra,2,1,1,1,3,False,1,4,4,Twitter for iPhone,4,N1
-howzzattt,1,0,0,1,2,False,6,1,5,Twitter Web Client,5,N1
+howzzattt,1,0,0,1,2,False,6,1,5,Twitter Web Client,5,N2
 KingAfr48746438,1,2,1,0,3,False,5,4,3,Twitter for Android,6,N1
-udayakandate,1,2,2,2,1,False,4,3,3,Twitter for Android,4,N1
-rajvishah18,1,0,2,2,1,False,7,3,0,TweetDeck,5,N1
+udayakandate,1,2,2,2,1,False,4,3,3,Twitter for Android,4,N5
+rajvishah18,1,0,2,2,1,False,7,3,0,TweetDeck,5,N5
 RamanSinghFans,2,2,1,1,0,False,6,1,6,Twitter Web Client,5,N1
 preetybharti1,1,3,2,1,0,False,8,4,4,Twitter for Android,6,N1
-thakkar2020,2,1,1,0,2,False,3,0,0,Twitter for iPhone,4,N1
-AroraShilpa6,1,1,0,1,1,False,9,2,0,Twitter for Android,7,N1
+thakkar2020,2,1,1,0,2,False,3,0,0,Twitter for iPhone,4,N2
+AroraShilpa6,1,1,0,1,1,False,9,2,0,Twitter for Android,7,N2
 sanjay_924,2,0,1,1,2,False,7,2,3,Twitter Web Client,6,N1
-viswan9,0,1,1,1,1,False,0,0,4,Twitter for iPad,5,N1
+viswan9,0,1,1,1,1,False,0,0,4,Twitter for iPad,5,N2
 thecuriousindie,1,2,1,2,2,False,4,3,5,Twitter for iPhone,4,N1
-bciitjee,0,0,1,1,0,False,0,0,0,Facebook,5,N1
+bciitjee,0,0,1,1,0,False,0,0,0,Facebook,5,N2
 pnsureshkumar,2,1,1,1,3,False,1,4,5,Twitter Web Client,4,N1
-kaushalsingla2k,1,3,0,1,2,False,7,3,5,Twitter for iPhone,5,N1
-naumimalaviya,2,0,1,2,0,False,2,4,4,Twitter for Android,6,N1
+kaushalsingla2k,1,3,0,1,2,False,7,3,5,Twitter for iPhone,5,N2
+naumimalaviya,2,0,1,2,0,False,2,4,4,Twitter for Android,6,N2
 kksarraf,1,1,1,0,4,False,6,3,3,Twitter for Android,6,N1
-nidhisolanki11,1,0,2,2,1,False,7,3,0,TweetDeck,5,N1
+nidhisolanki11,1,0,2,2,1,False,7,3,0,TweetDeck,5,N5
 chinnusenthil1,1,0,2,1,0,False,5,1,6,Twitter Web Client,5,N1
 Swachh_Mumbai,1,2,2,1,0,False,6,1,3,Twitter for Android,4,N1
 marlsuza,1,2,1,2,3,False,3,4,0,Twitter for iPhone,6,N1
-buyitdaily,1,1,1,0,3,False,1,0,0,Twitter for Android,7,N1
+buyitdaily,1,1,1,0,3,False,1,0,0,Twitter for Android,7,N2
 hemantsinghrjpu,2,3,1,1,1,False,5,2,6,Twitter for Android,5,N1
 fahim_sutriwala,2,1,1,1,2,False,4,2,4,Twitter Web Client,4,N1
 gauravdporwal,1,2,2,1,2,False,9,2,4,Facebook,5,N1
 gyanendra_swamy,0,1,1,1,1,False,9,4,0,Twitter for iPad,4,N1
 indraneel_guha,2,2,1,1,3,False,0,0,5,Twitter for iPhone,5,N1
-Suman_Basak_,1,1,0,1,2,False,1,4,3,Facebook,6,N1
+Suman_Basak_,1,1,0,1,2,False,1,4,3,Facebook,6,N2
 amitc17,1,3,1,2,0,False,7,0,5,Twitter Web Client,6,N1
 jaydip_d,1,1,1,0,1,False,8,3,5,Twitter for Android,7,N1
-kajalpa06875673,1,0,2,2,1,False,7,3,0,TweetDeck,5,N1
+kajalpa06875673,1,0,2,2,1,False,7,3,0,TweetDeck,5,N5
 singh_saurabh10,2,0,1,1,0,False,2,1,3,Twitter Web Client,5,N1
-radhi45451,1,2,0,1,1,False,4,1,4,Twitter for Android,4,N1
-dumbleman6,0,2,1,1,0,False,3,4,0,Twitter for iPhone,6,N1
+radhi45451,1,2,0,1,1,False,4,1,4,Twitter for Android,4,N2
+dumbleman6,0,2,1,1,0,False,3,4,0,Twitter for iPhone,6,N2
 1GABRU,1,1,1,0,3,False,2,0,3,Twitter for iPhone,6,N1
 spsingh1402,1,3,1,2,2,False,9,3,6,Twitter for Android,4,N1
 vivekaggarwal78,2,0,1,1,3,False,1,0,0,Twitter for Android,3,N1
 __gbm,2,2,1,1,2,False,5,2,4,Twitter Web Client,5,N1
 sunil_chhawari,1,2,2,1,1,False,6,2,0,TweetDeck,5,N1
-shubhi1622,1,1,0,1,0,False,9,4,5,Twitter for iPhone,4,N1
+shubhi1622,1,1,0,1,0,False,9,4,5,Twitter for iPhone,4,N2
 Khoj_16,2,1,1,1,2,False,0,3,4,Twitter for iPad,5,N1
 agNishchay,1,3,1,2,2,False,3,4,3,Twitter for Android,6,N1
 Rohitjamwal1,1,1,3,1,1,False,4,3,5,Twitter for Android,6,N1
 Matters_India,1,0,1,2,3,False,0,0,0,WordPress.com,5,N1
 atulgbnup,2,0,1,1,0,False,7,1,0,RoundTeam,5,N1
-manjeet_sc,1,2,0,1,1,False,2,1,5,Twitter for Android,4,N1
-Rajainsa8,0,2,1,1,0,False,8,4,0,Twitter for Android,7,N1
+manjeet_sc,1,2,0,1,1,False,2,1,5,Twitter for Android,4,N2
+Rajainsa8,0,2,1,1,0,False,8,4,0,Twitter for Android,7,N2
 sumedhasobti,1,1,1,0,1,False,6,0,4,Twitter for iPhone,6,N1
 Mongol_Kublai,1,0,1,2,2,False,3,3,4,Twitter Web Client,4,N1
 masonma71,2,1,1,1,3,False,4,3,3,Twitter Web Client,4,N1
-imgirishkhera,0,0,1,1,0,False,7,0,0,IFTTT,5,N1
+imgirishkhera,0,0,1,1,0,False,7,0,0,IFTTT,5,N2
 sunderlal_rwr,1,2,2,1,1,False,6,2,0,TweetDeck,5,N1
-Priyans39943178,1,3,0,1,1,False,9,4,3,Twitter for Android,6,N1
+Priyans39943178,1,3,0,1,1,False,9,4,3,Twitter for Android,6,N2
 madhavsamant,2,1,1,1,3,False,5,4,5,Twitter for iPhone,5,N1
 Hkveergurjar,1,2,1,2,2,False,8,3,0,Twitter for Windows Phone,6,N1
 MadhupGarg,1,1,2,1,2,False,3,2,4,Twitter for Android,4,N1
 aijazahmedit,1,1,1,2,0,False,0,0,3,Google,5,N1
 MANIKTAHLABHI,2,0,1,1,3,False,2,4,0,Twitter for iPad,5,N1
 rebelchawla,1,3,1,2,1,False,9,1,0,TweetDeck,4,N1
-chinmayasnpt9,0,2,1,1,0,False,2,0,5,Twitter for Android,6,N1
+chinmayasnpt9,0,2,1,1,0,False,2,0,5,Twitter for Android,6,N2
 eWalletIndia,1,1,1,0,1,False,6,1,6,Twitter for iPhone,5,N1
-TheRohitJadhav,1,0,0,1,2,False,3,2,4,Twitter for Android,6,N1
+TheRohitJadhav,1,0,0,1,2,False,3,2,4,Twitter for Android,6,N2
 jannewyork,2,1,1,1,3,False,1,1,0,Twitter Web Client,4,N1
 saharsa_india,2,2,1,1,0,False,4,0,4,Mobile Web (M5),5,N1
 GhildiyalSaumya,1,2,2,1,1,False,3,3,4,Twitter for iPhone,4,N1
-gyan_eshpatel,1,0,0,1,1,False,4,4,3,Twitter Web Client,5,N1
+gyan_eshpatel,1,0,0,1,1,False,4,4,3,Twitter Web Client,5,N2
 aradhyarr,2,3,1,1,2,False,5,4,3,Twitter for Android,6,N1
-mrityunjay242,1,0,1,0,4,False,8,4,0,Twitter for Android,6,N1
+mrityunjay242,1,0,1,0,4,False,8,4,0,Twitter for Android,6,N2
 IronHeet,1,3,1,2,1,False,9,3,0,TweetDeck,4,N1
 rajcerin,1,1,1,2,0,False,0,2,3,Twitter Web Client,4,N1
 DjSreeraj,1,1,2,1,3,False,4,1,5,Twitter Web Client,5,N1
-dahuja_rohit,0,2,1,1,0,False,7,4,0,Twitter for Android,8,N1
+dahuja_rohit,0,2,1,1,0,False,7,4,0,Twitter for Android,8,N2
 naveen_fancis,0,1,1,1,2,False,2,2,0,Twitter for iPad,5,N1
-ManasaJainPTR,2,1,1,0,1,False,3,3,5,Twitter for Android,5,N1
-kingkuldeep00,1,0,0,1,2,False,6,0,0,Facebook,4,N1
+ManasaJainPTR,2,1,1,0,1,False,3,3,5,Twitter for Android,5,N2
+kingkuldeep00,1,0,0,1,2,False,6,0,0,Facebook,4,N2
 Gopalak82004469,1,2,1,2,2,False,9,1,5,Twitter for Android,6,N1
 WeareBezawada,2,1,1,1,3,False,4,1,4,Twitter for iPhone,5,N1
 Prashant_Swami,1,2,2,1,1,False,2,3,4,Twitter for Android,4,N1
-DSGAUR,1,0,0,1,1,False,1,0,0,Facebook,5,N1
+DSGAUR,1,0,0,1,1,False,1,0,0,Facebook,5,N2
 iamsuneelblr,2,2,1,1,3,False,5,4,4,Twitter for Android,6,N1
 pramodvrao,1,0,2,1,2,False,5,4,0,Twitter for iPhone,6,N1
 kantiAAP,1,3,1,2,1,False,9,2,0,TweetDeck,5,N1
@@ -1067,68 +1067,68 @@ papabetiparvati,1,2,1,2,0,False,9,4,6,Twitter for Android,6,N1
 nuggettoffy,0,2,1,1,2,False,8,4,0,Mobile Web (M5),5,N1
 amolinnovates,1,1,1,0,1,False,3,1,5,Twitter for iPhone,5,N1
 AtimanarjNews,1,0,1,1,0,False,0,0,3,Hootsuite,4,N1
-Aaman4u2003,1,1,0,1,2,False,4,2,3,Twitter for Android,6,N1
+Aaman4u2003,1,1,0,1,2,False,4,2,3,Twitter for Android,6,N2
 shishupaul02,2,2,1,1,2,False,2,3,4,Twitter for iPhone,5,N1
 ceradevcera,1,1,1,2,2,False,6,1,5,Twitter for Android,4,N1
-Anupal12345,1,2,0,1,1,False,7,4,0,Twitter for Android,7,N1
+Anupal12345,1,2,0,1,1,False,7,4,0,Twitter for Android,7,N2
 Young_Aawaaz,2,1,1,1,3,False,9,0,4,Twitter Web Client,5,N1
-jvij1967,1,0,1,0,1,False,5,1,0,Twitter for iPhone,6,N1
+jvij1967,1,0,1,0,1,False,5,1,0,Twitter for iPhone,6,N2
 sumitrawat_rwr,1,2,2,1,1,False,6,2,0,TweetDeck,5,N1
-PinderMaggu,0,3,1,1,0,False,3,4,0,Twitter for Android,6,N1
+PinderMaggu,0,3,1,1,0,False,3,4,0,Twitter for Android,6,N2
 nsujoy,2,0,1,1,1,False,0,0,3,Facebook,5,N1
 udayj3000,1,4,1,2,0,False,8,4,0,Twitter for Android,4,N1
-_F9_F10,1,2,0,1,2,False,4,3,0,Twitter for Windows,5,N1
+_F9_F10,1,2,0,1,2,False,4,3,0,Twitter for Windows,5,N2
 BANGLARMAATI,1,0,1,2,0,False,5,0,5,Twitter Web Client,5,N1
 ilexsoc,2,0,1,1,3,False,8,4,3,Twitter for Android,4,N1
 Gan_Ven,1,1,2,1,2,False,3,3,3,Twitter for Android,6,N1
 ashok6593,1,1,1,0,1,False,2,4,6,Twitter for iPhone,5,N1
 Siddhu381,1,4,1,1,2,False,0,1,5,Twitter Web Client,4,N1
 sivatalks,0,2,1,1,1,False,2,2,4,Twitter for Android,4,N1
-Dursety,1,1,0,1,2,False,4,3,4,Twitter for Android,6,N1
+Dursety,1,1,0,1,2,False,4,3,4,Twitter for Android,6,N2
 Manika_Ninja,1,3,1,2,1,False,9,2,0,TweetDeck,5,N1
 gg_deepak,2,1,1,1,3,False,1,4,0,Twitter for iPhone,6,N1
 MUNIVBS,1,2,1,0,1,False,6,1,4,Twitter for Android,6,N1
-niranjanspeak,0,0,1,1,1,False,7,2,0,Twitter Web Client,5,N1
-shankykumar21,1,2,0,1,0,False,9,4,0,Twitter for Android,7,N1
-vikneshmadurai,1,0,0,1,2,False,4,0,5,Twitter Web Client,5,N1
+niranjanspeak,0,0,1,1,1,False,7,2,0,Twitter Web Client,5,N2
+shankykumar21,1,2,0,1,0,False,9,4,0,Twitter for Android,7,N2
+vikneshmadurai,1,0,0,1,2,False,4,0,5,Twitter Web Client,5,N2
 dpatell19471,1,2,1,2,3,False,5,4,0,Mobile Web (M5),5,N1
 WriteWordsPress,2,1,1,1,3,False,3,4,3,Twitter Web Client,5,N1
 Ezioauditore21,2,0,1,1,2,False,2,3,4,Twitter for Android,4,N1
 RounaqNeroy,1,1,2,1,1,False,3,1,3,Twitter for iPhone,5,N1
 maheshsarkar377,1,3,1,2,1,False,0,2,5,Twitter for Android,4,N1
 HP8aa,1,2,1,1,0,False,2,3,3,Twitter for iPhone,4,N1
-kulkarnisatish,1,0,1,0,2,False,7,3,4,Twitter for Android,6,N1
+kulkarnisatish,1,0,1,0,2,False,7,3,4,Twitter for Android,6,N2
 Sun_Krishna,1,1,1,3,1,False,0,0,0,Facebook,5,N1
 Tushardwivedi81,2,1,1,1,3,False,1,4,0,Twitter for iPhone,4,N1
 raviparkash108,1,3,1,2,0,False,2,2,0,Twitter for Android,6,N1
 drsrt7,2,2,1,1,1,False,6,1,4,Twitter Web Client,5,N1
-Brosisjodi,1,1,0,1,0,False,9,4,0,Twitter for Android,7,N1
-Yuva_Josh,1,1,0,1,2,False,9,0,0,Twitter Web Client,6,N1
+Brosisjodi,1,1,0,1,0,False,9,4,0,Twitter for Android,7,N2
+Yuva_Josh,1,1,0,1,2,False,9,0,0,Twitter Web Client,6,N2
 SandeepkNitt,1,3,1,0,2,False,4,4,5,Twitter for Android,5,N1
-Ashu25in,0,2,1,1,0,False,5,4,0,Twitter for Android,7,N1
+Ashu25in,0,2,1,1,0,False,5,4,0,Twitter for Android,7,N2
 avinashsvmandir,1,0,1,1,3,False,8,1,4,Twitter for Windows Phone,5,N1
 AnkurBisen1,1,1,2,1,1,False,1,2,3,Twitter for iPhone,5,N1
-topofficials,1,0,1,0,1,False,3,0,5,Twitter Web Client,5,N1
+topofficials,1,0,1,0,1,False,3,0,5,Twitter Web Client,5,N2
 Tejeswar96,1,2,1,2,1,False,3,3,3,Twitter for Android,4,N1
 chandu1085,1,2,1,1,2,False,7,2,4,Twitter for Windows,4,N1
 devesh2690,2,2,1,1,1,False,4,3,5,Twitter for iPhone,5,N1
 jaythar,2,1,1,1,3,False,1,4,4,Twitter for Android,6,N1
 Dukhbirpagal,1,1,1,2,1,False,5,2,0,Twitter for iPhone,4,N1
-AmroodAdmi,0,0,1,1,0,False,6,4,0,Twitter Web Client,5,N1
+AmroodAdmi,0,0,1,1,0,False,6,4,0,Twitter Web Client,5,N2
 suman629,1,2,0,1,1,False,2,4,3,Twitter Web Client,6,N1
 vijaykumar24527,1,3,1,1,2,False,8,3,6,Twitter for Android,6,N1
 sureshksharma07,1,1,1,0,2,False,6,4,0,Twitter for iPhone,4,N1
-BhatPannaga,0,2,1,1,0,False,2,3,0,Twitter for Android,6,N1
+BhatPannaga,0,2,1,1,0,False,2,3,0,Twitter for Android,6,N2
 ashi4581,1,0,1,1,2,False,9,0,4,Twitter Web Client,3,N1
-drgugu1234,1,1,0,1,3,False,7,4,5,Twitter for Android,5,N1
-srikanthkonam,1,0,1,0,2,False,2,1,3,Twitter for Android,5,N1
+drgugu1234,1,1,0,1,3,False,7,4,5,Twitter for Android,5,N2
+srikanthkonam,1,0,1,0,2,False,2,1,3,Twitter for Android,5,N2
 Mohandeepak66,2,1,1,1,1,False,3,1,5,Twitter Web Client,5,N1
 RabinDa45829394,1,4,1,1,3,False,0,0,3,Twitter for Android,4,N1
 varunchoudhary2,2,2,1,1,1,False,4,3,0,Twitter for iPad,5,N1
 lastride30,1,1,1,2,2,False,1,2,0,Twitter for Windows,5,N1
 summersalsa,2,2,1,1,0,False,4,4,4,Twitter for iPhone,5,N1
-khagesh85,1,1,0,1,1,False,6,4,6,Twitter for Android,4,N1
-khanalmas46,1,2,0,1,2,False,5,4,0,Twitter for iPhone,6,N1
+khagesh85,1,1,0,1,1,False,6,4,6,Twitter for Android,4,N2
+khanalmas46,1,2,0,1,2,False,5,4,0,Twitter for iPhone,6,N2
 PRATIPSEN4,1,2,1,2,3,False,3,3,3,Twitter for Android,5,N1
 sam11275,0,1,1,1,1,False,6,4,0,Twitter Web Client,6,N1
 yusufmehdi,1,0,1,1,0,False,7,3,3,Twitter for iPhone,6,N1
@@ -1136,16 +1136,16 @@ Durgesh2284,1,3,1,1,2,False,8,2,4,Twitter for Android,4,N1
 EOTONow,1,0,1,1,0,False,2,0,5,WordPress.com,5,N1
 aniljug,1,2,1,2,2,False,2,4,0,Twitter for Android,3,N1
 annahiremath,2,1,1,1,2,False,4,1,3,Twitter Web Client,5,N1
-vivekk92,1,0,1,0,1,False,6,0,5,Twitter for Android,5,N1
+vivekk92,1,0,1,0,1,False,6,0,5,Twitter for Android,5,N2
 kautilyadutt,2,2,1,1,1,False,5,3,4,Twitter Web Client,5,N1
 Guppi_Abhi,1,1,1,0,2,False,1,4,3,Twitter for Android,4,N1
-AneerudhNaik,0,0,1,1,1,False,8,3,0,Twitter for iPhone,5,N1
+AneerudhNaik,0,0,1,1,1,False,8,3,0,Twitter for iPhone,5,N2
 nancy77480407,1,2,0,1,1,False,9,4,5,Twitter for Android,6,N1
 prometheusknows,1,1,1,1,2,False,6,1,4,Mobile Web (M5),4,N1
-aroycrony,1,2,0,1,1,False,2,4,0,Twitter for Android,7,N1
+aroycrony,1,2,0,1,1,False,2,4,0,Twitter for Android,7,N2
 rambling_brook,2,1,1,1,3,False,2,4,0,Twitter for iPhone,5,N1
 ErSumanInsa,1,2,1,2,0,False,9,4,0,Twitter for Android,6,N1
-pratibha_kum,1,1,0,1,0,False,3,3,4,Twitter for Android,5,N1
+pratibha_kum,1,1,0,1,0,False,3,3,4,Twitter for Android,5,N2
 avaneeshraju,1,0,1,1,0,False,0,0,4,Mobile Web (M2),5,N1
 devang_mali,1,3,1,1,3,False,2,3,0,Twitter for iPhone,4,N1
 HarwinderInsa2,1,2,1,2,2,False,4,1,0,Twitter for Android,6,N1
@@ -1153,13 +1153,13 @@ Vikas_Joshi,1,0,1,1,2,False,7,2,5,Twitter Web Client,5,N1
 VijaySinghBais2,2,2,1,1,2,False,4,1,3,Twitter for Android,5,N1
 RakeshSingh1989,1,1,1,0,1,False,4,4,3,Twitter for Android,4,N1
 malathy_sarovar,0,1,1,1,1,False,5,4,4,Twitter for iPhone,5,N1
-ShakeelAnwar4,1,1,0,1,1,False,6,3,3,Twitter for iPhone,5,N1
+ShakeelAnwar4,1,1,0,1,1,False,6,3,3,Twitter for iPhone,5,N2
 anshulrana_84,2,0,1,1,2,False,6,4,5,Twitter for Android,4,N1
 IKchandra,1,2,2,1,2,False,1,4,0,Twitter for Android,6,N1
 seeba_sasha,1,2,1,2,1,False,2,3,0,Mobile Web (M5),5,N1
 hiteshgoyal850,2,1,1,1,0,False,5,4,4,Twitter for Android,6,N1
 ModiAntoinette,1,0,1,1,3,False,1,2,4,Twitter Web Client,5,N1
-RajeevJindal15,1,1,0,1,1,False,8,4,3,Twitter for Android,6,N1
+RajeevJindal15,1,1,0,1,1,False,8,4,3,Twitter for Android,6,N2
 ShastriVimal,1,3,1,1,3,False,2,3,0,Mobile Web (M2),5,N1
 shuaibrehman,1,2,1,2,1,False,2,4,0,Twitter for iPhone,4,N1
 nickitembo_RN,1,2,1,1,2,False,0,1,4,Twitter Web Client,4,N1
@@ -1167,12 +1167,12 @@ sumantharbi,1,3,1,1,2,False,7,3,0,Twitter for Android,3,N1
 StarFizz_,1,2,1,1,3,False,4,1,5,Twitter Web Client,5,N1
 nikhilsince86,1,1,1,2,2,False,0,4,3,Twitter for iPhone,5,N1
 iamshabaan,0,1,1,1,1,False,5,3,4,Twitter for Android,5,N1
-malaykmandal,1,0,1,0,1,False,4,4,0,Twitter for Android,6,N1
+malaykmandal,1,0,1,0,1,False,4,4,0,Twitter for Android,6,N2
 INDIA_Wale_1,2,2,1,1,2,False,7,4,0,TweetDeck,5,N1
 utterlybutterly,1,1,1,1,1,False,3,3,3,Twitter for Windows Phone,4,N1
 ssc11992,0,2,1,1,1,False,1,4,0,Twitter for Android,7,N1
 manthankthakkar,1,0,1,1,2,False,0,0,4,Mobile Web (M5),5,N1
-knishantmit,1,1,0,1,2,False,6,4,3,Twitter for Android,5,N1
+knishantmit,1,1,0,1,2,False,6,4,3,Twitter for Android,5,N2
 Nik4yu,2,1,1,1,3,False,2,3,3,Twitter for Android,5,N1
 hareshmakhija61,0,2,1,1,1,False,2,4,0,Twitter for iPhone,6,N1
 iritsharma,1,0,1,1,0,False,5,4,4,Twitter Web Client,6,N1
@@ -1188,7 +1188,7 @@ TruthArrived,1,0,1,1,2,False,3,0,4,Twitter Web Client,5,N1
 P_K_Srivastava,1,1,1,1,2,False,6,0,5,Mobile Web (M2),5,N1
 cholavarisu,1,2,1,1,3,False,0,1,3,Twitter for Android,6,N1
 pratikpupun,2,1,1,1,2,False,6,4,0,Twitter for Android,4,N1
-Ats72k,1,2,0,1,1,False,8,4,0,Twitter for iPhone,5,N1
+Ats72k,1,2,0,1,1,False,8,4,0,Twitter for iPhone,5,N2
 teamrrg,1,3,1,1,4,False,2,3,5,Twitter for Android,5,N1
 CramWood,1,0,1,1,2,False,2,4,4,TweetCaster for Android,4,N1
 SarojInsa41,1,1,1,2,1,False,3,3,0,Twitter for Android,6,N1
@@ -1247,12 +1247,12 @@ mahanadicoal,1,1,1,1,1,False,2,3,4,Twitter for Android,6,N1
 Rkrajasthan,1,2,1,1,2,False,8,4,4,Twitter for Android,5,N1
 iAnujPrajapati,1,1,1,1,2,False,2,4,4,Twitter for Android,5,N1
 ankitchoradia,1,2,1,1,2,False,2,4,4,Twitter for Android,5,N1
-Arcadier_,2,1,4,1,3,False,5,0,6,Buffer,5,N2
-techie_wheels,2,0,4,1,2,False,3,0,6,Twitter Web Client,4,N2
-suresh_batha,1,2,3,1,1,False,6,2,0,Twitter for iPhone,6,N2
-ReetaInsan,1,2,1,3,0,False,9,4,4,Twitter for Android,7,N2
+Arcadier_,2,1,4,1,3,False,5,0,6,Buffer,5,N1
+techie_wheels,2,0,4,1,2,False,3,0,6,Twitter Web Client,4,N1
+suresh_batha,1,2,3,1,1,False,6,2,0,Twitter for iPhone,6,N1
+ReetaInsan,1,2,1,3,0,False,9,4,4,Twitter for Android,7,N1
 GamesPlayOnline,1,1,4,3,0,False,7,0,5,IFTTT,5,N2
-Shaliniddun,1,3,1,3,0,False,9,4,0,Twitter for Android,7,N2
+Shaliniddun,1,3,1,3,0,False,9,4,0,Twitter for Android,7,N1
 rams95963,1,1,0,1,3,False,1,3,4,Mobile Web (M5),3,N2
 fcukwad,1,4,0,1,3,False,1,2,4,Twitter for iPhone,5,N2
 pharmaleader,2,1,3,1,0,False,1,0,5,fllwrs,6,N2
@@ -1270,7 +1270,7 @@ Jagmeet1900,0,3,0,1,1,False,9,4,4,Twitter for Android,7,N2
 Abhinav231196,1,2,0,0,3,False,1,2,5,Mobile Web (M5),5,N2
 datenkiller101,1,0,4,2,0,False,2,0,5,DatenkillerUniverse,6,N2
 sidhmallinathan,3,1,0,1,4,False,7,3,3,Twitter for Android,5,N2
-rohit_manas,3,0,1,1,0,False,0,0,6,Twitter Web Client,4,N2
+rohit_manas,3,0,1,1,0,False,0,0,6,Twitter Web Client,4,N1
 vvplsg,2,0,4,4,0,False,3,0,0,IFTTT,6,N2
 NileshKoladia,2,1,0,0,3,False,5,3,4,Twitter for iPhone,4,N2
 SushmaKetkar,1,0,3,3,0,False,9,4,0,TweetDeck,5,N2
@@ -1284,7 +1284,7 @@ rakidhfm,0,2,0,1,2,False,4,2,3,Mobile Web (M5),5,N2
 VickymuirMuir,1,0,4,3,0,False,4,0,5,Hootsuite,5,N2
 aaronlcs93,1,2,0,0,2,False,2,3,4,Twitter for iPhone,6,N2
 SrkRocksNRules,3,0,0,1,1,False,3,0,5,dlvr.it,4,N2
-NarendraKBJP,3,0,1,1,0,False,7,0,6,TweetDeck,5,N2
+NarendraKBJP,3,0,1,1,0,False,7,0,6,TweetDeck,5,N1
 mohan0917,2,3,0,0,3,False,3,1,3,Twitter for Android,6,N2
 NavenduTomar,0,2,2,2,0,False,0,4,0,Twitter for iPhone,4,N2
 AapSouthCentral,2,0,0,1,4,False,5,3,0,Twitter for Windows,4,N2
@@ -1867,115 +1867,115 @@ Sauaarya,0,0,0,0,0,False,0,0,0,Mobile Web (M5),6,N2
 ngarg10,0,0,0,0,0,False,0,0,0,Twitter Web Client,6,N2
 Sahilkh39377786,0,0,0,0,0,False,0,0,0,Twitter for Android,7,N2
 Bishantkumar12,0,0,0,0,0,False,0,0,0,Mobile Web (M5),6,N2
-kushwani2,0,1,0,0,1,False,0,1,4,Mobile Web (M5),7,N3
-piyush_sbp,0,0,0,0,1,False,3,4,5,Instagram,6,N3
-dimple_dr,1,1,0,0,1,False,4,2,6,Twitter for iPhone,6,N3
-RAMESHWARLALMA1,0,0,1,1,0,False,1,1,5,Twitter for Android,8,N3
-MoinHeera,0,1,1,2,1,False,1,4,0,Twitter for Windows,3,N3
-VINAYDOKI,0,0,0,0,0,False,6,3,0,Twitter Web Client,7,N3
-jaspreet034,0,1,1,2,0,False,7,4,3,Twitter for Android,8,N3
-Sajeevb,0,0,0,0,0,False,0,0,5,Twitter for iPhone,8,N3
-vijay_kapadi,0,0,0,0,0,False,0,1,5,Mobile Web (M2),5,N3
-basucall,2,4,1,2,1,False,6,4,4,Twitter for iPhone,3,N3
-Faridoonfanclub,1,0,2,2,1,False,4,0,6,WordPress.com,6,N3
-deviprasadv,2,2,1,1,2,False,5,4,4,Twitter for iPad,4,N3
+kushwani2,0,1,0,0,1,False,0,1,4,Mobile Web (M5),7,N2
+piyush_sbp,0,0,0,0,1,False,3,4,5,Instagram,6,N2
+dimple_dr,1,1,0,0,1,False,4,2,6,Twitter for iPhone,6,N2
+RAMESHWARLALMA1,0,0,1,1,0,False,1,1,5,Twitter for Android,8,N2
+MoinHeera,0,1,1,2,1,False,1,4,0,Twitter for Windows,3,N2
+VINAYDOKI,0,0,0,0,0,False,6,3,0,Twitter Web Client,7,N2
+jaspreet034,0,1,1,2,0,False,7,4,3,Twitter for Android,8,N2
+Sajeevb,0,0,0,0,0,False,0,0,5,Twitter for iPhone,8,N2
+vijay_kapadi,0,0,0,0,0,False,0,1,5,Mobile Web (M2),5,N2
+basucall,2,4,1,2,1,False,6,4,4,Twitter for iPhone,3,N1
+Faridoonfanclub,1,0,2,2,1,False,4,0,6,WordPress.com,6,N5
+deviprasadv,2,2,1,1,2,False,5,4,4,Twitter for iPad,4,N1
 Srianuragh,3,4,4,4,4,False,8,2,3,Twitter Web Client,4,N3
 arunishukla,3,2,3,3,3,False,9,0,4,Facebook,5,N3
-iLuckyVaibhav,4,3,2,3,2,False,6,1,3,TweetCaster for Android,7,N3
+iLuckyVaibhav,4,3,2,3,2,False,6,1,3,TweetCaster for Android,7,N0
 teluguactress,3,3,3,3,3,False,8,2,0,GrabInbox,6,N3
-jaggu916,2,4,4,4,2,False,2,3,0,Twitter Web Client,6,N3
-sahebsrkfan,1,2,1,1,3,False,3,2,0,Twitter for Windows Phone,5,N3
+jaggu916,2,4,4,4,2,False,2,3,0,Twitter Web Client,6,N0
+sahebsrkfan,1,2,1,1,3,False,3,2,0,Twitter for Windows Phone,5,N1
 paul_darr,3,1,4,4,4,False,1,0,0,IFTTT,7,N3
-Parammarok,3,1,0,0,0,False,2,4,5,Twitter for Android,7,N3
-nazrulklgassam,4,3,3,3,4,False,4,0,3,Google,4,N3
-vijayag96040733,0,1,0,0,0,False,8,2,0,Mobile Web (M2),5,N3
-Paresh_Luhar,2,4,2,2,2,False,9,3,4,TweetDeck,4,N3
-pinakinariwala,2,1,4,2,1,False,7,0,6,Statusbrew,6,N3
+Parammarok,3,1,0,0,0,False,2,4,5,Twitter for Android,7,N2
+nazrulklgassam,4,3,3,3,4,False,4,0,3,Google,4,N0
+vijayag96040733,0,1,0,0,0,False,8,2,0,Mobile Web (M2),5,N2
+Paresh_Luhar,2,4,2,2,2,False,9,3,4,TweetDeck,4,N5
+pinakinariwala,2,1,4,2,1,False,7,0,6,Statusbrew,6,N5
 KusumBJP,3,0,2,1,1,False,5,0,6,TweetDeck,5,N3
-IndiaNews24x7,4,0,3,4,4,False,0,0,5,dlvr.it,4,N3
-lava_agarwal,1,2,3,3,0,False,7,3,0,Mobile Web (M5),3,N3
+IndiaNews24x7,4,0,3,4,4,False,0,0,5,dlvr.it,4,N0
+lava_agarwal,1,2,3,3,0,False,7,3,0,Mobile Web (M5),3,N4
 RosanShaikh,3,3,1,3,3,False,5,1,3,Facebook,4,N3
 Dwari1008,3,3,4,2,3,False,6,4,5,Twitter for iPhone,6,N3
-govind_insan,2,4,4,4,0,False,1,4,3,Twitter for Android,6,N3
-singhshivanand,0,1,0,0,1,False,8,2,0,UnFollowSpy,5,N3
-shivageologist,3,2,1,1,4,False,3,1,4,Twitter for Android,4,N3
-malujagdish,2,3,2,1,3,False,1,2,5,Twitter for Android,7,N3
-Heenamtaya,4,1,3,3,3,False,6,1,0,Hootsuite,7,N3
-vickiemgutierr2,2,0,4,4,2,False,2,0,3,IFTTT,5,N3
-MrsGundhi,0,3,2,2,0,False,2,3,0,TweetDeck,4,N3
+govind_insan,2,4,4,4,0,False,1,4,3,Twitter for Android,6,N0
+singhshivanand,0,1,0,0,1,False,8,2,0,UnFollowSpy,5,N2
+shivageologist,3,2,1,1,4,False,3,1,4,Twitter for Android,4,N1
+malujagdish,2,3,2,1,3,False,1,2,5,Twitter for Android,7,N5
+Heenamtaya,4,1,3,3,3,False,6,1,0,Hootsuite,7,N0
+vickiemgutierr2,2,0,4,4,2,False,2,0,3,IFTTT,5,N0
+MrsGundhi,0,3,2,2,0,False,2,3,0,TweetDeck,4,N2
 MakadiaHarsh,3,1,3,0,2,False,8,0,6,Statusbrew,6,N3
 SeemabAhmed5,3,4,1,2,4,False,1,0,4,Put your button on any page! ,5,N3
-druidacc,2,0,2,4,1,False,0,0,0,dlvr.it,4,N3
-Pratima944,1,2,3,4,0,False,8,2,0,GrabInbox,6,N3
+druidacc,2,0,2,4,1,False,0,0,0,dlvr.it,4,N5
+Pratima944,1,2,3,4,0,False,8,2,0,GrabInbox,6,N4
 44_mitesh,3,4,3,3,2,False,9,1,6,44_mitesh,5,N3
 arunram,3,2,4,2,4,False,4,4,5,Twitter Web Client,6,N3
-InsanRinkal,3,3,0,3,1,False,7,4,0,Twitter for Android,8,N3
-VisvyaMedia,2,0,4,4,0,False,5,0,3,IFTTT,5,N3
-SKRinten,3,1,1,1,3,False,8,2,5,Twitter for Windows Phone,4,N3
-AmaranteConsult,2,2,4,1,4,False,3,0,4,Twitter for iPhone,6,N3
+InsanRinkal,3,3,0,3,1,False,7,4,0,Twitter for Android,8,N2
+VisvyaMedia,2,0,4,4,0,False,5,0,3,IFTTT,5,N2
+SKRinten,3,1,1,1,3,False,8,2,5,Twitter for Windows Phone,4,N1
+AmaranteConsult,2,2,4,1,4,False,3,0,4,Twitter for iPhone,6,N1
 GangulyBitan,3,3,3,3,3,False,3,2,5,Twitter for Android,3,N3
-kaminiinsan26,2,2,1,3,0,False,9,4,0,Twitter for iPhone,7,N3
+kaminiinsan26,2,2,1,3,0,False,9,4,0,Twitter for iPhone,7,N1
 hargup13,3,2,2,1,4,False,6,3,3,Twitter Web Client,5,N3
-ap_kmission,3,1,3,0,0,False,2,1,6,Twitter Web Client,6,N3
-Vijaykarnataka,4,0,3,3,1,False,1,0,5,cmssocialservice,5,N3
-lifeofanomad,2,0,4,4,1,False,0,0,0,IFTTT,4,N3
-Babita976,1,3,3,4,0,False,8,2,0,GrabInbox,6,N3
+ap_kmission,3,1,3,0,0,False,2,1,6,Twitter Web Client,6,N2
+Vijaykarnataka,4,0,3,3,1,False,1,0,5,cmssocialservice,5,N0
+lifeofanomad,2,0,4,4,1,False,0,0,0,IFTTT,4,N2
+Babita976,1,3,3,4,0,False,8,2,0,GrabInbox,6,N4
 realaapian,3,4,2,3,3,False,9,1,4,TweetDeck,4,N3
 csharitha,3,2,1,2,2,False,6,3,6,Twitter Web Client,5,N3
 akhilp_,3,4,3,2,2,False,4,4,6,Twitter for Android,6,N3
-giftsfortravel,2,1,4,2,3,False,4,0,3,dlvr.it,5,N3
+giftsfortravel,2,1,4,2,3,False,4,0,3,dlvr.it,5,N5
 tuse_ashish,3,3,1,0,2,False,2,4,5,Twitter for Android,4,N3
 mg_capital,3,0,4,1,4,False,5,0,4,Hootsuite,5,N3
-venkat572,0,1,3,3,1,False,7,2,0,TweetDeck,6,N3
-DKCP35,2,4,4,4,0,False,3,3,0,Twitter for iPhone,4,N3
-poojasaini25,3,2,0,4,3,False,9,4,0,Twitter for Android,7,N3
+venkat572,0,1,3,3,1,False,7,2,0,TweetDeck,6,N2
+DKCP35,2,4,4,4,0,False,3,3,0,Twitter for iPhone,4,N0
+poojasaini25,3,2,0,4,3,False,9,4,0,Twitter for Android,7,N2
 imvijaymp,3,1,2,1,4,False,7,2,4,Twitter Web Client,5,N3
-SickularDalit,1,3,3,3,0,False,1,1,0,Tumblr,5,N3
-bookcomplaint,2,0,2,3,0,False,0,0,3,Google,4,N3
-RajivNirman,0,3,3,3,1,False,8,2,0,GrabInbox,6,N3
-myeglu,3,0,2,0,4,False,7,0,5,IFTTT,6,N3
+SickularDalit,1,3,3,3,0,False,1,1,0,Tumblr,5,N4
+bookcomplaint,2,0,2,3,0,False,0,0,3,Google,4,N2
+RajivNirman,0,3,3,3,1,False,8,2,0,GrabInbox,6,N2
+myeglu,3,0,2,0,4,False,7,0,5,IFTTT,6,N2
 ceciletamura,3,4,4,3,4,False,1,1,5,Twitter Web Client,3,N3
 ParmarKapil,3,2,3,2,2,False,8,3,6,Twitter for iPhone,5,N3
-agk4444,2,0,4,4,3,False,4,0,0,Facebook,4,N3
+agk4444,2,0,4,4,3,False,4,0,0,Facebook,4,N0
 dsmalik_inc,3,3,1,2,3,False,5,1,6,Twitter for Android,4,N3
-good_assurance,1,0,3,3,2,False,5,0,3,Good asurance,5,N3
-sparsh92920074,3,2,0,2,0,False,9,4,4,Twitter for Android,6,N3
-Nisha_NPU,2,1,4,3,0,False,3,0,4,WordPress.com,4,N3
+good_assurance,1,0,3,3,2,False,5,0,3,Good asurance,5,N4
+sparsh92920074,3,2,0,2,0,False,9,4,4,Twitter for Android,6,N2
+Nisha_NPU,2,1,4,3,0,False,3,0,4,WordPress.com,4,N2
 jagjeetdholl645,3,2,1,4,3,False,9,4,0,Twitter for Android,7,N3
 balp10,3,4,2,4,1,False,9,3,5,Twitter for iPhone,6,N3
 syed_shaque46,3,1,1,1,4,False,0,0,0,Twitter for iPad,3,N3
-Ambika109,1,3,3,4,0,False,8,2,0,GrabInbox,6,N3
-shravanraj11,0,3,3,3,0,False,8,2,0,GrabInbox,6,N3
-magberrymag,3,0,2,0,4,False,2,0,3,Google,5,N3
+Ambika109,1,3,3,4,0,False,8,2,0,GrabInbox,6,N4
+shravanraj11,0,3,3,3,0,False,8,2,0,GrabInbox,6,N2
+magberrymag,3,0,2,0,4,False,2,0,3,Google,5,N2
 DrNandiniBJP,3,0,2,1,4,False,7,2,5,Twitter Web Client,5,N3
 Vinkashyap,3,2,4,1,2,False,4,1,3,Twitter Web Client,5,N3
-premkideeweni,2,3,4,4,1,False,4,0,0,IFTTT,4,N3
+premkideeweni,2,3,4,4,1,False,4,0,0,IFTTT,4,N0
 pandeyrenu576,3,3,1,2,3,False,7,3,6,Twitter for Android,4,N3
-iamsalome,2,0,3,4,2,False,1,0,4,Twitter Web Client,4,N3
+iamsalome,2,0,3,4,2,False,1,0,4,Twitter Web Client,4,N4
 bigfundu,3,4,3,2,1,False,3,1,6,Twitter for Android,5,N3
-InElectionNews,2,0,4,3,0,False,6,0,4,IFTTT,5,N3
+InElectionNews,2,0,4,3,0,False,6,0,4,IFTTT,5,N2
 sushma17990845,3,4,1,3,2,False,9,4,6,Twitter for Android,6,N3
 manouboulier,3,2,4,2,4,False,3,3,4,Twitter for iPhone,6,N3
 GetRidofDevils,3,1,2,3,3,False,4,1,3,Twitter for iPhone,4,N3
-Sagarika716,1,4,3,3,0,False,8,2,0,GrabInbox,6,N3
-nithinjaiswal4,0,3,3,3,0,False,8,2,0,GrabInbox,6,N3
-JessieBottcher,2,0,3,4,0,False,0,0,0,IFTTT,3,N3
+Sagarika716,1,4,3,3,0,False,8,2,0,GrabInbox,6,N4
+nithinjaiswal4,0,3,3,3,0,False,8,2,0,GrabInbox,6,N2
+JessieBottcher,2,0,3,4,0,False,0,0,0,IFTTT,3,N2
 lalanshanti,3,1,2,2,4,False,0,0,5,Twitter for Windows Phone,5,N3
 sajithkumar,3,2,2,1,3,False,3,3,5,Twitter Web Client,5,N3
 CasaMagdalenaCo,3,1,4,4,4,False,1,4,0,Mobile Web (M5),4,N3
-hamid9049,3,3,1,1,4,False,8,4,3,Twitter for Android,4,N3
-IbsenJG,2,0,4,4,1,False,0,0,0,dlvr.it,5,N3
+hamid9049,3,3,1,1,4,False,8,4,3,Twitter for Android,4,N1
+IbsenJG,2,0,4,4,1,False,0,0,0,dlvr.it,5,N2
 GarvSeGujju,3,4,3,2,2,False,9,1,5,TweetDeck,4,N3
-SuperGops,3,0,3,0,3,False,6,0,4,Twitter Web Client,5,N3
+SuperGops,3,0,3,0,3,False,6,0,4,Twitter Web Client,5,N2
 Sukhmanmeet1,3,4,1,3,1,False,9,4,6,Twitter for Android,6,N3
-kousikd1,3,2,1,1,4,False,1,0,4,Google,6,N3
-tweetchristo,2,1,4,3,0,False,3,0,3,IFTTT,5,N3
-pavan_sadineni,1,3,3,3,1,False,8,2,0,GrabInbox,6,N3
-sharan35379873,0,3,3,3,0,False,8,2,0,GrabInbox,6,N3
+kousikd1,3,2,1,1,4,False,1,0,4,Google,6,N1
+tweetchristo,2,1,4,3,0,False,3,0,3,IFTTT,5,N2
+pavan_sadineni,1,3,3,3,1,False,8,2,0,GrabInbox,6,N4
+sharan35379873,0,3,3,3,0,False,8,2,0,GrabInbox,6,N2
 nazrah,3,1,4,4,3,False,7,2,0,Twitter for iPhone,3,N3
 vsvadivelfca,3,2,2,2,0,False,0,0,6,Twitter Web Client,7,N3
 make_itpossible,3,3,2,3,2,False,2,3,5,Twitter for iPhone,5,N3
-choeku_jack,2,0,3,4,0,False,0,0,4,Google,4,N3
+choeku_jack,2,0,3,4,0,False,0,0,4,Google,4,N2
 vukovinski,3,1,4,2,4,False,7,1,0,Digital Transformation Bot,4,N3
 Hvkaur89,3,4,4,4,2,False,8,4,4,Twitter for Android,7,N3
 vinaysanger,3,2,1,2,4,False,9,1,5,Twitter for Android,5,N3
@@ -1983,33 +1983,33 @@ AMAREND34128394,3,0,3,1,1,False,6,2,0,Twitter for Windows Phone,4,N3
 A_True_Liar_,3,4,1,3,1,False,5,3,3,Twitter for Android,5,N3
 victoria_yyj,3,2,4,1,3,False,3,0,3,Twitter for iPad,6,N3
 snehsingh1991,3,1,1,1,4,False,4,0,5,Statusbrew,5,N3
-sureshalate,2,0,4,3,1,False,3,0,0,IFTTT,6,N3
-Sukhdarshan77,3,3,0,2,0,False,9,4,0,Twitter Web Client,7,N3
+sureshalate,2,0,4,3,1,False,3,0,0,IFTTT,6,N2
+Sukhdarshan77,3,3,0,2,0,False,9,4,0,Twitter Web Client,7,N2
 J_Contender,3,2,2,3,3,False,2,2,4,TweetCaster for Android,6,N3
-BellaSharma,2,0,3,4,0,False,0,0,0,dlvr.it,4,N3
-mowsamagri,3,3,1,1,2,False,1,2,5,Twitter for iPhone,5,N3
+BellaSharma,2,0,3,4,0,False,0,0,0,dlvr.it,4,N2
+mowsamagri,3,3,1,1,2,False,1,2,5,Twitter for iPhone,5,N1
 neohulk,3,3,3,3,2,False,0,3,6,Twitter Web Client,4,N3
-cardlessnews,2,1,4,4,2,False,0,0,0,IFTTT,5,N3
+cardlessnews,2,1,4,4,2,False,0,0,0,IFTTT,5,N0
 princeinsan63,3,4,2,4,1,False,8,4,4,Twitter for Android,6,N3
 mananbhatt1991,3,3,3,2,4,False,2,1,4,fllwrs,5,N3
 Honeypicker001,3,2,1,2,3,False,6,2,0,Twitter for BlackBerry,4,N3
 sbalyan,3,4,4,3,4,False,8,3,3,Twitter for Android,4,N3
 Rene_the_Bot,3,0,4,3,0,False,7,1,4,René the Bot,6,N3
-Pancham_Tyagi,3,1,1,1,4,False,5,0,6,Twitter Web Client,4,N3
-gokul64,2,0,1,3,1,False,0,0,0,Facebook,5,N3
-rajiv77771,3,3,0,2,0,False,8,4,0,Twitter for Android,7,N3
+Pancham_Tyagi,3,1,1,1,4,False,5,0,6,Twitter Web Client,4,N1
+gokul64,2,0,1,3,1,False,0,0,0,Facebook,5,N1
+rajiv77771,3,3,0,2,0,False,8,4,0,Twitter for Android,7,N2
 rahimpadaniya,3,1,2,1,3,False,6,0,5,Twitter Web Client,6,N3
 swaratmika,3,0,4,4,3,False,3,2,3,Twitter for iPhone,5,N3
 SoHyperSoClumsy,3,2,3,2,2,False,3,1,5,Twitter for iPhone,6,N3
 Chandann98,3,4,3,4,2,False,4,3,0,Mobile Web (M2),4,N3
-Apkbox_in,2,1,4,3,2,False,2,0,0,IFTTT,5,N3
+Apkbox_in,2,1,4,3,2,False,2,0,0,IFTTT,5,N5
 sun_suku,3,4,2,4,0,False,0,2,0,Twitter for Android,3,N3
 Ajays23,3,3,2,4,3,False,1,4,4,Twitter Web Client,5,N3
 sharma_rm,3,3,3,2,0,False,2,3,5,TweetDeck,5,N3
 sran_vijay,3,2,2,3,3,False,6,2,3,Twitter for iPad,4,N3
 _backlink_,3,0,4,2,1,False,7,1,0,BacklinkBot,6,N3
 DataToValue,3,1,4,3,4,False,5,0,4,Buffer,6,N3
-sureshtekwani,3,2,1,1,4,False,0,0,3,Twitter Web Client,4,N3
+sureshtekwani,3,2,1,1,4,False,0,0,3,Twitter Web Client,4,N1
 goravsharma7777,3,3,1,3,0,False,8,4,0,Twitter for Android,7,N3
 jankibaat1,3,1,3,1,1,False,4,0,6,Twitter Web Client,5,N3
 HarshilGujarati,3,4,4,4,2,False,9,2,5,TweetCaster for Android,4,N3
@@ -2062,7 +2062,7 @@ anildigital,3,3,4,3,4,False,0,3,5,Twitter for iPhone,6,N3
 Nirmal77771,3,3,1,2,0,False,8,4,0,Twitter Web Client,7,N3
 JiffyJoseph,3,1,4,3,1,False,6,1,0,ChennaiFloodRescue,5,N3
 Deshdaaz,3,2,3,3,3,False,2,3,0,Mobile Web (M5),4,N3
-mpdubey86,3,2,1,1,4,False,3,2,5,Twitter for iPhone,5,N3
+mpdubey86,3,2,1,1,4,False,3,2,5,Twitter for iPhone,5,N1
 InsanHunny,3,4,3,4,0,False,9,4,5,Twitter for Android,6,N3
 PeterJPap,3,4,2,3,4,False,1,1,4,Twitter for Android,4,N3
 vijaydesikan,3,1,2,1,3,False,5,0,4,Facebook,5,N3
@@ -2118,7 +2118,7 @@ APLatestNews,3,1,3,4,1,False,2,0,0,Google,6,N3
 iprashantsharma,3,4,3,4,3,False,1,3,0,IFTTT,4,N3
 Utk__arsh,3,1,2,3,2,False,6,4,0,Twitter for Windows,5,N3
 ajantriks,3,3,4,3,4,False,4,3,5,Twitter Web Client,6,N3
-shrikantswamy,3,2,1,1,3,False,0,0,5,Twitter for Android,5,N3
+shrikantswamy,3,2,1,1,3,False,0,0,5,Twitter for Android,5,N1
 aamirspk1,3,3,1,3,2,False,3,2,5,Twitter for iPhone,5,N3
 kesarwani_vinay,3,3,3,2,4,False,5,1,3,Twitter for Android,6,N3
 manishbpl1,3,1,3,2,2,False,5,0,6,Twitter for iPhone,4,N3
@@ -2328,203 +2328,203 @@ Twitvention,3,3,3,3,3,False,9,3,4,Twitter for iPhone,5,N3
 mary_jancy,3,4,3,3,4,False,7,3,0,Twitter for iPhone,4,N3
 InsaneRatzzy,3,4,3,3,3,False,5,3,0,Twitter for iPhone,4,N3
 Ravigrover12,3,4,3,3,4,False,8,3,0,Twitter for iPhone,4,N3
-spreadigital,3,2,1,0,3,False,0,0,6,Put your button on any page! ,5,N4
-travadiz,3,4,4,4,1,False,2,0,3,Google,7,N4
-magical_munda,4,2,1,2,3,False,6,0,4,Twitter Web Client,7,N4
-karur_regan,4,3,1,2,3,False,2,1,5,Facebook,5,N4
-sobuluv,4,0,2,1,4,False,6,1,0,Twitter for Android,7,N4
-AnujTodi,1,2,1,0,2,False,4,1,6,Twitter for iPhone,5,N4
-GamyaPatel,1,3,2,2,1,False,9,1,5,TweetDeck,4,N4
-sarath_civil,3,4,1,1,4,False,1,4,5,Twitter for iPhone,5,N4
-SocialTamasha,1,1,2,1,3,False,8,1,3,TweetDeck,5,N4
-milindshah2006,3,2,4,4,4,False,3,2,3,Twitter for Windows,5,N4
-DraytonDoris,1,2,4,0,2,False,7,1,0,FintechNow,6,N4
-gzstrategy,3,2,4,2,4,False,2,1,4,Integromat,5,N4
+spreadigital,3,2,1,0,3,False,0,0,6,Put your button on any page! ,5,N3
+travadiz,3,4,4,4,1,False,2,0,3,Google,7,N3
+magical_munda,4,2,1,2,3,False,6,0,4,Twitter Web Client,7,N0
+karur_regan,4,3,1,2,3,False,2,1,5,Facebook,5,N0
+sobuluv,4,0,2,1,4,False,6,1,0,Twitter for Android,7,N0
+AnujTodi,1,2,1,0,2,False,4,1,6,Twitter for iPhone,5,N1
+GamyaPatel,1,3,2,2,1,False,9,1,5,TweetDeck,4,N5
+sarath_civil,3,4,1,1,4,False,1,4,5,Twitter for iPhone,5,N1
+SocialTamasha,1,1,2,1,3,False,8,1,3,TweetDeck,5,N1
+milindshah2006,3,2,4,4,4,False,3,2,3,Twitter for Windows,5,N3
+DraytonDoris,1,2,4,0,2,False,7,1,0,FintechNow,6,N2
+gzstrategy,3,2,4,2,4,False,2,1,4,Integromat,5,N3
 Pratibha364,2,1,3,3,0,False,8,2,0,GrabInbox,6,N4
 SunitaWilson72,2,4,3,3,2,False,9,3,0,Twitter for Android,3,N4
 modifan62,2,3,3,4,1,False,0,0,0,IFTTT,4,N4
-NoUllooBanoing,4,0,3,3,3,False,7,3,3,Twitter Web Client,3,N4
-jnsuryaprakash,2,0,3,2,3,False,6,0,4,Paper.li,6,N4
-abhisheksinghjb,2,2,0,1,4,False,3,4,4,Mobile Web (M5),6,N4
-VinodTaparia1,4,4,3,4,4,False,6,3,5,Twitter for iPad,4,N4
-niprsaka,1,4,2,3,1,False,2,3,3,Twitter Web Client,4,N4
-SumitaDawra,3,1,3,0,1,False,5,1,6,Twitter for iPhone,5,N4
-econoclastic,2,1,2,1,2,False,5,4,4,Twitter for Android,5,N4
-adityakrdam,3,2,1,1,4,False,4,2,3,Twitter for iPhone,4,N4
-Hashtagwalla,1,2,1,2,3,False,6,4,0,Twitter for Android,6,N4
-Hari_Natham,4,2,0,3,3,False,5,1,4,Put your button on any page! ,5,N4
-shail_manjrekar,3,1,3,1,4,False,4,1,5,Facebook,7,N4
+NoUllooBanoing,4,0,3,3,3,False,7,3,3,Twitter Web Client,3,N0
+jnsuryaprakash,2,0,3,2,3,False,6,0,4,Paper.li,6,N5
+abhisheksinghjb,2,2,0,1,4,False,3,4,4,Mobile Web (M5),6,N2
+VinodTaparia1,4,4,3,4,4,False,6,3,5,Twitter for iPad,4,N0
+niprsaka,1,4,2,3,1,False,2,3,3,Twitter Web Client,4,N5
+SumitaDawra,3,1,3,0,1,False,5,1,6,Twitter for iPhone,5,N2
+econoclastic,2,1,2,1,2,False,5,4,4,Twitter for Android,5,N5
+adityakrdam,3,2,1,1,4,False,4,2,3,Twitter for iPhone,4,N1
+Hashtagwalla,1,2,1,2,3,False,6,4,0,Twitter for Android,6,N1
+Hari_Natham,4,2,0,3,3,False,5,1,4,Put your button on any page! ,5,N2
+shail_manjrekar,3,1,3,1,4,False,4,1,5,Facebook,7,N3
 murali_talasila,1,3,3,3,0,False,8,2,0,GrabInbox,6,N4
-dryogeshgpatel,3,4,4,4,4,False,7,3,3,Twitter for Android,3,N4
+dryogeshgpatel,3,4,4,4,4,False,7,3,3,Twitter for Android,3,N3
 AggregatorENews,1,0,3,3,2,False,0,0,0,IFTTT,4,N4
 saabsarkaar9,2,4,3,4,0,False,9,4,3,Twitter for iPad,7,N4
 MishraKamalN,2,2,4,3,1,False,3,0,0,WordPress.com,5,N4
-thevaibhavag1,4,0,3,2,4,False,4,0,5,Facebook,6,N4
-Americana777,2,4,4,4,3,False,2,3,0,Twitter Web Client,4,N4
-Mahendra7788,1,1,2,2,1,False,8,3,3,Twitter for Android,5,N4
-RushabhAcharya,2,1,3,0,2,False,2,1,4,Twitter Web Client,6,N4
-journo007,3,2,2,1,3,False,6,1,4,Twitter Web Client,4,N4
-hariomardbeg,3,4,1,2,4,False,9,3,0,Twitter for Android,3,N4
-LucyPurdon,3,2,3,1,3,False,5,2,6,Twitter for iPhone,5,N4
-imwasimmondal,4,3,3,4,4,False,4,1,4,Twitter for Android,8,N4
+thevaibhavag1,4,0,3,2,4,False,4,0,5,Facebook,6,N0
+Americana777,2,4,4,4,3,False,2,3,0,Twitter Web Client,4,N0
+Mahendra7788,1,1,2,2,1,False,8,3,3,Twitter for Android,5,N5
+RushabhAcharya,2,1,3,0,2,False,2,1,4,Twitter Web Client,6,N2
+journo007,3,2,2,1,3,False,6,1,4,Twitter Web Client,4,N3
+hariomardbeg,3,4,1,2,4,False,9,3,0,Twitter for Android,3,N3
+LucyPurdon,3,2,3,1,3,False,5,2,6,Twitter for iPhone,5,N3
+imwasimmondal,4,3,3,4,4,False,4,1,4,Twitter for Android,8,N0
 Mounika341,1,3,3,3,0,False,8,2,0,GrabInbox,6,N4
-rani_prani6994,2,2,1,3,1,False,7,4,3,Twitter for Android,7,N4
-anadi1984,1,2,2,3,2,False,7,3,0,Twitter for Windows,4,N4
-arvind_now,2,1,3,1,1,False,3,2,5,Mobile Web (M5),5,N4
-NunezPipi,2,2,4,4,3,False,4,0,3,IFTTT,5,N4
-SandeepKulsh,4,1,3,2,4,False,5,0,4,Put your button on any page! ,6,N4
-pavan_de,3,4,4,3,4,False,5,3,0,Twitter for iPhone,3,N4
-GadgetOx,2,1,3,2,0,False,0,0,3,WordPress.com,4,N4
-PreetIn00536904,2,2,2,4,1,False,9,4,3,Twitter for Android,7,N4
-bahutbadadanda,1,4,2,3,3,False,5,1,4,Twitter Web Client,4,N4
-prithviatul,2,4,1,1,3,False,8,3,5,Twitter for Android,4,N4
-CharulataRKumar,3,1,3,1,1,False,3,1,6,Twitter for iPhone,6,N4
-shwetankrocks,4,3,3,2,4,False,7,1,4,Tweet Jukebox,6,N4
+rani_prani6994,2,2,1,3,1,False,7,4,3,Twitter for Android,7,N1
+anadi1984,1,2,2,3,2,False,7,3,0,Twitter for Windows,4,N5
+arvind_now,2,1,3,1,1,False,3,2,5,Mobile Web (M5),5,N1
+NunezPipi,2,2,4,4,3,False,4,0,3,IFTTT,5,N0
+SandeepKulsh,4,1,3,2,4,False,5,0,4,Put your button on any page! ,6,N0
+pavan_de,3,4,4,3,4,False,5,3,0,Twitter for iPhone,3,N3
+GadgetOx,2,1,3,2,0,False,0,0,3,WordPress.com,4,N2
+PreetIn00536904,2,2,2,4,1,False,9,4,3,Twitter for Android,7,N5
+bahutbadadanda,1,4,2,3,3,False,5,1,4,Twitter Web Client,4,N5
+prithviatul,2,4,1,1,3,False,8,3,5,Twitter for Android,4,N1
+CharulataRKumar,3,1,3,1,1,False,3,1,6,Twitter for iPhone,6,N3
+shwetankrocks,4,3,3,2,4,False,7,1,4,Tweet Jukebox,6,N0
 ibadah8,1,3,3,3,0,False,6,2,0,TweetDeck,5,N4
-yviren,3,2,3,4,1,False,2,1,5,Twitter Web Client,3,N4
-Shikhadudeja1,2,2,0,3,2,False,9,4,3,Twitter for Android,6,N4
-abdulali03,0,3,3,3,1,False,6,2,0,TweetDeck,5,N4
-trickz_strong69,2,2,1,1,3,False,1,3,5,Twitter for Android,5,N4
-ModdedApks,4,2,3,2,4,False,0,0,4,dlvr.it,6,N4
-DyingConsciousn,3,4,4,4,3,False,1,3,3,Twitter for Android,4,N4
-rishu5171,4,3,3,3,4,False,2,3,0,Mobile Web (M5),3,N4
-visumurugan,2,2,4,1,2,False,4,1,0,VoiceStorm,6,N4
-common_man88,1,3,3,4,1,False,5,0,3,IFTTT,5,N4
-blueredoran,1,2,2,3,3,False,0,2,3,Twitter for Android,4,N4
-AAPkaThakar,3,4,3,3,3,False,9,1,6,aapkathakar,4,N4
-smilingbird7,4,2,3,1,4,False,5,0,4,Twitter Web Client,7,N4
+yviren,3,2,3,4,1,False,2,1,5,Twitter Web Client,3,N3
+Shikhadudeja1,2,2,0,3,2,False,9,4,3,Twitter for Android,6,N2
+abdulali03,0,3,3,3,1,False,6,2,0,TweetDeck,5,N2
+trickz_strong69,2,2,1,1,3,False,1,3,5,Twitter for Android,5,N1
+ModdedApks,4,2,3,2,4,False,0,0,4,dlvr.it,6,N0
+DyingConsciousn,3,4,4,4,3,False,1,3,3,Twitter for Android,4,N3
+rishu5171,4,3,3,3,4,False,2,3,0,Mobile Web (M5),3,N0
+visumurugan,2,2,4,1,2,False,4,1,0,VoiceStorm,6,N1
+common_man88,1,3,3,4,1,False,5,0,3,IFTTT,5,N1
+blueredoran,1,2,2,3,3,False,0,2,3,Twitter for Android,4,N5
+AAPkaThakar,3,4,3,3,3,False,9,1,6,aapkathakar,4,N3
+smilingbird7,4,2,3,1,4,False,5,0,4,Twitter Web Client,7,N0
 iPrafulchavda,2,1,3,3,0,False,6,4,0,Twitter for Windows Phone,6,N4
 awwlsee,1,3,3,2,0,False,0,3,4,Mobile Web (M5),5,N4
-Saniya1987,2,4,3,2,2,False,9,2,5,TweetDeck,4,N4
-manojku02764733,2,2,0,3,4,False,8,4,0,Twitter for Android,7,N4
-dhruvsharmaits1,2,3,1,1,3,False,4,3,0,Twitter for Android,3,N4
-devoirtech,3,4,3,4,4,False,6,1,5,Twitter for iPhone,6,N4
-iamkaushikraj,2,2,4,2,1,False,2,3,3,Mobile Web (M5),5,N4
-Shakra_Kulish,3,4,3,4,3,False,1,2,4,Twitter for Windows Phone,5,N4
-shreeraamDG,2,2,4,1,4,False,5,1,3,Track_Autonomous Car_Updates,5,N4
+Saniya1987,2,4,3,2,2,False,9,2,5,TweetDeck,4,N5
+manojku02764733,2,2,0,3,4,False,8,4,0,Twitter for Android,7,N2
+dhruvsharmaits1,2,3,1,1,3,False,4,3,0,Twitter for Android,3,N1
+devoirtech,3,4,3,4,4,False,6,1,5,Twitter for iPhone,6,N3
+iamkaushikraj,2,2,4,2,1,False,2,3,3,Mobile Web (M5),5,N5
+Shakra_Kulish,3,4,3,4,3,False,1,2,4,Twitter for Windows Phone,5,N3
+shreeraamDG,2,2,4,1,4,False,5,1,3,Track_Autonomous Car_Updates,5,N1
 Tweet_PNB,1,1,3,3,1,False,7,2,0,TweetDeck,6,N4
-NewsStoryIndia,4,2,3,3,0,False,0,0,3,dlvr.it,4,N4
-shajan75,3,3,3,2,4,False,2,1,6,Twitter for Android,7,N4
-pshunglu,4,2,3,2,2,False,4,3,4,Twitter Web Client,4,N4
+NewsStoryIndia,4,2,3,3,0,False,0,0,3,dlvr.it,4,N0
+shajan75,3,3,3,2,4,False,2,1,6,Twitter for Android,7,N3
+pshunglu,4,2,3,2,2,False,4,3,4,Twitter Web Client,4,N0
 Bis_Sandeep,2,1,3,4,2,False,6,0,3,IFTTT,6,N4
-TopRT_IN,4,4,3,3,3,False,9,4,4,TopRT.com,5,N4
+TopRT_IN,4,4,3,3,3,False,9,4,4,TopRT.com,5,N0
 ministryinb,1,3,3,3,0,False,8,2,0,GrabInbox,6,N4
-ErPrincerock,2,2,1,3,4,False,8,4,0,Twitter for Android,7,N4
-leadsbot,2,2,4,1,3,False,5,1,0,www.leadsrobot.co,5,N4
-JaiHoNaMo,3,3,3,3,1,False,4,2,5,Twitter for iPhone,3,N4
-PCCPONDY,2,2,1,3,0,False,4,3,5,Twitter for Android,4,N4
+ErPrincerock,2,2,1,3,4,False,8,4,0,Twitter for Android,7,N1
+leadsbot,2,2,4,1,3,False,5,1,0,www.leadsrobot.co,5,N1
+JaiHoNaMo,3,3,3,3,1,False,4,2,5,Twitter for iPhone,3,N3
+PCCPONDY,2,2,1,3,0,False,4,3,5,Twitter for Android,4,N1
 moiyyad,2,4,3,4,3,False,9,3,0,Twitter for Windows Phone,3,N4
-Prav001,2,2,1,1,4,False,1,2,3,Twitter Web Client,5,N4
+Prav001,2,2,1,1,4,False,1,2,3,Twitter Web Client,5,N1
 shounak_d,1,1,3,3,1,False,2,1,4,TweetDeck,4,N4
-ajitkld,3,4,3,4,4,False,6,4,3,Twitter for Android,3,N4
-mediaindiagroup,3,2,3,1,4,False,5,1,6,WordPress.com,5,N4
-Vel_Veer,1,3,3,2,2,False,3,3,0,Twitter for iPhone,4,N4
-nikhilchopra,4,2,3,2,3,False,6,0,5,Twitter for iPhone,6,N4
-vinodleo007,2,0,3,3,0,False,2,0,4,Twitter Web Client,4,N4
-r_ranjan4,1,3,3,1,2,False,7,2,0,Twitter Web Client,6,N4
-Dayanand1952,3,3,3,4,3,False,9,4,3,Twitter for Android,7,N4
-coolraj82,2,4,4,3,1,False,5,2,3,Twitter for Android,4,N4
-pri1us,1,1,3,4,1,False,4,3,0,TweetDeck,5,N4
-doegarjee,2,2,1,1,3,False,2,1,4,Twitter for Android,5,N4
+ajitkld,3,4,3,4,4,False,6,4,3,Twitter for Android,3,N3
+mediaindiagroup,3,2,3,1,4,False,5,1,6,WordPress.com,5,N3
+Vel_Veer,1,3,3,2,2,False,3,3,0,Twitter for iPhone,4,N5
+nikhilchopra,4,2,3,2,3,False,6,0,5,Twitter for iPhone,6,N0
+vinodleo007,2,0,3,3,0,False,2,0,4,Twitter Web Client,4,N2
+r_ranjan4,1,3,3,1,2,False,7,2,0,Twitter Web Client,6,N1
+Dayanand1952,3,3,3,4,3,False,9,4,3,Twitter for Android,7,N3
+coolraj82,2,4,4,3,1,False,5,2,3,Twitter for Android,4,N5
+pri1us,1,1,3,4,1,False,4,3,0,TweetDeck,5,N1
+doegarjee,2,2,1,1,3,False,2,1,4,Twitter for Android,5,N1
 Tretayug,2,0,3,3,3,False,8,2,4,Mobile Web (M5),3,N4
-isaikatghosh,3,2,3,1,0,False,3,3,5,Twitter Web Client,6,N4
-therastravadi,4,1,3,3,3,False,1,1,0,Twitter for iPad,4,N4
-anita13808147,3,4,3,3,1,False,6,4,3,Twitter for iPad,5,N4
-vimalvimlendra,3,4,3,4,4,False,5,3,4,TweetDeck,5,N4
-NikhiilDassani,2,3,3,2,4,False,0,4,3,Twitter for iPhone,4,N4
-aposhatwar,1,2,3,1,2,False,4,1,0,Twitter for Android,7,N4
-Justicegroupie2,4,4,3,3,4,False,3,3,5,Twitter for iPhone,4,N4
+isaikatghosh,3,2,3,1,0,False,3,3,5,Twitter Web Client,6,N3
+therastravadi,4,1,3,3,3,False,1,1,0,Twitter for iPad,4,N0
+anita13808147,3,4,3,3,1,False,6,4,3,Twitter for iPad,5,N3
+vimalvimlendra,3,4,3,4,4,False,5,3,4,TweetDeck,5,N3
+NikhiilDassani,2,3,3,2,4,False,0,4,3,Twitter for iPhone,4,N5
+aposhatwar,1,2,3,1,2,False,4,1,0,Twitter for Android,7,N1
+Justicegroupie2,4,4,3,3,4,False,3,3,5,Twitter for iPhone,4,N0
 shukla_sanj,1,3,3,3,2,False,8,2,0,GrabInbox,6,N4
-The_Tausif,2,2,1,1,3,False,2,2,3,Twitter for Android,4,N4
-pamelag2000,3,3,3,4,4,False,9,1,4,Twitter Web Client,6,N4
-prasantmani,2,1,3,2,1,False,4,3,0,Twitter for Windows Phone,5,N4
-M_heSh,2,2,1,3,3,False,2,4,3,Twitter for Android,4,N4
-SaffronWatch,4,3,3,3,4,False,0,0,4,Twitter for Android,3,N4
+The_Tausif,2,2,1,1,3,False,2,2,3,Twitter for Android,4,N1
+pamelag2000,3,3,3,4,4,False,9,1,4,Twitter Web Client,6,N3
+prasantmani,2,1,3,2,1,False,4,3,0,Twitter for Windows Phone,5,N5
+M_heSh,2,2,1,3,3,False,2,4,3,Twitter for Android,4,N1
+SaffronWatch,4,3,3,3,4,False,0,0,4,Twitter for Android,3,N0
 satish_shetty,2,2,3,1,2,False,2,0,6,Twitter Web Client,5,N4
 probeNSEL,1,2,3,3,1,False,5,1,0,Mobile Web (M5),2,N4
-AankhiGM,3,4,3,3,1,False,1,4,5,Twitter for iPhone,4,N4
+AankhiGM,3,4,3,3,1,False,1,4,5,Twitter for iPhone,4,N3
 sundeepa,2,0,3,1,1,False,5,3,0,TweetCaster for Android,5,N4
-anu141,3,4,3,4,4,False,6,3,3,Twitter for iPhone,4,N4
+anu141,3,4,3,4,4,False,6,3,3,Twitter for iPhone,4,N3
 Haricharan1012,1,3,3,3,0,False,7,2,0,TweetDeck,6,N4
-teenageee,2,2,3,2,2,False,3,1,5,Twitter for iPad,5,N4
+teenageee,2,2,3,2,2,False,3,1,5,Twitter for iPad,5,N5
 CongressKajana,1,3,3,3,2,False,8,2,0,GrabInbox,6,N4
-RohVino,2,4,3,2,3,False,9,1,3,RohVino,4,N4
-hardik015,3,2,3,1,4,False,4,4,5,Twitter Web Client,6,N4
-yaabot,2,1,3,2,1,False,4,1,3,Hootsuite,5,N4
+RohVino,2,4,3,2,3,False,9,1,3,RohVino,4,N5
+hardik015,3,2,3,1,4,False,4,4,5,Twitter Web Client,6,N3
+yaabot,2,1,3,2,1,False,4,1,3,Hootsuite,5,N5
 srini0851,2,4,3,4,3,False,8,3,4,Twitter Web Client,4,N4
-Nihalhaider7,4,2,3,3,3,False,3,1,0,Twitter for Android,7,N4
+Nihalhaider7,4,2,3,3,3,False,3,1,0,Twitter for Android,7,N0
 android_thing,2,3,3,1,4,False,6,2,4,androidthing,6,N4
-ladki_natkhat,4,2,3,3,4,False,5,0,3,Twitter Web Client,7,N4
+ladki_natkhat,4,2,3,3,4,False,5,0,3,Twitter Web Client,7,N0
 56feku,1,3,3,3,1,False,9,3,0,Mobile Web (M5),3,N4
-ashishdua1,3,2,3,1,3,False,7,2,6,Twitter for iPhone,5,N4
-OnlyForPsPk,3,2,3,4,2,False,2,3,4,Twitter Web Client,4,N4
-shafijindal,3,4,3,3,0,False,7,4,0,Twitter for Android,7,N4
-VikramSKumar,1,1,3,2,2,False,5,2,3,Twitter for Android,4,N4
+ashishdua1,3,2,3,1,3,False,7,2,6,Twitter for iPhone,5,N3
+OnlyForPsPk,3,2,3,4,2,False,2,3,4,Twitter Web Client,4,N3
+shafijindal,3,4,3,3,0,False,7,4,0,Twitter for Android,7,N3
+VikramSKumar,1,1,3,2,2,False,5,2,3,Twitter for Android,4,N1
 gurdeep2091,1,3,3,3,0,False,6,2,0,TweetDeck,5,N4
 insaan_navish,2,4,3,4,1,False,9,4,5,Twitter for Android,6,N4
-sanjaykbank,3,3,3,1,4,False,4,1,5,Twitter for iPhone,6,N4
+sanjaykbank,3,3,3,1,4,False,4,1,5,Twitter for iPhone,6,N3
 GameLootTeam,2,3,3,1,1,False,1,1,4,TwitterTrafficMachine,5,N4
 iamAKHTER,2,4,3,4,3,False,8,3,0,Twitter for iPhone,3,N4
 VinayaKantRai2,2,1,3,3,3,False,1,0,0,Twitter for Windows,4,N4
 12Coquis,2,2,3,2,4,False,6,1,4,Twitter Web Client,5,N4
-sush091979,4,2,3,3,3,False,2,2,5,Twitter for iPad,5,N4
-tanayrajput,1,3,3,2,1,False,4,4,4,Twitter for Android,6,N4
+sush091979,4,2,3,3,3,False,2,2,5,Twitter for iPad,5,N0
+tanayrajput,1,3,3,2,1,False,4,4,4,Twitter for Android,6,N1
 dkal20,1,2,3,3,4,False,0,4,3,Twitter for iPhone,4,N4
-AboutThWorldNow,3,2,3,4,4,False,4,3,0,Twitter Web Client,3,N4
-sabyasachi462,3,4,3,3,3,False,2,3,6,Twitter Web Client,4,N4
-MahantiSd,1,2,3,2,2,False,5,2,0,Twitter for Windows Phone,4,N4
-RohanRohanrai,1,3,3,1,1,False,7,2,3,Twitter for Android,5,N4
-thenishakohli,3,4,3,3,0,False,9,4,4,Twitter for Android,6,N4
+AboutThWorldNow,3,2,3,4,4,False,4,3,0,Twitter Web Client,3,N3
+sabyasachi462,3,4,3,3,3,False,2,3,6,Twitter Web Client,4,N3
+MahantiSd,1,2,3,2,2,False,5,2,0,Twitter for Windows Phone,4,N1
+RohanRohanrai,1,3,3,1,1,False,7,2,3,Twitter for Android,5,N1
+thenishakohli,3,4,3,3,0,False,9,4,4,Twitter for Android,6,N3
 PuneriMangoMan,2,4,3,4,1,False,8,2,3,Twitter for iPhone,6,N4
-nwabaonline,3,3,3,1,4,False,5,1,4,Twitter for iPhone,6,N4
+nwabaonline,3,3,3,1,4,False,5,1,4,Twitter for iPhone,6,N3
 Maratha19Feb,2,1,3,3,0,False,9,4,0,TweetDeck,5,N4
 10anandrai,2,4,3,4,2,False,7,1,3,Twitter for Android,4,N4
-ravi_dsingh,2,2,3,2,2,False,3,3,0,Mobile Web (M5),5,N4
-srinivasjain,3,2,3,1,3,False,4,1,5,Twitter for iPad,4,N4
-KuldeepOffice,4,3,3,3,1,False,5,3,4,TweetDeck,5,N4
+ravi_dsingh,2,2,3,2,2,False,3,3,0,Mobile Web (M5),5,N5
+srinivasjain,3,2,3,1,3,False,4,1,5,Twitter for iPad,4,N3
+KuldeepOffice,4,3,3,3,1,False,5,3,4,TweetDeck,5,N0
 sripimaa69,2,1,3,3,4,False,0,0,4,Twitter Web Client,5,N4
 TadiparShah,1,3,3,2,0,False,6,3,0,TweetDeck,4,N4
-slicktrick6,3,4,3,3,4,False,2,3,0,Twitter for iPhone,3,N4
-parlahad,1,4,3,2,2,False,6,4,0,Twitter Web Client,4,N4
-sauravmehta,3,2,3,1,4,False,3,2,5,Twitter for Android,6,N4
+slicktrick6,3,4,3,3,4,False,2,3,0,Twitter for iPhone,3,N3
+parlahad,1,4,3,2,2,False,6,4,0,Twitter Web Client,4,N1
+sauravmehta,3,2,3,1,4,False,3,2,5,Twitter for Android,6,N3
 Pkunk_,1,2,3,3,1,False,8,3,4,Twitter Web Client,3,N4
 milap009,2,4,3,4,3,False,0,4,3,Twitter for Android,4,N4
 ravipasupuleti3,1,3,3,3,1,False,8,2,0,GrabInbox,6,N4
-kkumarkg,3,1,3,3,3,False,2,1,3,Twitter for Android,6,N4
+kkumarkg,3,1,3,3,3,False,2,1,3,Twitter for Android,6,N3
 deepak_siwani,2,2,3,4,2,False,9,1,0,realestatexp,4,N4
-gauravdedhia2,2,3,3,1,1,False,7,4,5,Twitter Web Client,5,N4
-B_ODomhnallain,2,2,3,2,2,False,1,1,4,Twitter for iPhone,4,N4
-ksbjpchennai,3,4,3,3,4,False,8,2,3,Twitter for Windows,5,N4
+gauravdedhia2,2,3,3,1,1,False,7,4,5,Twitter Web Client,5,N1
+B_ODomhnallain,2,2,3,2,2,False,1,1,4,Twitter for iPhone,4,N5
+ksbjpchennai,3,4,3,3,4,False,8,2,3,Twitter for Windows,5,N3
 wontonesaju,2,1,3,1,3,False,5,3,4,Twitter for Android,6,N4
 thirmehta,2,2,3,3,0,False,4,0,4,Put your button on any page! ,4,N4
-uspatrol,4,3,3,3,4,False,2,3,4,Twitter for iPhone,5,N4
-Subhank25219819,1,2,3,2,2,False,7,4,0,Twitter for iPhone,5,N4
-UrvashiQureshi,3,4,3,3,4,False,4,3,0,Twitter for iPhone,7,N4
+uspatrol,4,3,3,3,4,False,2,3,4,Twitter for iPhone,5,N0
+Subhank25219819,1,2,3,2,2,False,7,4,0,Twitter for iPhone,5,N1
+UrvashiQureshi,3,4,3,3,4,False,4,3,0,Twitter for iPhone,7,N3
 indi_0z,1,4,3,3,0,False,6,4,3,Twitter Web Client,4,N4
 AgArpitsizzle,1,4,3,4,2,False,9,2,0,Twitter for Android,4,N4
 apsacs1,1,3,3,3,1,False,8,2,0,GrabInbox,6,N4
-ShuvaRaha,2,1,3,1,1,False,5,1,0,Twitter Web Client,6,N4
-kamlesh2710,3,2,3,4,4,False,1,3,3,Twitter for Android,4,N4
+ShuvaRaha,2,1,3,1,1,False,5,1,0,Twitter Web Client,6,N1
+kamlesh2710,3,2,3,4,4,False,1,3,3,Twitter for Android,4,N3
 Helll000,2,2,3,3,3,False,0,4,5,Twitter Web Client,5,N4
 samsher_gurgaon,2,2,3,4,1,False,9,1,0,realestatexp3,4,N4
-androidyy,2,4,3,2,2,False,8,2,3,Twitter for Android,5,N4
-ShreeLaxmiArt,3,3,3,1,4,False,2,3,4,Twitter Web Client,4,N4
+androidyy,2,4,3,2,2,False,8,2,3,Twitter for Android,5,N5
+ShreeLaxmiArt,3,3,3,1,4,False,2,3,4,Twitter Web Client,4,N3
 BullaSpeaks,2,4,3,3,3,False,0,0,4,UnFollowSpy,5,N4
-soumyaparhi,2,3,3,2,1,False,6,3,4,Twitter for iPhone,6,N4
+soumyaparhi,2,3,3,2,1,False,6,3,4,Twitter for iPhone,6,N5
 samba3thy,2,1,3,3,2,False,5,1,4,Twitter for iPad,5,N4
-LaxmanShrigire7,3,3,3,3,4,False,5,3,0,Google,6,N4
+LaxmanShrigire7,3,3,3,3,4,False,5,3,0,Google,6,N3
 nishainsan3333,1,4,3,3,1,False,7,4,0,Twitter for Android,7,N4
 skjsdr,1,3,3,4,2,False,4,3,0,Twitter for iPhone,4,N4
 rathod_tr5,1,2,3,3,0,False,6,2,0,TweetDeck,5,N4
-VivekBarve3,1,2,3,1,3,False,8,1,4,Twitter Web Client,5,N4
-lindasue77,2,3,3,2,4,False,1,0,3,Twitter Web Client,4,N4
+VivekBarve3,1,2,3,1,3,False,8,1,4,Twitter Web Client,5,N1
+lindasue77,2,3,3,2,4,False,1,0,3,Twitter Web Client,4,N5
 BeingAkif,2,4,3,4,3,False,3,4,0,Twitter for iPhone,6,N4
 hardeep_loharu,2,2,3,4,1,False,9,1,0,realestatexp1,4,N4
 PARAG321,2,2,3,1,2,False,2,2,5,Twitter for Android,5,N4
-Sonal_heart,3,4,3,3,2,False,9,2,4,sam_sunder48,4,N4
-gouda_ashish,3,3,3,3,3,False,6,4,3,Twitter for Android,6,N4
+Sonal_heart,3,4,3,3,2,False,9,2,4,sam_sunder48,4,N3
+gouda_ashish,3,3,3,3,3,False,6,4,3,Twitter for Android,6,N3
 ani1987,2,4,3,2,4,False,8,3,3,Twitter for Android,4,N4
-dr_hemantmittal,3,1,3,3,1,False,4,2,4,Twitter for iPhone,5,N4
+dr_hemantmittal,3,1,3,3,1,False,4,2,4,Twitter for iPhone,5,N3
 ganeshstweet,2,3,3,3,4,False,2,0,4,Facebook,5,N4
 aabha110,1,4,3,3,0,False,7,3,0,Twitter Web Client,6,N4
 shailendra26051,1,1,3,3,1,False,3,4,0,Twitter for Android,4,N4
@@ -2533,41 +2533,41 @@ tapasije,2,2,3,1,3,False,5,3,4,Twitter for iPhone,5,N4
 aparnitam,2,2,3,3,2,False,6,1,6,Twitter Web Client,5,N4
 anupathapliyal,2,4,3,4,3,False,7,4,0,Twitter for iPad,4,N4
 balajimuthyala,1,3,3,3,1,False,8,2,0,GrabInbox,6,N4
-ovarwin,2,2,3,2,3,False,2,1,4,Twitter for iPhone,5,N4
-rajabhaijaan,3,2,3,3,2,False,9,3,3,Twitter for iPhone,4,N4
+ovarwin,2,2,3,2,3,False,2,1,4,Twitter for iPhone,5,N5
+rajabhaijaan,3,2,3,3,2,False,9,3,3,Twitter for iPhone,4,N3
 mdfir212,2,3,3,1,3,False,4,4,0,Twitter for Android,6,N4
 vishalgiri13111,1,4,3,3,4,False,5,1,3,Twitter for Android,6,N4
-mike921112,3,4,3,3,1,False,8,1,5,Twitter for iPhone,5,N4
-chaks1969,2,3,3,2,4,False,8,3,3,Twitter for iPhone,4,N4
-pinkisharma4,3,4,3,3,0,False,7,2,0,Twitter for Windows Phone,4,N4
+mike921112,3,4,3,3,1,False,8,1,5,Twitter for iPhone,5,N3
+chaks1969,2,3,3,2,4,False,8,3,3,Twitter for iPhone,4,N5
+pinkisharma4,3,4,3,3,0,False,7,2,0,Twitter for Windows Phone,4,N3
 talasilavsagar,2,1,3,3,4,False,3,2,0,Mobile Web (M5),5,N4
 rupasubramaniac,1,3,3,3,0,False,6,3,0,TweetDeck,4,N4
-tiwari_mukesh,2,2,3,2,3,False,1,3,4,Twitter Web Client,4,N4
-49Kintu,3,4,3,3,3,False,9,1,4,49Kintu,5,N4
+tiwari_mukesh,2,2,3,2,3,False,1,3,4,Twitter Web Client,4,N5
+49Kintu,3,4,3,3,3,False,9,1,4,49Kintu,5,N3
 temporary_handl,2,4,3,4,3,False,8,4,3,Twitter for Android,4,N4
 yelloji1,1,2,3,3,1,False,7,2,0,TweetDeck,6,N4
 teluguonetv,1,3,3,3,1,False,4,2,0,GrabInbox,5,N4
-sonal_31559,3,2,3,3,4,False,6,3,4,Twitter for Android,6,N4
-hiteshmp5,2,3,3,2,3,False,3,3,0,Twitter for Android,6,N4
+sonal_31559,3,2,3,3,4,False,6,3,4,Twitter for Android,6,N3
+hiteshmp5,2,3,3,2,3,False,3,3,0,Twitter for Android,6,N5
 roohanitaakath,1,4,3,3,2,False,2,4,0,Mobile Web (M5),4,N4
 LokeshSrini,2,3,3,3,2,False,4,1,4,Twitter for iPhone,5,N4
 nikunjbajoria,2,4,3,3,4,False,3,1,5,Twitter for Android,6,N4
 sahilkhurana09,2,2,3,3,1,False,7,0,0,IFTTT,5,N4
 rshaikh123,2,3,3,3,4,False,8,2,0,Twitter for iPhone,3,N4
 mahipalsy,1,4,3,3,0,False,5,3,4,Twitter for Android,4,N4
-DipankarHandi14,2,4,3,2,3,False,1,3,4,Twitter for Android,5,N4
+DipankarHandi14,2,4,3,2,3,False,1,3,4,Twitter for Android,5,N5
 akshayprbhu,2,3,3,3,3,False,4,1,3,Twitter Web Client,6,N4
 BJPTamilNaduFC,2,1,3,3,1,False,9,4,0,TweetDeck,5,N4
 chirag24576,1,4,3,3,1,False,7,2,3,Twitter for Android,4,N4
 Ashis_Pandey1,1,3,3,3,2,False,8,2,0,GrabInbox,6,N4
 samskruta,2,2,3,3,3,False,5,2,4,Twitter for iPad,4,N4
-AviKhose,3,4,3,3,1,False,9,3,4,Twitter for Android,6,N4
+AviKhose,3,4,3,3,1,False,9,3,4,Twitter for Android,6,N3
 DalitRamsingh,1,3,3,3,1,False,6,3,0,TweetDeck,4,N4
 champ_tweet,2,2,3,3,0,False,7,4,0,Twitter for Windows,5,N4
 ArticClock,2,3,3,3,3,False,8,1,5,Twitter Web Client,5,N4
 SocialAmit,1,2,3,3,2,False,4,2,4,Twitter for Android,4,N4
 pattathan,2,0,3,3,4,False,8,3,0,Twitter Web Client,4,N4
-impuni,3,4,3,3,1,False,8,3,4,Twitter for iPhone,5,N4
+impuni,3,4,3,3,1,False,8,3,4,Twitter for iPhone,5,N3
 Sunnyraje86,2,4,3,3,3,False,2,1,5,Twitter for Android,5,N4
 Leon19070210,2,4,3,3,3,False,1,3,3,Twitter for iPhone,4,N4
 push__kar,2,3,3,3,3,False,3,4,0,Mobile Web (M2),5,N4
@@ -2606,18 +2606,18 @@ manish_manisja,2,4,3,3,2,False,0,2,0,Twitter for iPhone,4,N4
 ramasrivalli,2,3,3,3,3,False,8,2,0,GrabInbox,6,N4
 alwynmithra1992,2,4,3,3,3,False,7,3,0,Twitter for Android,4,N4
 sameeruppal,2,4,3,3,3,False,7,2,0,Twitter for iPhone,4,N4
-Amy____Jones,3,3,4,4,4,False,8,1,3,dlvr.it,3,N5
-RoltaTech,3,2,4,2,4,False,3,0,5,Hootsuite,6,N5
-IqbalGrewal1,3,4,1,1,2,False,7,3,6,Twitter for iPhone,6,N5
-bhangale_manish,2,3,3,1,1,False,2,0,6,Tumblr,5,N5
-ibrahim_siraj_,3,1,1,2,3,False,0,0,5,Facebook,5,N5
-KanubhaiDabhi,3,3,1,1,3,False,5,4,6,Mobile Web (M2),5,N5
-balwant_singh77,4,3,1,3,1,False,9,4,5,Twitter for Android,7,N5
-Harshadpatelias,3,3,0,0,3,False,6,4,6,Twitter for Android,5,N5
-rajendragupta,3,1,2,1,4,False,8,1,6,Facebook,5,N5
-monikainsan395,3,3,1,3,0,False,9,4,6,Twitter for Android,7,N5
-MidnightHourSho,3,0,2,2,4,False,0,0,3,Airtime Pro,6,N5
-sgroversayswhat,3,2,1,1,1,False,3,2,6,Twitter for Android,4,N5
+Amy____Jones,3,3,4,4,4,False,8,1,3,dlvr.it,3,N3
+RoltaTech,3,2,4,2,4,False,3,0,5,Hootsuite,6,N3
+IqbalGrewal1,3,4,1,1,2,False,7,3,6,Twitter for iPhone,6,N1
+bhangale_manish,2,3,3,1,1,False,2,0,6,Tumblr,5,N4
+ibrahim_siraj_,3,1,1,2,3,False,0,0,5,Facebook,5,N3
+KanubhaiDabhi,3,3,1,1,3,False,5,4,6,Mobile Web (M2),5,N1
+balwant_singh77,4,3,1,3,1,False,9,4,5,Twitter for Android,7,N0
+Harshadpatelias,3,3,0,0,3,False,6,4,6,Twitter for Android,5,N2
+rajendragupta,3,1,2,1,4,False,8,1,6,Facebook,5,N3
+monikainsan395,3,3,1,3,0,False,9,4,6,Twitter for Android,7,N3
+MidnightHourSho,3,0,2,2,4,False,0,0,3,Airtime Pro,6,N3
+sgroversayswhat,3,2,1,1,1,False,3,2,6,Twitter for Android,4,N1
 lousybug,1,4,2,3,3,False,7,2,0,Twitter for Windows Phone,4,N5
 Nishant1404,2,1,2,2,2,False,4,2,4,Twitter Web Client,4,N5
 RefugeeBluesKP,2,2,3,2,2,False,5,2,5,Twitter for iPhone,3,N5
@@ -2625,110 +2625,110 @@ Adiporwal,2,4,4,3,2,False,6,2,0,Twitter for Windows,6,N5
 DeMODItisation,1,3,2,2,0,False,2,3,0,TweetDeck,4,N5
 TweetDonga,2,2,2,4,2,False,7,4,3,Mobile Web (M5),6,N5
 EdwardKavallo,2,3,3,2,3,False,3,1,4,Mobile Web (M2),5,N5
-charan_86,1,3,1,2,1,False,4,3,0,Twitter for iPad,6,N5
+charan_86,1,3,1,2,1,False,4,3,0,Twitter for iPad,6,N1
 helenpachecoco1,2,3,4,3,3,False,7,0,4,SocialCloudSuite,5,N5
-MoneyonMobileIR,3,3,2,1,4,False,6,1,6,Buffer,5,N5
-SharmaDss,1,3,1,3,1,False,9,4,0,Twitter for Android,7,N5
-GarimaRathi_,4,1,2,2,4,False,4,0,4,Twitter for Android,7,N5
-CollapseBlogs,3,1,2,0,2,False,2,0,6,Twitter Web Client,4,N5
-jineesh_blr,3,2,2,3,4,False,8,3,6,Twitter for Android,3,N5
-HardiaSumit,3,1,2,0,3,False,5,2,3,Twitter for iPhone,5,N5
+MoneyonMobileIR,3,3,2,1,4,False,6,1,6,Buffer,5,N3
+SharmaDss,1,3,1,3,1,False,9,4,0,Twitter for Android,7,N1
+GarimaRathi_,4,1,2,2,4,False,4,0,4,Twitter for Android,7,N0
+CollapseBlogs,3,1,2,0,2,False,2,0,6,Twitter Web Client,4,N2
+jineesh_blr,3,2,2,3,4,False,8,3,6,Twitter for Android,3,N3
+HardiaSumit,3,1,2,0,3,False,5,2,3,Twitter for iPhone,5,N3
 ismitevijay,2,0,1,2,3,False,0,4,0,Twitter for iPhone,3,N5
-LalCharanjit,2,4,0,2,2,False,1,2,3,Twitter for Android,5,N5
-satishkini,3,0,2,3,2,False,3,1,5,Runkeeper,4,N5
+LalCharanjit,2,4,0,2,2,False,1,2,3,Twitter for Android,5,N2
+satishkini,3,0,2,3,2,False,3,1,5,Runkeeper,4,N3
 anjali_talwar1,2,4,2,4,0,False,9,4,4,Twitter for Android,6,N5
 knowAguyapp,2,0,4,2,3,False,3,1,0,Knowaguyapp,4,N5
 jurs07,2,4,1,2,2,False,8,3,0,Twitter for iPad,6,N5
 pagal_prem,2,3,4,3,1,False,3,1,3,IFTTT,5,N5
-gurudaspai,1,3,2,1,4,False,4,2,4,Twitter for iPhone,5,N5
-DassCharn,2,3,0,3,1,False,8,4,0,Twitter Web Client,7,N5
-InsanJiya,4,3,1,2,3,False,7,4,4,Twitter for Android,7,N5
-toi_jayashreeN,3,1,2,1,2,False,2,3,5,Twitter Web Client,4,N5
-motherrr,3,3,2,0,4,False,8,0,6,Twitter for iPad,5,N5
+gurudaspai,1,3,2,1,4,False,4,2,4,Twitter for iPhone,5,N1
+DassCharn,2,3,0,3,1,False,8,4,0,Twitter Web Client,7,N2
+InsanJiya,4,3,1,2,3,False,7,4,4,Twitter for Android,7,N0
+toi_jayashreeN,3,1,2,1,2,False,2,3,5,Twitter Web Client,4,N3
+motherrr,3,3,2,0,4,False,8,0,6,Twitter for iPad,5,N3
 dwivedimk_ias,4,2,2,2,1,False,6,2,5,Twitter for iPhone,5,N5
-hspartha,1,3,2,1,3,False,5,3,3,Twitter for iPhone,6,N5
-sinwithmusic,2,2,1,2,2,False,0,0,3,Twitter for Android,6,N5
-manjujadhav_,3,1,2,3,3,False,7,1,6,Twitter Web Client,4,N5
+hspartha,1,3,2,1,3,False,5,3,3,Twitter for iPhone,6,N1
+sinwithmusic,2,2,1,2,2,False,0,0,3,Twitter for Android,6,N1
+manjujadhav_,3,1,2,3,3,False,7,1,6,Twitter Web Client,4,N3
 golabolla,1,1,2,3,2,False,9,2,0,Twitter for Android,3,N5
 lyingbox,2,4,1,2,0,False,0,3,4,Twitter for Android,4,N5
 _Mataprasad,2,0,1,2,3,False,7,0,0,IFTTT,4,N5
 israramrelia,2,4,4,3,2,False,3,4,3,Twitter for Android,5,N5
-gpgobinath,3,2,2,1,4,False,4,4,4,Twitter for iPhone,6,N5
-AmarInsan77777,2,3,1,3,1,False,8,4,0,Twitter Web Client,7,N5
+gpgobinath,3,2,2,1,4,False,4,4,4,Twitter for iPhone,6,N3
+AmarInsan77777,2,3,1,3,1,False,8,4,0,Twitter Web Client,7,N1
 surbhisharma17,4,3,2,2,4,False,3,1,0,Put your button on any page! ,6,N5
-beingpratik91,3,2,2,1,2,False,0,2,5,TweetDeck,5,N5
-vickyindia89,3,4,1,2,4,False,6,3,6,Twitter for iPhone,4,N5
+beingpratik91,3,2,2,1,2,False,0,2,5,TweetDeck,5,N3
+vickyindia89,3,4,1,2,4,False,6,3,6,Twitter for iPhone,4,N3
 aapumesh,1,3,2,2,1,False,9,2,5,TweetDeck,5,N5
 Bharatnewsindia,2,0,2,4,3,False,5,0,0,IFTTT,5,N5
 BoneyXavier,2,3,3,2,2,False,2,3,3,Twitter for Android,6,N5
-rajanmahan,3,1,2,1,2,False,7,1,6,Twitter Web Client,5,N5
-VikasKaSipahi,1,1,2,3,1,False,2,3,3,Twitter for Android,4,N5
-ahsiA_Aisha,2,2,0,2,4,False,6,4,4,Twitter for Android,6,N5
-ChottaGappu,2,0,2,3,0,False,7,0,4,IFTTT,4,N5
-JasvirSingh7777,2,3,1,3,0,False,8,4,0,Twitter Web Client,7,N5
-rahulro13821912,1,4,1,2,3,False,4,3,0,Twitter for Android,6,N5
-Ikka_bollywood,3,2,2,3,2,False,4,4,0,Mobile Web (M5),7,N5
+rajanmahan,3,1,2,1,2,False,7,1,6,Twitter Web Client,5,N3
+VikasKaSipahi,1,1,2,3,1,False,2,3,3,Twitter for Android,4,N1
+ahsiA_Aisha,2,2,0,2,4,False,6,4,4,Twitter for Android,6,N2
+ChottaGappu,2,0,2,3,0,False,7,0,4,IFTTT,4,N2
+JasvirSingh7777,2,3,1,3,0,False,8,4,0,Twitter Web Client,7,N1
+rahulro13821912,1,4,1,2,3,False,4,3,0,Twitter for Android,6,N1
+Ikka_bollywood,3,2,2,3,2,False,4,4,0,Mobile Web (M5),7,N3
 Digital_adsLtd,2,3,2,0,2,False,1,1,3,Twitter for iPhone,6,N5
-MarketMaster007,3,2,2,1,3,False,3,1,6,Twitter Web Client,5,N5
+MarketMaster007,3,2,2,1,3,False,3,1,6,Twitter Web Client,5,N3
 anjumahendroo,4,4,2,2,1,False,6,2,0,Twitter for iPad,5,N5
 jyotiPatel00,3,4,2,2,2,False,9,2,5,TweetDeck,4,N5
-Choudhary_Ji_,2,3,1,1,3,False,2,2,4,Twitter for iPhone,5,N5
+Choudhary_Ji_,2,3,1,1,3,False,2,2,4,Twitter for iPhone,5,N1
 loinprem,2,3,1,2,4,False,5,3,6,Twitter for Android,4,N5
 Thereturnedlord,4,1,2,2,2,False,0,0,0,UnFollowSpy,5,N5
-akaash111,3,3,2,4,3,False,8,1,3,Twitter Web Client,6,N5
+akaash111,3,3,2,4,3,False,8,1,3,Twitter Web Client,6,N3
 swight,2,3,4,2,4,False,6,4,4,Twitter for Android,4,N5
 Soumitradas4Das,2,0,2,3,1,False,5,0,5,Twitter Web Client,4,N5
-Rajesh40920603,2,3,1,3,1,False,9,4,4,Twitter for Android,7,N5
+Rajesh40920603,2,3,1,3,1,False,9,4,4,Twitter for Android,7,N1
 swain_ch,1,4,2,3,0,False,1,3,0,Twitter for Android,4,N5
 rohit_k_b,3,1,2,2,3,False,7,4,4,Mobile Web (M2),6,N5
 GauJ,2,2,2,1,2,False,4,4,3,Twitter for iPhone,5,N5
-Atul_Unadkat,3,2,2,3,2,False,8,1,6,Twitter Web Client,6,N5
-anupamk8,2,2,1,1,3,False,3,4,0,Twitter Web Client,5,N5
+Atul_Unadkat,3,2,2,3,2,False,8,1,6,Twitter Web Client,6,N3
+anupamk8,2,2,1,1,3,False,3,4,0,Twitter Web Client,5,N1
 SweetSneha007,3,4,2,2,2,False,9,2,5,TweetDeck,5,N5
-Krsna_sharanam,3,4,2,1,3,False,2,2,6,Twitter for iPhone,5,N5
+Krsna_sharanam,3,4,2,1,3,False,2,2,6,Twitter for iPhone,5,N3
 omqualityguru,2,3,1,2,3,False,0,3,4,Twitter for iPad,6,N5
 Zoheb_Sh,4,1,2,2,2,False,6,2,0,TweetDeck,5,N5
 CYgamerz,2,3,2,0,4,False,5,1,0,games.sinner666,4,N5
-dharmpaljodha77,2,3,0,2,1,False,8,4,0,Twitter for Android,7,N5
+dharmpaljodha77,2,3,0,2,1,False,8,4,0,Twitter for Android,7,N2
 breakingknowlez,2,0,2,3,1,False,0,0,0,Google,4,N5
-manugurumanohar,2,3,1,1,4,False,2,2,4,Twitter for Android,6,N5
+manugurumanohar,2,3,1,1,4,False,2,2,4,Twitter for Android,6,N1
 ZoherMalkapurw2,1,4,2,2,1,False,6,3,3,Twitter for Android,4,N5
-Ajashutoshjha,3,4,2,3,3,False,9,3,4,Mobile Web (M2),4,N5
+Ajashutoshjha,3,4,2,3,3,False,9,3,4,Mobile Web (M2),4,N3
 sagarnangare,2,2,4,2,3,False,6,0,5,Twitter Web Client,5,N5
-Mr_Shubhamsingh,3,2,2,3,2,False,1,4,3,Twitter for Android,6,N5
-Chajju77777,2,3,1,3,0,False,8,4,0,Twitter Web Client,7,N5
+Mr_Shubhamsingh,3,2,2,3,2,False,1,4,3,Twitter for Android,6,N3
+Chajju77777,2,3,1,3,0,False,8,4,0,Twitter Web Client,7,N1
 srsekharbjp,3,2,2,2,3,False,3,1,6,Put your button on any page! ,4,N5
-Shanayak26,4,4,2,3,2,False,2,2,4,Twitter for iPhone,5,N5
-MukulJo56655107,2,3,1,1,2,False,1,3,6,Twitter for Android,6,N5
-anilgirotra25,3,1,2,2,4,False,1,3,5,Twitter for iPhone,5,N5
-KunalPanchani,1,3,1,2,2,False,9,1,0,Twitter for iPhone,5,N5
+Shanayak26,4,4,2,3,2,False,2,2,4,Twitter for iPhone,5,N0
+MukulJo56655107,2,3,1,1,2,False,1,3,6,Twitter for Android,6,N1
+anilgirotra25,3,1,2,2,4,False,1,3,5,Twitter for iPhone,5,N3
+KunalPanchani,1,3,1,2,2,False,9,1,0,Twitter for iPhone,5,N1
 TanmayNPatel,4,3,2,2,4,False,8,4,0,Twitter Web Client,7,N5
 Prapanchi,2,2,2,3,3,False,7,0,3,IFTTT,4,N5
-RamaSevak,2,3,0,2,1,False,0,2,6,Twitter for Android,5,N5
+RamaSevak,2,3,0,2,1,False,0,2,6,Twitter for Android,5,N2
 apbandiv,2,1,2,1,1,False,6,1,0,Twitter for iPhone,4,N5
 SandeepUniyal4,2,4,1,2,0,False,8,3,4,Twitter for Android,6,N5
 aapsony,3,4,2,2,3,False,9,2,3,TweetDeck,4,N5
-Mugavarii,4,3,2,3,2,False,0,0,4,Twitter Web Client,6,N5
-Ramlok77777,2,3,1,3,0,False,8,4,0,Twitter Web Client,7,N5
+Mugavarii,4,3,2,3,2,False,0,0,4,Twitter Web Client,6,N0
+Ramlok77777,2,3,1,3,0,False,8,4,0,Twitter Web Client,7,N1
 piyushpth,2,2,2,1,3,False,4,4,0,Mobile Web (M5),4,N5
 shashwatabhisar,3,2,2,2,3,False,2,1,4,Twitter for Windows Phone,5,N5
-anchitkhar,2,1,1,2,2,False,3,3,5,Twitter for Android,6,N5
-LuisOliverio,3,3,2,3,2,False,1,3,6,Tweetings for Android,4,N5
-vinayjha_jsr,1,3,1,2,2,False,6,2,4,Twitter Web Client,5,N5
+anchitkhar,2,1,1,2,2,False,3,3,5,Twitter for Android,6,N1
+LuisOliverio,3,3,2,3,2,False,1,3,6,Tweetings for Android,4,N3
+vinayjha_jsr,1,3,1,2,2,False,6,2,4,Twitter Web Client,5,N1
 Itsanya2011,2,4,2,3,1,False,7,4,0,Twitter for iPhone,3,N5
-_Sania28,3,2,2,3,2,False,1,2,3,Twitter for Android,7,N5
+_Sania28,3,2,2,3,2,False,1,2,3,Twitter for Android,7,N3
 vigneshsathyam,2,2,1,2,3,False,2,0,5,Twitter for iPhone,5,N5
 adv_rrd,2,2,2,1,4,False,0,1,3,Twitter Web Client,5,N5
 SurinderInshan,2,3,2,4,0,False,9,0,0,Twitter for Android,8,N5
-poojamodi27,3,4,2,2,3,False,9,1,5,TweetDeck,4,N5
-ImChandraM,3,1,2,2,4,False,2,2,4,Twitter for iPhone,6,N5
-Neha77771,2,3,1,3,0,False,8,4,0,Twitter for Android,7,N5
-neerajcsa,1,3,1,2,3,False,6,4,0,Twitter for iPhone,4,N5
-IACkishan,3,4,2,3,1,False,8,1,6,Twitter for Android,6,N5
+poojamodi27,3,4,2,2,3,False,9,1,5,TweetDeck,4,N3
+ImChandraM,3,1,2,2,4,False,2,2,4,Twitter for iPhone,6,N3
+Neha77771,2,3,1,3,0,False,8,4,0,Twitter for Android,7,N1
+neerajcsa,1,3,1,2,3,False,6,4,0,Twitter for iPhone,4,N1
+IACkishan,3,4,2,3,1,False,8,1,6,Twitter for Android,6,N3
 anuragbiz,2,3,4,2,3,False,2,3,4,Twitter Web Client,5,N5
 IamNikunjj,2,2,2,1,2,False,3,0,5,Twitter Web Client,4,N5
 PalakMisty11,1,3,2,2,2,False,6,3,0,Mobile Web (M5),4,N5
-y4ryash,2,1,1,3,2,False,5,4,4,Twitter for Android,5,N5
+y4ryash,2,1,1,3,2,False,5,4,4,Twitter for Android,5,N1
 CricfreakTweets,3,1,2,2,3,False,4,2,6,Twitter Web Client,6,N5
 GDhulipati,1,2,2,2,1,False,1,2,4,Twitter for iPhone,4,N5
 CKVignesh_,2,4,2,1,1,False,7,1,5,Twitter for Android,5,N5
@@ -2736,26 +2736,26 @@ princekohli25,2,3,2,4,0,False,9,1,0,Twitter for Android,7,N5
 siddharth9978,2,4,2,3,3,False,0,0,3,Twitter Web Client,5,N5
 arvind029,3,2,2,2,4,False,5,4,6,Twitter for iPhone,4,N5
 Vasuphani,2,3,1,2,4,False,7,2,3,Twitter for Android,6,N5
-tanwar_gas,1,3,1,2,2,False,8,3,0,Twitter for iPhone,5,N5
-mohitinsan007,3,3,2,3,2,False,9,4,5,Twitter for Android,7,N5
+tanwar_gas,1,3,1,2,2,False,8,3,0,Twitter for iPhone,5,N1
+mohitinsan007,3,3,2,3,2,False,9,4,5,Twitter for Android,7,N3
 imagesolutions3,2,0,2,2,3,False,1,0,4,Scoop.it,5,N5
 puruv,2,2,2,1,3,False,3,4,5,Twitter for iPhone,6,N5
 INC_Avengers,1,3,2,2,0,False,6,3,0,TweetDeck,4,N5
-insanrajni2,2,3,1,3,2,False,8,4,4,Twitter for Android,7,N5
+insanrajni2,2,3,1,3,2,False,8,4,4,Twitter for Android,7,N1
 mihirg,3,1,2,2,3,False,3,3,0,Mobile Web (M5),4,N5
-UshaUshatiwari,2,2,1,2,1,False,2,2,4,Twitter Web Client,5,N5
+UshaUshatiwari,2,2,1,2,1,False,2,2,4,Twitter Web Client,5,N1
 vachchhani,2,4,2,3,2,False,9,1,6,TweetDeck,4,N5
 ebeen_m,1,4,2,2,1,False,4,2,0,Twitter for Android,6,N5
 excatwoman,2,1,2,1,2,False,6,1,5,Twitter Web Client,5,N5
-Johnnyvarkala,3,3,2,3,2,False,5,1,6,Twitter Web Client,4,N5
+Johnnyvarkala,3,3,2,3,2,False,5,1,6,Twitter Web Client,4,N3
 krsanjay6161,2,2,1,2,4,False,8,2,3,Twitter for Android,4,N5
 _dGate,2,3,4,2,3,False,5,2,0,Twitter for iPhone,6,N5
 khandelwal992,3,3,2,2,4,False,7,1,4,fllwrs,5,N5
 Ahsanich,2,4,2,2,2,False,1,0,3,Instagram,5,N5
 VGKfan,2,2,2,1,3,False,8,4,4,Twitter for iPhone,6,N5
 hayat5001,1,3,2,3,3,False,2,3,0,Mobile Web (M5),4,N5
-MonaInsan12,2,3,1,3,0,False,9,4,0,Twitter for Android,5,N5
-DCMangeshkar,3,3,2,1,2,False,3,3,4,Twitter for iPhone,6,N5
+MonaInsan12,2,3,1,3,0,False,9,4,0,Twitter for Android,5,N1
+DCMangeshkar,3,3,2,1,2,False,3,3,4,Twitter for iPhone,6,N3
 pankajjgd007,3,2,2,2,1,False,2,4,0,Twitter for iPhone,7,N5
 Pawan_Kalra27,2,2,1,2,2,False,0,3,5,Twitter for Android,4,N5
 AnkitSi83514178,1,4,2,2,3,False,4,4,5,Twitter for Android,6,N5
@@ -2765,24 +2765,24 @@ ramakrishnan002,2,0,1,2,4,False,9,2,0,Twitter for Android,4,N5
 syedisrar919,2,3,1,3,3,False,7,2,0,Mobile Web (M5),4,N5
 preeprabhakaran,2,2,2,1,2,False,3,1,6,Twitter Web Client,5,N5
 MaheshThuppeKal,3,4,2,2,3,False,7,1,3,Twitter for iPhone,5,N5
-kaliaparijat,2,2,1,2,2,False,1,0,5,Twitter Web Client,5,N5
+kaliaparijat,2,2,1,2,2,False,1,0,5,Twitter Web Client,5,N1
 sanjeevjena1,1,3,2,3,3,False,4,2,3,Twitter for Android,6,N5
 nehainsan1217,2,4,2,3,0,False,8,4,4,Twitter for Android,6,N5
-tvrkishore,2,3,1,1,2,False,8,3,0,Twitter for iPhone,4,N5
+tvrkishore,2,3,1,1,2,False,8,3,0,Twitter for iPhone,4,N1
 DilnazBoga,3,3,2,2,4,False,8,2,0,Twitter Web Client,3,N5
 MishraVn,2,2,2,1,2,False,5,0,6,Twitter for iPhone,5,N5
 NarananNambi,4,3,2,2,3,False,6,4,3,Twitter for Android,4,N5
 ashokrodgi,1,4,2,2,1,False,0,3,0,Twitter Web Client,5,N5
 PatelDanush,1,3,2,2,1,False,9,1,4,TweetDeck,5,N5
-Naresh_patel_4u,2,1,1,3,3,False,3,4,0,Twitter for Android,4,N5
-imknag,2,1,1,2,2,False,6,3,4,Twitter for Android,4,N5
+Naresh_patel_4u,2,1,1,3,3,False,3,4,0,Twitter for Android,4,N1
+imknag,2,1,1,2,2,False,6,3,4,Twitter for Android,4,N1
 abrilliantdummy,2,2,2,3,1,False,2,2,6,Twitter for Android,6,N5
-niyati_bohra_18,3,1,2,2,3,False,2,1,5,Twitter for iPhone,5,N5
+niyati_bohra_18,3,1,2,2,3,False,2,1,5,Twitter for iPhone,5,N3
 karunaAAP,3,4,2,2,2,False,9,1,6,TweetDeck,5,N5
 Surasen3,2,3,3,2,2,False,7,4,3,Twitter for Android,6,N5
 RSTVA,1,2,2,3,3,False,1,3,0,Twitter for iPhone,4,N5
-IamaroonShah,2,3,1,1,2,False,4,4,4,Twitter for Android,5,N5
-Santy7892,1,3,2,1,3,False,9,2,0,Twitter for iPhone,6,N5
+IamaroonShah,2,3,1,1,2,False,4,4,4,Twitter for Android,5,N1
+Santy7892,1,3,2,1,3,False,9,2,0,Twitter for iPhone,6,N1
 2see79,2,2,2,3,0,False,7,2,6,Twitter for iPhone,5,N5
 BhupenderINC,2,3,1,2,4,False,5,4,0,Mobile Web (M5),5,N5
 newbie109,2,4,2,3,2,False,8,3,4,Twitter Web Client,4,N5
@@ -2816,7 +2816,7 @@ thekavitasharma,3,2,2,2,1,False,4,1,6,Twitter for Android,5,N5
 SonamIsHere,3,4,2,2,2,False,3,3,0,TweetDeck,4,N5
 TannyMultani,1,3,2,3,1,False,4,4,0,Twitter for iPhone,5,N5
 sahir82,2,2,2,1,3,False,6,1,6,Twitter for iPhone,4,N5
-BADRI21,3,2,2,2,4,False,5,4,0,Twitter for Android,6,N5
+BADRI21,3,2,2,2,4,False,5,4,0,Twitter for Android,6,N3
 Anyone017,1,2,2,2,2,False,2,3,3,Twitter for Android,4,N5
 RomalThakor,2,4,2,3,2,False,9,1,5,TweetDeck,4,N5
 lokeshdesigner,2,3,1,2,3,False,5,3,0,Twitter Web Client,6,N5
@@ -2829,20 +2829,20 @@ SudhirMudrady,3,2,2,2,3,False,2,1,6,Twitter for Android,6,N5
 akhiles45848230,1,3,2,2,2,False,7,2,0,Twitter for Windows Phone,5,N5
 Zoyamirr,2,3,1,2,1,False,3,1,6,Twitter for iPhone,5,N5
 JoinatulKumar,2,4,2,1,3,False,4,3,0,Twitter for iPhone,5,N5
-bjpsujitsingh,3,4,2,2,4,False,9,4,0,Twitter for Android,6,N5
+bjpsujitsingh,3,4,2,2,4,False,9,4,0,Twitter for Android,6,N3
 rcaasw,3,2,2,2,3,False,6,3,0,Twitter Web Client,4,N5
 dr_madindian,2,3,2,3,1,False,0,1,5,Mobile Web (M5),4,N5
 BabitaPatel_,3,4,2,2,2,False,9,1,3,TweetDeck,4,N5
 YogaSamkhya,2,3,3,2,2,False,8,4,6,Twitter for Android,6,N5
 kmfameen,2,2,2,3,1,False,1,2,0,TweetDeck,4,N5
 8080195566,1,3,2,3,2,False,8,3,4,Twitter for Android,5,N5
-SridharUS,2,2,1,2,2,False,3,4,4,Twitter for iPhone,5,N5
+SridharUS,2,2,1,2,2,False,3,4,4,Twitter for iPhone,5,N1
 KrishanRamInsan,2,3,2,4,3,False,9,2,5,Twitter for Android,6,N5
 samadesh,2,1,2,3,3,False,2,3,0,Twitter Web Client,4,N5
 wafa_adeel,3,2,2,2,3,False,7,2,4,Twitter Web Client,5,N5
-GhaisasRohit,2,2,1,2,2,False,5,4,6,Twitter for Android,5,N5
+GhaisasRohit,2,2,1,2,2,False,5,4,6,Twitter for Android,5,N1
 balakrishnan98,2,3,2,3,4,False,2,1,3,Twitter for iPhone,5,N5
-shahil1123,3,4,2,2,4,False,6,2,6,Twitter for Android,4,N5
+shahil1123,3,4,2,2,4,False,6,2,6,Twitter for Android,4,N3
 crazyyog,2,2,1,2,3,False,8,4,0,Twitter for iPhone,6,N5
 DesaiNrupa,1,3,2,2,1,False,9,3,0,TweetDeck,4,N5
 J4Jayshree,3,4,2,2,2,False,9,1,0,TweetDeck,4,N5

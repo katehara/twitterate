@@ -4,16 +4,16 @@ data:
     mongo-collection: 'user_info' #mongo collection containing user tweets
     file-collection: './data/fc.csv' #file-collection results filename
     file-discrete: './data/ds.csv' #discretisation results filename
-    file-init-part: './data/ip.csv' # initial partition results filename
-    file-concept-cluster: './experiments/e25.csv' #conceptual clustering results filename
+    file-init-part: './data/ip.csv' #initial partition results filename
+    file-concept-cluster: './experiments/f29.csv' #conceptual clustering results filename
     file-analysis: './data/ca.csv' #clusters analysis results filename
     criteria-dict: './data/criteria.json'
     hashtags-dict: './data/hashtags_dict.json' #
 
 parameters:
     all-cols: ['screen_name', 'u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'ver', 'hash_freq', 'avg_ret', 'avg_fav', 'source', 'sentiment']
-    cols-to-be-used: ['u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'ver', 'hash_freq', 'avg_ret', 'avg_fav', 'sentiment'] #cols to used for clustering
+    cols-to-be-used: ['u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'ver', 'avg_ret', 'avg_fav'] #cols to used for clustering
     num-cols: ['u_fol', 'u_fav', 'u_lis', 'u_sta', 'u_fri', 'hash_freq', 'avg_ret', 'avg_fav'] #numerical cols to be discretised
     max-groups: 10 #max_groups that can be made while discretisation
-    topn: 9 #expected no of clusters used for ordering - number of elements for manhattan distance maximisation
+    topn: 12 #expected no of clusters used for ordering - number of elements for manhattan distance maximisation
     min-pop: 10 #min population of node
