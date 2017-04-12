@@ -30,7 +30,7 @@ def metrics(twee, hashtags_dict): # calculae user features from its tweets
 		h = t['entities']['hashtags']
 		for ht in h:
 			hash_count += 1
-			hash_sum += hashtags_dict[ht['text']]
+			if ht['text'] in hashtags_dict: hash_sum += hashtags_dict[ht['text']]
 			
 		retweets += t['retweet_count'] #sum of retweets
 		favorites += t['favorite_count'] # sum of favorites

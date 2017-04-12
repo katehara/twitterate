@@ -1,7 +1,7 @@
 from collections import Counter
 import pandas as pd
 import numpy as np
-import json
+import json, yaml
 
 # manhattan distance between two data points - nominal attribtutes (no of attributes havving different values)
 def nominal_cityblock(u, v):
