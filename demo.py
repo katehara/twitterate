@@ -8,7 +8,6 @@ with open('config.yaml', 'r') as file: config = yaml.load(file) #read configurat
 
 def apiTwitter():
 	# authorize tweepy instance using twitter tokens and return api reference
-	# print('connecting to stream...')
 	with open('confidential.yaml') as file: conf = yaml.load(file)
 	settings = conf['settings']
 	consumer_key = settings['ck']
@@ -73,8 +72,6 @@ def cluster_score(dp):
 	df = pd.read_csv(trust_model)
 	dl = df.values.tolist()
 	cols = df.columns.tolist() 
-
-
 	root = Node(name='R', data=df, level=0, parent = None)
 	nodes = []
 	max_cmdk = -99999

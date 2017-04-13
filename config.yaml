@@ -6,7 +6,7 @@ data:
     file-discrete: './data/ds.csv' #discretisation results filename
     file-init-part: './data/ip.csv' #initial partition results filename
     file-trust: './data/tr.csv' #trust scores
-    file-concept-cluster: './experiments/f22.csv' #conceptual clustering results filename
+    file-concept-cluster: './data/cc.csv' #conceptual clustering results filename
     file-analysis: './data/ca.csv' #clusters analysis results filename
     criteria-dict: './data/criteria.json'
     hashtags-dict: './data/hashtags_dict.json' #

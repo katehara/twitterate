@@ -1,32 +1,29 @@
-screen_name,u_fol,u_fav,u_lis,u_sta,u_fri,ver,hash_freq,avg_ret,avg_fav,source,sentiment,Topn,ipmin,no.of clusters,psused,psall,Remarks
-n,y,y,y,y,y,y,y,y,y,y,y,10,1,2,280,280,Discard ipmin = 1 – less no of clusters
-n,y,y,y,y,y,y,y,y,y,y,y,8,10,7,104,104,
-n,y,y,y,y,y,y,y,y,y,y,y,10,10,8,92,92,Discard ipmin = 10 – poor quality clusters
-n,y,y,y,y,y,y,y,y,y,y,y,12,10,9,73,73,
-n,y,y,y,y,y,y,y,y,y,y,y,8,5,5,149,149,
-n,y,y,y,y,y,y,y,y,y,y,y,10,5,5,152,152,"accept ipmin = 5 --- better quality clusters than 10 
-
-
-Rating => 5 point scale"
-n,y,y,y,y,y,y,y,y,y,y,y,12,5,5,157,157,
-n,y,y,y,y,y,y,y,y,y,y,n,8,5,6,118,119,
-n,y,y,y,y,y,y,y,y,y,y,n,10,5,5,153,155,
-n,y,y,y,y,y,y,y,y,y,y,n,12,5,5,155,157,
-n,y,y,y,y,y,y,y,y,y,n,y,8,5,,,,
-n,y,y,y,y,y,y,y,y,y,n,y,10,5,,,,
-n,y,y,y,y,y,y,y,y,y,n,y,12,5,,,,
-n,y,y,y,y,y,y,n,y,y,y,y,8,5,,,,
-n,y,y,y,y,y,y,n,y,y,y,y,10,5,,,,
-n,y,y,y,y,y,y,n,y,y,y,y,12,5,,,,
-n,y,y,y,y,y,y,y,y,y,n,n,8,5,,,,
-n,y,y,y,y,y,y,y,y,y,n,n,10,5,,,,
-n,y,y,y,y,y,y,y,y,y,n,n,12,5,,,,
-n,y,y,y,y,y,y,n,y,y,n,y,8,5,,,,
-n,y,y,y,y,y,y,n,y,y,n,y,10,5,,,,
-n,y,y,y,y,y,y,n,y,y,n,y,12,5,,,,
-n,y,y,y,y,y,y,n,y,y,y,n,8,5,,,,
-n,y,y,y,y,y,y,n,y,y,y,n,10,5,,,,
-n,y,y,y,y,y,y,n,y,y,y,n,12,5,,,,
-n,y,y,y,y,y,y,n,y,y,n,n,8,5,,,,
-n,y,y,y,y,y,y,n,y,y,n,n,10,5,,,,
-n,y,y,y,y,y,y,n,y,y,n,n,12,5,,,,
+screen_name,u_fol,u_fav,u_lis,u_sta,u_fri,ver,hash_freq,avg_ret,avg_fav,source,sentiment,Topn,ipmin,no.of clusters,psused,Remarks
+n,y,y,y,y,y,y,y,y,y,y,y,10,1,2,280,Discard ipmin = 1 – less no of clusters
+n,y,y,y,y,y,y,y,y,y,y,y,8,10,7,104,
+n,y,y,y,y,y,y,y,y,y,y,y,10,10,8,92,Discard ipmin = 10 – poor quality clusters
+n,y,y,y,y,y,y,y,y,y,y,y,12,10,9,73,
+n,y,y,y,y,y,y,y,y,y,y,y,8,5,5,149,
+n,y,y,y,y,y,y,y,y,y,y,y,10,5,5,152,accept ipmin = 5 --- better quality clusters than 10 Rating => 5 point scale
+n,y,y,y,y,y,y,y,y,y,y,y,12,5,5,157,
+n,y,y,y,y,y,y,y,y,y,y,n,8,5,6,119,
+n,y,y,y,y,y,y,y,y,y,y,n,10,5,5,155,
+n,y,y,y,y,y,y,y,y,y,y,n,12,5,5,157,
+n,y,y,y,y,y,y,y,y,y,n,y,8,5,6,130,
+n,y,y,y,y,y,y,y,y,y,n,y,10,5,5,158,
+n,y,y,y,y,y,y,y,y,y,n,y,12,5,6,131,
+n,y,y,y,y,y,y,n,y,y,y,y,8,5,5,149,
+n,y,y,y,y,y,y,n,y,y,y,y,10,5,5,157,
+n,y,y,y,y,y,y,n,y,y,y,y,12,5,5,153,
+n,y,y,y,y,y,y,y,y,y,n,n,8,5,5,157,
+n,y,y,y,y,y,y,y,y,y,n,n,10,5,6,134,
+n,y,y,y,y,y,y,y,y,y,n,n,12,5,5,157,
+n,y,y,y,y,y,y,n,y,y,n,y,8,5,5,157,
+n,y,y,y,y,y,y,n,y,y,n,y,10,5,5,159,
+n,y,y,y,y,y,y,n,y,y,n,y,12,5,5,148,
+n,y,y,y,y,y,y,n,y,y,y,n,8,5,6,130,
+n,y,y,y,y,y,y,n,y,y,y,n,10,5,5,143,
+n,y,y,y,y,y,y,n,y,y,y,n,12,5,5,147,
+n,y,y,y,y,y,y,n,y,y,n,n,8,5,5,158,
+n,y,y,y,y,y,y,n,y,y,n,n,10,5,5,152,
+n,y,y,y,y,y,y,n,y,y,n,n,12,5,6,127,
