@@ -6,7 +6,6 @@ from ordering import nominal_cityblock
 
 with open('config.yaml', 'r') as file: config = yaml.load(file) #read configuration and assign to variables
 
-
 def apiTwitter():
 	# authorize tweepy instance using twitter tokens and return api reference
 	# print('connecting to stream...')
@@ -20,10 +19,6 @@ def apiTwitter():
 	auth.set_access_token(access_token, access_token_secret)
 	return tweepy.API(auth, wait_on_rate_limit=True, parser=tweepy.parsers.JSONParser())
 
-
-
-
-
 def fetch_data(handle):
 	api = apiTwitter()
 	try:		
@@ -34,7 +29,7 @@ def fetch_data(handle):
 		}	
 		return item
 	except Exception as e:
-		print('Problem collecting data for handle : ' + handle)
+		print('Problem collecting data for handle : {}'.format(handle))
 		print('1. Check your Internet connection.')
 		print('2. Make sure the handle exists.')
 		print('3. Try again.')
@@ -99,15 +94,6 @@ def cluster_score(dp):
 		sum_cmdk += cm_d_k 
 	return sum_rate/sum_cmdk
 
-def explain_score(realf, discf):
-	return
-
-def normalise_score(score):
-	return
-
-
-
-
 def rate(handle):
 	# get data
 	user_object = fetch_data(handle)
@@ -118,28 +104,30 @@ def rate(handle):
 	disc_features = discretise(features)
 	# check which cluster it belongs to 
 	score = cluster_score(disc_features)
-
 	# calculate score
-	explain_score(features, disc_features)
-	normalise_score(score)
+	norm_score = int(score*10)/10 +1.0
+	if norm_score < 0: norm_score = 0
+	if norm_score > 5: norm_score = 5
+	print('We can trust {} on a level of {} out of 5.'.format(user_object['user_profile']['name'], norm_score))
 	return
 
-
-
-
-
-
-
-
-
-
-
-
+def repeat_rate():
+	print('### Type "bye" to exit ###')
+	while True:
+		handle = input('Twitter handle : ' )
+		if handle == 'bye':
+			print('Bbye. Never lose trust 8-).')
+			break
+		elif handle == '':
+			continue
+		else:
+			rate(handle)
+			
+	return
 
 if __name__ == '__main__':
 	args = sys.argv[1:]
 	if not args:
-		handle = input('Twitter handle : ' )
-	else : handle = args[0]
-
-	rate(handle)
+		repeat_rate()
+	else : 
+		rate(args[0])
